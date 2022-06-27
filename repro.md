@@ -21,8 +21,8 @@ md project
 copy ..\micropython-stubs\snippets\esp8266 project
 copy ..\micropython-stubs\snippets\validate-stdlib project
 
-
 code .
+
 ```
 
 In vscode run the following command:  
@@ -35,4 +35,12 @@ In vscode run the following command:
    - Python › Analysis: Diagnostic Mode
      - Workspace
 
-
+ - Use Pymaker to connect to a MCU and open it in explorer
+   this will cause a multi-root workspace to be created and opened
+   
+ - Save the workspace as `stubs-esp-test.code-workspace`
+ 
+ to simplify clean testing : quit vscode and reopen it using 
+``` 
+code .\stubs-esp-test.code-workspace
+```
