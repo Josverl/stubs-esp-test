@@ -1,0 +1,4 @@
+
+# Dev requirements
+micropython-esp8266-stubs
+pyright
