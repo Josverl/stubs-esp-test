@@ -1,0 +1,719 @@
+[Info  - 07:57:03] (25540) Pylance language server 2022.6.30 (pyright 212d1465) starting
+[Info  - 07:57:03] (25540) Server root directory: c:\Users\josverl\.vscode\extensions\ms-python.vscode-pylance-2022.6.30\dist
+Notebook support: Legacy
+[Info  - 07:57:05] (25540) Background analysis(1) root directory: c:\Users\josverl\.vscode\extensions\ms-python.vscode-pylance-2022.6.30\dist
+[Info  - 07:57:05] (25540) Background analysis(1) started
+[Info  - 07:57:05] (25540) Background analysis(2) root directory: c:\Users\josverl\.vscode\extensions\ms-python.vscode-pylance-2022.6.30\dist
+[Info  - 07:57:05] (25540) Background analysis(2) started
+[Info  - 07:57:05] (25540) Background analysis(3) root directory: c:\Users\josverl\.vscode\extensions\ms-python.vscode-pylance-2022.6.30\dist
+[Info  - 07:57:05] (25540) Background analysis(3) started
+[Info  - 07:57:05] (25540) No configuration file found.
+[Info  - 07:57:05] (25540) No pyproject.toml file found.
+[Info  - 07:57:05] (25540) Setting pythonPath for service "root level": "c:\develop\MyPython\Scratch\stubs-esp8266-test\.venv\Scripts\python.exe"
+[Warn  - 07:57:05] (25540) stubPath c:\develop\MyPython\Scratch\stubs-esp8266-test\typings is not a valid directory.
+[Info  - 07:57:06] (25540) Assuming Python version 3.9
+[Info  - 07:57:06] (25540) Assuming Python platform Windows
+[Info  - 07:57:07] (25540) Search paths for c:\develop\MyPython\Scratch\stubs-esp8266-test
+[Info  - 07:57:07] (25540)   c:\Users\josverl\.vscode\extensions\ms-python.vscode-pylance-2022.6.30\dist\typeshed-fallback\stdlib
+[Info  - 07:57:07] (25540)   c:\develop\MyPython\Scratch\stubs-esp8266-test
+[Info  - 07:57:07] (25540)   c:\develop\MyPython\Scratch\stubs-esp8266-test\typings
+[Info  - 07:57:07] (25540)   c:\Users\josverl\.vscode\extensions\ms-python.vscode-pylance-2022.6.30\dist\typeshed-fallback\stubs\...
+[Info  - 07:57:07] (25540)   c:\Users\josverl\.vscode\extensions\ms-python.vscode-pylance-2022.6.30\dist\bundled\stubs
+[Info  - 07:57:07] (25540)   c:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0\DLLs
+[Info  - 07:57:07] (25540)   c:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0\Lib
+[Info  - 07:57:07] (25540)   c:\Users\josverl\AppData\Local\Microsoft\WindowsApps\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0
+[Info  - 07:57:07] (25540)   c:\develop\MyPython\Scratch\stubs-esp8266-test\.venv
+[Info  - 07:57:07] (25540)   c:\develop\MyPython\Scratch\stubs-esp8266-test\.venv\Lib\site-packages
+[Info  - 07:57:08] (25540) Adding fs watcher for library directories:
+ C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0\DLLs
+C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0\lib
+C:\Users\josverl\AppData\Local\Microsoft\WindowsApps\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0
+c:\develop\MyPython\Scratch\stubs-esp8266-test\.venv
+c:\develop\MyPython\Scratch\stubs-esp8266-test\.venv\lib\site-packages
+[Info  - 07:57:08] (25540) Adding fs watcher for directories:
+ c:\develop\MyPython\Scratch\stubs-esp8266-test
+[Info  - 07:57:08] (25540) Searching for source files
+[Info  - 07:57:08] (25540) Found 16 source files
+(25540) Background analysis message: setConfigOptions
+(25540) Background analysis message: setImportResolver
+(25540) Background analysis message: ensurePartialStubPackages
+(25540) Background analysis message: setTrackedFiles
+[Info  - 07:57:08] (25540) No configuration file found.
+[Info  - 07:57:08] (25540) No pyproject.toml file found.
+[Info  - 07:57:08] (25540) Setting pythonPath for service "esp8266": "C:\Users\josverl\AppData\Local\Microsoft\WindowsApps\python3.9.exe"
+[Warn  - 07:57:08] (25540) stubPath c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266\typings is not a valid directory.
+[Info  - 07:57:08] (25540) Assuming Python version 3.9
+[Info  - 07:57:08] (25540) Assuming Python platform Windows
+[Info  - 07:57:09] (25540) Search paths for c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266
+[Info  - 07:57:09] (25540)   c:\Users\josverl\.vscode\extensions\ms-python.vscode-pylance-2022.6.30\dist\typeshed-fallback\stdlib
+[Info  - 07:57:09] (25540)   c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266
+[Info  - 07:57:09] (25540)   c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266\typings
+[Info  - 07:57:09] (25540)   c:\Users\josverl\.vscode\extensions\ms-python.vscode-pylance-2022.6.30\dist\typeshed-fallback\stubs\...
+[Info  - 07:57:09] (25540)   c:\Users\josverl\.vscode\extensions\ms-python.vscode-pylance-2022.6.30\dist\bundled\stubs
+[Info  - 07:57:09] (25540)   c:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0\DLLs
+[Info  - 07:57:09] (25540)   c:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0\Lib
+[Info  - 07:57:09] (25540)   c:\Users\josverl\AppData\Local\Microsoft\WindowsApps\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0
+[Info  - 07:57:09] (25540)   c:\Users\josverl\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0\LocalCache\local-packages\Python39\site-packages
+[Info  - 07:57:09] (25540)   c:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0
+[Info  - 07:57:09] (25540)   c:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0\Lib\site-packages
+[Info  - 07:57:09] (25540) Adding fs watcher for library directories:
+ C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0\DLLs
+C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0\lib
+C:\Users\josverl\AppData\Local\Microsoft\WindowsApps\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0
+C:\Users\josverl\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0\LocalCache\local-packages\Python39\site-packages
+C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0
+C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0\lib\site-packages
+[Info  - 07:57:09] (25540) Adding fs watcher for directories:
+ c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266
+[Info  - 07:57:09] (25540) Searching for source files
+[Info  - 07:57:09] (25540) Found 16 source files
+[Info  - 07:57:09] (25540) SourceFile: Received fs event 'change' for path 'c:\develop\MyPython\Scratch\stubs-esp8266-test\.git\fsmonitor--daemon\cookies\16172-1579'
+(25540) Background analysis message: markAllFilesDirty
+(25540) Background analysis message: analyze
+(25540) Background analysis message: setConfigOptions
+(25540) Background analysis message: setImportResolver
+(25540) Background analysis message: ensurePartialStubPackages
+(25540) Background analysis message: setTrackedFiles
+[Info  - 07:57:09] (25540) No configuration file found.
+[Info  - 07:57:09] (25540) No pyproject.toml file found.
+[Info  - 07:57:09] (25540) Setting pythonPath for service "esp32": "C:\Users\josverl\AppData\Local\Microsoft\WindowsApps\python3.9.exe"
+[Warn  - 07:57:09] (25540) stubPath c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp32\typings is not a valid directory.
+[Info  - 07:57:10] (25540) Assuming Python version 3.9
+[Info  - 07:57:10] (25540) Assuming Python platform Windows
+[Info  - 07:57:10] (25540) Search paths for c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp32
+[Info  - 07:57:10] (25540)   c:\Users\josverl\.vscode\extensions\ms-python.vscode-pylance-2022.6.30\dist\typeshed-fallback\stdlib
+[Info  - 07:57:10] (25540)   c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp32
+[Info  - 07:57:10] (25540)   c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp32\typings
+[Info  - 07:57:10] (25540)   c:\Users\josverl\.vscode\extensions\ms-python.vscode-pylance-2022.6.30\dist\typeshed-fallback\stubs\...
+[Info  - 07:57:10] (25540)   c:\Users\josverl\.vscode\extensions\ms-python.vscode-pylance-2022.6.30\dist\bundled\stubs
+[Info  - 07:57:10] (25540)   c:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0\DLLs
+[Info  - 07:57:10] (25540)   c:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0\Lib
+[Info  - 07:57:10] (25540)   c:\Users\josverl\AppData\Local\Microsoft\WindowsApps\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0
+[Info  - 07:57:10] (25540)   c:\Users\josverl\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0\LocalCache\local-packages\Python39\site-packages
+[Info  - 07:57:10] (25540)   c:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0
+[Info  - 07:57:10] (25540)   c:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0\Lib\site-packages
+[Info  - 07:57:11] (25540) Adding fs watcher for library directories:
+ C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0\DLLs
+C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0\lib
+C:\Users\josverl\AppData\Local\Microsoft\WindowsApps\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0
+C:\Users\josverl\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0\LocalCache\local-packages\Python39\site-packages
+C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0
+C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0\lib\site-packages
+[Info  - 07:57:11] (25540) Adding fs watcher for directories:
+ c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp32
+[Info  - 07:57:11] (25540) Searching for source files
+[Info  - 07:57:11] (25540) No source files found.
+(25540) Background analysis message: markAllFilesDirty
+(25540) Background analysis message: analyze
+(25540) [BG(1)] analyzing: c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266\boot.py ...
+(25540) [BG(1)]   parsing: c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266\boot.py [fs read 1ms] (35ms)
+(25540) [BG(1)]   parsing: c:\Users\josverl\.vscode\extensions\ms-python.vscode-pylance-2022.6.30\dist\typeshed-fallback\stdlib\builtins.pyi [fs read 7ms] (241ms)
+(25540) [BG(1)]   binding: c:\Users\josverl\.vscode\extensions\ms-python.vscode-pylance-2022.6.30\dist\typeshed-fallback\stdlib\builtins.pyi (88ms)
+(25540) [BG(1)]   binding: c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266\boot.py (0ms)
+(25540) [BG(1)]   checking: c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266\boot.py (2ms)
+(25540) [BG(1)] analyzing: c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266\boot.py (370ms)
+(25540) Background analysis message: resumeAnalysis
+(25540) Background analysis message: setConfigOptions
+(25540) Background analysis message: setImportResolver
+(25540) Background analysis message: ensurePartialStubPackages
+(25540) Background analysis message: setTrackedFiles
+(25540) Background analysis message: markAllFilesDirty
+(25540) [BG(1)] analyzing: c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266\main.py ...
+(25540) [BG(1)]   parsing: c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266\main.py [fs read 4ms] (5ms)
+(25540) [BG(1)]   binding: c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266\main.py (0ms)
+(25540) [BG(1)]   checking: c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266\main.py (1ms)
+(25540) [BG(1)] analyzing: c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266\main.py (7ms)
+(25540) [BG(2)] parsing: c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266\boot.py [fs read 0ms] (53ms)
+(25540) Background analysis message: analyze
+(25540) [BG(1)] analyzing: c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266\validate_bare_const.py ...
+(25540) [BG(1)]   parsing: c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266\validate_bare_const.py [fs read 0ms] (47ms)
+(25540) [BG(1)]   binding: c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266\validate_bare_const.py (0ms)
+(25540) [BG(1)]   checking: c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266\validate_bare_const.py ...
+(25540) [BG(1)]     parsing: c:\Users\josverl\.vscode\extensions\ms-python.vscode-pylance-2022.6.30\dist\typeshed-fallback\stdlib\typing_extensions.pyi [fs read 1ms] (19ms)
+(25540) [BG(1)]     binding: c:\Users\josverl\.vscode\extensions\ms-python.vscode-pylance-2022.6.30\dist\typeshed-fallback\stdlib\typing_extensions.pyi (4ms)
+(25540) [BG(1)]     parsing: c:\Users\josverl\.vscode\extensions\ms-python.vscode-pylance-2022.6.30\dist\typeshed-fallback\stdlib\typing.pyi [fs read 1ms] (55ms)
+(25540) [BG(1)]     binding: c:\Users\josverl\.vscode\extensions\ms-python.vscode-pylance-2022.6.30\dist\typeshed-fallback\stdlib\typing.pyi (10ms)
+(25540) [BG(1)]     parsing: c:\Users\josverl\.vscode\extensions\ms-python.vscode-pylance-2022.6.30\dist\typeshed-fallback\stdlib\_typeshed\__init__.pyi [fs read 1ms] (45ms)
+(25540) [BG(1)]     binding: c:\Users\josverl\.vscode\extensions\ms-python.vscode-pylance-2022.6.30\dist\typeshed-fallback\stdlib\_typeshed\__init__.pyi (3ms)
+(25540) [BG(1)]     parsing: c:\Users\josverl\.vscode\extensions\ms-python.vscode-pylance-2022.6.30\dist\typeshed-fallback\stdlib\abc.pyi [fs read 0ms] (1ms)
+(25540) [BG(1)]     binding: c:\Users\josverl\.vscode\extensions\ms-python.vscode-pylance-2022.6.30\dist\typeshed-fallback\stdlib\abc.pyi (1ms)
+(25540) [BG(1)]     parsing: c:\develop\MyPython\Scratch\stubs-esp8266-test\.venv\Lib\site-packages\micropython.pyi [fs read 0ms] (6ms)
+(25540) [BG(1)]     binding: c:\develop\MyPython\Scratch\stubs-esp8266-test\.venv\Lib\site-packages\micropython.pyi ...
+(25540) [BG(1)]       parsing: c:\develop\MyPython\Scratch\stubs-esp8266-test\.venv\Lib\site-packages\pycopy.pyi [fs read 0ms] (1ms)
+(25540) [BG(1)]       binding: c:\develop\MyPython\Scratch\stubs-esp8266-test\.venv\Lib\site-packages\pycopy.pyi (0ms)
+(25540) [BG(1)]     binding: c:\develop\MyPython\Scratch\stubs-esp8266-test\.venv\Lib\site-packages\micropython.pyi (2ms)
+(25540) [BG(2)] parsing: c:\Users\josverl\.vscode\extensions\ms-python.vscode-pylance-2022.6.30\dist\typeshed-fallback\stdlib\builtins.pyi [fs read 4ms] (199ms)
+(25540) [BG(1)]   checking: c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266\validate_bare_const.py (198ms)
+(25540) [BG(1)] analyzing: c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266\validate_bare_const.py (247ms)
+(25540) Background analysis message: resumeAnalysis
+(25540) [BG(1)] analyzing: c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266\validate_collections.py ...
+(25540) [BG(1)]   parsing: c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266\validate_collections.py [fs read 12ms] (15ms)
+(25540) [BG(1)]   binding: c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266\validate_collections.py (2ms)
+(25540) [BG(1)]   checking: c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266\validate_collections.py ...
+(25540) [BG(1)]     parsing: c:\Users\josverl\.vscode\extensions\ms-python.vscode-pylance-2022.6.30\dist\typeshed-fallback\stdlib\collections\__init__.pyi [fs read 13ms] (35ms)
+(25540) [BG(2)] binding: c:\Users\josverl\.vscode\extensions\ms-python.vscode-pylance-2022.6.30\dist\typeshed-fallback\stdlib\builtins.pyi (65ms)
+(25540) [BG(1)]     binding: c:\Users\josverl\.vscode\extensions\ms-python.vscode-pylance-2022.6.30\dist\typeshed-fallback\stdlib\collections\__init__.pyi ...
+(25540) [BG(1)]       parsing: c:\Users\josverl\.vscode\extensions\ms-python.vscode-pylance-2022.6.30\dist\typeshed-fallback\stdlib\_collections_abc.pyi [fs read 0ms] (2ms)
+(25540) [BG(2)] binding: c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266\boot.py (0ms)
+(25540) [BG(2)] indexing: c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266\boot.py [found 0] (1ms)
+(25540) Indexing Done: c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266\boot.py
+(25540) [BG(1)]       binding: c:\Users\josverl\.vscode\extensions\ms-python.vscode-pylance-2022.6.30\dist\typeshed-fallback\stdlib\_collections_abc.pyi (1ms)
+(25540) [BG(2)] parsing: c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266\main.py [fs read 4ms] (5ms)
+(25540) [BG(2)] binding: c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266\main.py (0ms)
+(25540) [BG(2)] indexing: c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266\main.py [found 0] (0ms)
+(25540) Indexing Done: c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266\main.py
+(25540) [BG(2)] parsing: c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266\validate_bare_const.py [fs read 1ms] (7ms)
+[Info  - 07:57:11] (25540) Could not import 'micropython' in file 'c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266\validate_bare_const.py'
+[Info  - 07:57:11] (25540)   Looking in stubPath 'c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266\typings'
+[Info  - 07:57:11] (25540)   Attempting to resolve stub package using root path 'c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266\typings'
+[Info  - 07:57:11] (25540)   Attempting to resolve using root path 'c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266\typings'
+[Info  - 07:57:11] (25540)   Looking in root directory of execution environment 'c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266'
+[Info  - 07:57:11] (25540)   Attempting to resolve stub package using root path 'c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266'
+[Info  - 07:57:11] (25540)   Attempting to resolve using root path 'c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266'
+[Info  - 07:57:11] (25540)   Looking in python search path 'c:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0\DLLs'
+[Info  - 07:57:11] (25540)   Attempting to resolve stub package using root path 'c:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0\DLLs'
+[Info  - 07:57:11] (25540)   Attempting to resolve using root path 'c:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0\DLLs'
+[Info  - 07:57:11] (25540)   Looking in python search path 'c:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0\Lib'
+[Info  - 07:57:11] (25540)   Attempting to resolve stub package using root path 'c:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0\Lib'
+[Info  - 07:57:11] (25540)   Attempting to resolve using root path 'c:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0\Lib'
+[Info  - 07:57:11] (25540)   Looking in python search path 'c:\Users\josverl\AppData\Local\Microsoft\WindowsApps\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0'
+[Info  - 07:57:11] (25540)   Attempting to resolve stub package using root path 'c:\Users\josverl\AppData\Local\Microsoft\WindowsApps\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0'
+[Info  - 07:57:11] (25540)   Attempting to resolve using root path 'c:\Users\josverl\AppData\Local\Microsoft\WindowsApps\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0'
+[Info  - 07:57:11] (25540)   Looking in python search path 'c:\Users\josverl\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0\LocalCache\local-packages\Python39\site-packages'
+[Info  - 07:57:11] (25540)   Attempting to resolve stub package using root path 'c:\Users\josverl\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0\LocalCache\local-packages\Python39\site-packages'
+[Info  - 07:57:11] (25540)   Attempting to resolve using root path 'c:\Users\josverl\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0\LocalCache\local-packages\Python39\site-packages'
+[Info  - 07:57:11] (25540)   Looking in python search path 'c:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0'
+[Info  - 07:57:11] (25540)   Attempting to resolve stub package using root path 'c:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0'
+[Info  - 07:57:11] (25540)   Attempting to resolve using root path 'c:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0'
+[Info  - 07:57:11] (25540)   Looking in python search path 'c:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0\Lib\site-packages'
+[Info  - 07:57:11] (25540)   Attempting to resolve stub package using root path 'c:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0\Lib\site-packages'
+[Info  - 07:57:11] (25540)   Attempting to resolve using root path 'c:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0\Lib\site-packages'
+[Info  - 07:57:11] (25540)   Looking in bundled stubs path 'c:\Users\josverl\.vscode\extensions\ms-python.vscode-pylance-2022.6.30\dist\bundled\stubs'
+[Info  - 07:57:11] (25540)   Attempting to resolve stub package using root path 'c:\Users\josverl\.vscode\extensions\ms-python.vscode-pylance-2022.6.30\dist\bundled\stubs'
+[Info  - 07:57:11] (25540)   Attempting to resolve using root path 'c:\Users\josverl\.vscode\extensions\ms-python.vscode-pylance-2022.6.30\dist\bundled\stubs'
+[Info  - 07:57:11] (25540)   Looking for typeshed stdlib path
+[Info  - 07:57:11] (25540)   Looking for typeshed stdlib path
+[Info  - 07:57:11] (25540)   Attempting to resolve using root path 'c:\Users\josverl\.vscode\extensions\ms-python.vscode-pylance-2022.6.30\dist\typeshed-fallback\stdlib'
+[Info  - 07:57:11] (25540)   Typeshed path not found
+[Info  - 07:57:11] (25540)   Looking for typeshed third-party path
+[Info  - 07:57:11] (25540)   Looking for typeshed stubs path
+[Info  - 07:57:11] (25540)   Typeshed path not found
+(25540) [BG(1)]     binding: c:\Users\josverl\.vscode\extensions\ms-python.vscode-pylance-2022.6.30\dist\typeshed-fallback\stdlib\collections\__init__.pyi (18ms)
+(25540) [BG(2)] binding: c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266\validate_bare_const.py (2ms)
+(25540) [BG(2)] indexing: c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266\validate_bare_const.py [found 1] (1ms)
+(25540) Indexing Done: c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266\validate_bare_const.py
+(25540) [BG(2)] parsing: c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266\validate_collections.py [fs read 1ms] (12ms)
+(25540) [BG(2)] binding: c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266\validate_collections.py (2ms)
+(25540) [BG(2)] indexing: c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266\validate_collections.py [found 6] (0ms)
+(25540) Indexing Done: c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266\validate_collections.py
+(25540) [BG(2)] parsing: c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266\validate_esp.py [fs read 12ms] (22ms)
+[Info  - 07:57:11] (25540) Could not import 'machine' in file 'c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266\validate_esp.py'
+[Info  - 07:57:11] (25540)   Looking in stubPath 'c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266\typings'
+[Info  - 07:57:11] (25540)   Attempting to resolve stub package using root path 'c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266\typings'
+[Info  - 07:57:11] (25540)   Attempting to resolve using root path 'c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266\typings'
+[Info  - 07:57:11] (25540)   Looking in root directory of execution environment 'c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266'
+[Info  - 07:57:11] (25540)   Attempting to resolve stub package using root path 'c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266'
+[Info  - 07:57:11] (25540)   Attempting to resolve using root path 'c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266'
+[Info  - 07:57:11] (25540)   Looking in python search path 'c:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0\DLLs'
+[Info  - 07:57:11] (25540)   Attempting to resolve stub package using root path 'c:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0\DLLs'
+[Info  - 07:57:11] (25540)   Attempting to resolve using root path 'c:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0\DLLs'
+[Info  - 07:57:11] (25540)   Looking in python search path 'c:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0\Lib'
+[Info  - 07:57:11] (25540)   Attempting to resolve stub package using root path 'c:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0\Lib'
+[Info  - 07:57:11] (25540)   Attempting to resolve using root path 'c:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0\Lib'
+[Info  - 07:57:11] (25540)   Looking in python search path 'c:\Users\josverl\AppData\Local\Microsoft\WindowsApps\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0'
+[Info  - 07:57:11] (25540)   Attempting to resolve stub package using root path 'c:\Users\josverl\AppData\Local\Microsoft\WindowsApps\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0'
+[Info  - 07:57:11] (25540)   Attempting to resolve using root path 'c:\Users\josverl\AppData\Local\Microsoft\WindowsApps\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0'
+[Info  - 07:57:11] (25540)   Looking in python search path 'c:\Users\josverl\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0\LocalCache\local-packages\Python39\site-packages'
+[Info  - 07:57:11] (25540)   Attempting to resolve stub package using root path 'c:\Users\josverl\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0\LocalCache\local-packages\Python39\site-packages'
+[Info  - 07:57:11] (25540)   Attempting to resolve using root path 'c:\Users\josverl\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0\LocalCache\local-packages\Python39\site-packages'
+[Info  - 07:57:11] (25540)   Looking in python search path 'c:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0'
+[Info  - 07:57:11] (25540)   Attempting to resolve stub package using root path 'c:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0'
+[Info  - 07:57:11] (25540)   Attempting to resolve using root path 'c:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0'
+[Info  - 07:57:11] (25540)   Looking in python search path 'c:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0\Lib\site-packages'
+[Info  - 07:57:11] (25540)   Attempting to resolve stub package using root path 'c:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0\Lib\site-packages'
+[Info  - 07:57:11] (25540)   Attempting to resolve using root path 'c:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0\Lib\site-packages'
+[Info  - 07:57:11] (25540)   Looking in bundled stubs path 'c:\Users\josverl\.vscode\extensions\ms-python.vscode-pylance-2022.6.30\dist\bundled\stubs'
+[Info  - 07:57:11] (25540)   Attempting to resolve stub package using root path 'c:\Users\josverl\.vscode\extensions\ms-python.vscode-pylance-2022.6.30\dist\bundled\stubs'
+[Info  - 07:57:11] (25540)   Attempting to resolve using root path 'c:\Users\josverl\.vscode\extensions\ms-python.vscode-pylance-2022.6.30\dist\bundled\stubs'
+[Info  - 07:57:11] (25540)   Looking for typeshed stdlib path
+[Info  - 07:57:11] (25540)   Looking for typeshed stdlib path
+[Info  - 07:57:11] (25540)   Attempting to resolve using root path 'c:\Users\josverl\.vscode\extensions\ms-python.vscode-pylance-2022.6.30\dist\typeshed-fallback\stdlib'
+[Info  - 07:57:11] (25540)   Typeshed path not found
+[Info  - 07:57:11] (25540)   Looking for typeshed third-party path
+[Info  - 07:57:11] (25540)   Looking for typeshed stubs path
+[Info  - 07:57:11] (25540)   Typeshed path not found
+[Info  - 07:57:11] (25540) Could not import 'esp' in file 'c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266\validate_esp.py'
+[Info  - 07:57:11] (25540)   Looking in stubPath 'c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266\typings'
+[Info  - 07:57:11] (25540)   Attempting to resolve stub package using root path 'c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266\typings'
+[Info  - 07:57:11] (25540)   Attempting to resolve using root path 'c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266\typings'
+[Info  - 07:57:11] (25540)   Looking in root directory of execution environment 'c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266'
+[Info  - 07:57:11] (25540)   Attempting to resolve stub package using root path 'c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266'
+[Info  - 07:57:11] (25540)   Attempting to resolve using root path 'c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266'
+[Info  - 07:57:11] (25540)   Looking in python search path 'c:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0\DLLs'
+[Info  - 07:57:11] (25540)   Attempting to resolve stub package using root path 'c:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0\DLLs'
+[Info  - 07:57:11] (25540)   Attempting to resolve using root path 'c:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0\DLLs'
+[Info  - 07:57:11] (25540)   Looking in python search path 'c:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0\Lib'
+[Info  - 07:57:11] (25540)   Attempting to resolve stub package using root path 'c:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0\Lib'
+[Info  - 07:57:11] (25540)   Attempting to resolve using root path 'c:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0\Lib'
+[Info  - 07:57:11] (25540)   Looking in python search path 'c:\Users\josverl\AppData\Local\Microsoft\WindowsApps\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0'
+[Info  - 07:57:11] (25540)   Attempting to resolve stub package using root path 'c:\Users\josverl\AppData\Local\Microsoft\WindowsApps\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0'
+[Info  - 07:57:11] (25540)   Attempting to resolve using root path 'c:\Users\josverl\AppData\Local\Microsoft\WindowsApps\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0'
+[Info  - 07:57:11] (25540)   Looking in python search path 'c:\Users\josverl\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0\LocalCache\local-packages\Python39\site-packages'
+[Info  - 07:57:11] (25540)   Attempting to resolve stub package using root path 'c:\Users\josverl\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0\LocalCache\local-packages\Python39\site-packages'
+[Info  - 07:57:11] (25540)   Attempting to resolve using root path 'c:\Users\josverl\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0\LocalCache\local-packages\Python39\site-packages'
+[Info  - 07:57:11] (25540)   Looking in python search path 'c:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0'
+[Info  - 07:57:11] (25540)   Attempting to resolve stub package using root path 'c:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0'
+[Info  - 07:57:11] (25540)   Attempting to resolve using root path 'c:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0'
+[Info  - 07:57:11] (25540)   Looking in python search path 'c:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0\Lib\site-packages'
+[Info  - 07:57:11] (25540)   Attempting to resolve stub package using root path 'c:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0\Lib\site-packages'
+[Info  - 07:57:11] (25540)   Attempting to resolve using root path 'c:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0\Lib\site-packages'
+[Info  - 07:57:11] (25540)   Looking in bundled stubs path 'c:\Users\josverl\.vscode\extensions\ms-python.vscode-pylance-2022.6.30\dist\bundled\stubs'
+[Info  - 07:57:11] (25540)   Attempting to resolve stub package using root path 'c:\Users\josverl\.vscode\extensions\ms-python.vscode-pylance-2022.6.30\dist\bundled\stubs'
+[Info  - 07:57:11] (25540)   Attempting to resolve using root path 'c:\Users\josverl\.vscode\extensions\ms-python.vscode-pylance-2022.6.30\dist\bundled\stubs'
+[Info  - 07:57:11] (25540)   Looking for typeshed stdlib path
+[Info  - 07:57:11] (25540)   Looking for typeshed stdlib path
+[Info  - 07:57:11] (25540)   Attempting to resolve using root path 'c:\Users\josverl\.vscode\extensions\ms-python.vscode-pylance-2022.6.30\dist\typeshed-fallback\stdlib'
+[Info  - 07:57:11] (25540)   Typeshed path not found
+[Info  - 07:57:11] (25540)   Looking for typeshed third-party path
+[Info  - 07:57:11] (25540)   Looking for typeshed stubs path
+[Info  - 07:57:11] (25540)   Typeshed path not found
+(25540) [BG(2)] binding: c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266\validate_esp.py (0ms)
+(25540) [BG(2)] indexing: c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266\validate_esp.py [found 3] (1ms)
+(25540) Indexing Done: c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266\validate_esp.py
+(25540) [BG(2)] parsing: c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266\validate_functions.py [fs read 8ms] (18ms)
+(25540) [BG(1)]     parsing: c:\Users\josverl\.vscode\extensions\ms-python.vscode-pylance-2022.6.30\dist\typeshed-fallback\stdlib\collections\abc.pyi [fs read 0ms] (1ms)
+(25540) [BG(1)]     binding: c:\Users\josverl\.vscode\extensions\ms-python.vscode-pylance-2022.6.30\dist\typeshed-fallback\stdlib\collections\abc.pyi (1ms)
+(25540) [BG(2)] binding: c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266\validate_functions.py ...
+(25540) [BG(2)]   parsing: c:\Users\josverl\.vscode\extensions\ms-python.vscode-pylance-2022.6.30\dist\typeshed-fallback\stdlib\socket.pyi [fs read 10ms] (53ms)
+(25540) [BG(1)]   checking: c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266\validate_collections.py (168ms)
+(25540) [BG(1)] analyzing: c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266\validate_collections.py (185ms)
+(25540) [BG(2)]   binding: c:\Users\josverl\.vscode\extensions\ms-python.vscode-pylance-2022.6.30\dist\typeshed-fallback\stdlib\socket.pyi (8ms)
+(25540) [BG(2)] binding: c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266\validate_functions.py (65ms)
+(25540) [BG(2)] indexing: c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266\validate_functions.py [found 1] (0ms)
+(25540) Indexing Done: c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266\validate_functions.py
+(25540) [BG(1)] analyzing: c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266\validate_esp.py ...
+(25540) [BG(1)]   parsing: c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266\validate_esp.py [fs read 0ms] (16ms)
+(25540) [BG(1)]   binding: c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266\validate_esp.py (0ms)
+(25540) [BG(2)] parsing: c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266\validate_gc.py [fs read 11ms] (23ms)
+(25540) [BG(2)] binding: c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266\validate_gc.py (1ms)
+(25540) [BG(2)] indexing: c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266\validate_gc.py [found 2] (0ms)
+(25540) Indexing Done: c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266\validate_gc.py
+(25540) [BG(1)]   checking: c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266\validate_esp.py ...
+(25540) [BG(1)]     parsing: c:\develop\MyPython\Scratch\stubs-esp8266-test\.venv\Lib\site-packages\machine.pyi [fs read 12ms] (21ms)
+(25540) [BG(1)]     binding: c:\develop\MyPython\Scratch\stubs-esp8266-test\.venv\Lib\site-packages\machine.pyi (5ms)
+(25540) [BG(2)] parsing: c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266\validate_io.py [fs read 9ms] (10ms)
+(25540) [BG(2)] binding: c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266\validate_io.py (1ms)
+(25540) [BG(2)] indexing: c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266\validate_io.py [found 2] (0ms)
+(25540) Indexing Done: c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266\validate_io.py
+(25540) [BG(1)]     parsing: c:\develop\MyPython\Scratch\stubs-esp8266-test\.venv\Lib\site-packages\esp.pyi [fs read 9ms] (11ms)
+(25540) [BG(1)]     binding: c:\develop\MyPython\Scratch\stubs-esp8266-test\.venv\Lib\site-packages\esp.pyi (1ms)
+(25540) [BG(2)] parsing: c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266\validate_machine.py [fs read 9ms] (13ms)
+[Info  - 07:57:11] (25540) Could not import 'machine' in file 'c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266\validate_machine.py'
+[Info  - 07:57:11] (25540)   Looking in stubPath 'c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266\typings'
+[Info  - 07:57:11] (25540)   Attempting to resolve stub package using root path 'c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266\typings'
+[Info  - 07:57:11] (25540)   Attempting to resolve using root path 'c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266\typings'
+[Info  - 07:57:11] (25540)   Looking in root directory of execution environment 'c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266'
+[Info  - 07:57:11] (25540)   Attempting to resolve stub package using root path 'c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266'
+[Info  - 07:57:11] (25540)   Attempting to resolve using root path 'c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266'
+[Info  - 07:57:11] (25540)   Looking in python search path 'c:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0\DLLs'
+[Info  - 07:57:11] (25540)   Attempting to resolve stub package using root path 'c:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0\DLLs'
+[Info  - 07:57:11] (25540)   Attempting to resolve using root path 'c:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0\DLLs'
+[Info  - 07:57:11] (25540)   Looking in python search path 'c:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0\Lib'
+[Info  - 07:57:11] (25540)   Attempting to resolve stub package using root path 'c:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0\Lib'
+[Info  - 07:57:11] (25540)   Attempting to resolve using root path 'c:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0\Lib'
+[Info  - 07:57:11] (25540)   Looking in python search path 'c:\Users\josverl\AppData\Local\Microsoft\WindowsApps\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0'
+[Info  - 07:57:11] (25540)   Attempting to resolve stub package using root path 'c:\Users\josverl\AppData\Local\Microsoft\WindowsApps\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0'
+[Info  - 07:57:11] (25540)   Attempting to resolve using root path 'c:\Users\josverl\AppData\Local\Microsoft\WindowsApps\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0'
+[Info  - 07:57:11] (25540)   Looking in python search path 'c:\Users\josverl\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0\LocalCache\local-packages\Python39\site-packages'
+[Info  - 07:57:11] (25540)   Attempting to resolve stub package using root path 'c:\Users\josverl\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0\LocalCache\local-packages\Python39\site-packages'
+[Info  - 07:57:11] (25540)   Attempting to resolve using root path 'c:\Users\josverl\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0\LocalCache\local-packages\Python39\site-packages'
+[Info  - 07:57:11] (25540)   Looking in python search path 'c:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0'
+[Info  - 07:57:11] (25540)   Attempting to resolve stub package using root path 'c:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0'
+[Info  - 07:57:11] (25540)   Attempting to resolve using root path 'c:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0'
+[Info  - 07:57:11] (25540)   Looking in python search path 'c:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0\Lib\site-packages'
+[Info  - 07:57:11] (25540)   Attempting to resolve stub package using root path 'c:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0\Lib\site-packages'
+[Info  - 07:57:11] (25540)   Attempting to resolve using root path 'c:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0\Lib\site-packages'
+[Info  - 07:57:11] (25540)   Looking in bundled stubs path 'c:\Users\josverl\.vscode\extensions\ms-python.vscode-pylance-2022.6.30\dist\bundled\stubs'
+[Info  - 07:57:11] (25540)   Attempting to resolve stub package using root path 'c:\Users\josverl\.vscode\extensions\ms-python.vscode-pylance-2022.6.30\dist\bundled\stubs'
+[Info  - 07:57:11] (25540)   Attempting to resolve using root path 'c:\Users\josverl\.vscode\extensions\ms-python.vscode-pylance-2022.6.30\dist\bundled\stubs'
+[Info  - 07:57:11] (25540)   Looking for typeshed stdlib path
+[Info  - 07:57:11] (25540)   Looking for typeshed stdlib path
+[Info  - 07:57:11] (25540)   Attempting to resolve using root path 'c:\Users\josverl\.vscode\extensions\ms-python.vscode-pylance-2022.6.30\dist\typeshed-fallback\stdlib'
+[Info  - 07:57:11] (25540)   Typeshed path not found
+[Info  - 07:57:11] (25540)   Looking for typeshed third-party path
+[Info  - 07:57:11] (25540)   Looking for typeshed stubs path
+[Info  - 07:57:11] (25540)   Typeshed path not found
+(25540) [BG(2)] binding: c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266\validate_machine.py (0ms)
+(25540) [BG(2)] indexing: c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266\validate_machine.py [found 1] (0ms)
+(25540) Indexing Done: c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266\validate_machine.py
+(25540) [BG(1)]   checking: c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266\validate_esp.py (47ms)
+(25540) [BG(1)] analyzing: c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266\validate_esp.py (65ms)
+(25540) Background analysis message: resumeAnalysis
+(25540) [BG(2)] parsing: c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266\validate_micropython.py [fs read 10ms] (14ms)
+[Info  - 07:57:11] (25540) Could not import 'micropython' in file 'c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266\validate_micropython.py'
+[Info  - 07:57:11] (25540)   Looking in stubPath 'c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266\typings'
+[Info  - 07:57:11] (25540)   Attempting to resolve stub package using root path 'c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266\typings'
+[Info  - 07:57:11] (25540)   Attempting to resolve using root path 'c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266\typings'
+[Info  - 07:57:11] (25540)   Looking in root directory of execution environment 'c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266'
+[Info  - 07:57:11] (25540)   Attempting to resolve stub package using root path 'c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266'
+[Info  - 07:57:11] (25540)   Attempting to resolve using root path 'c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266'
+[Info  - 07:57:11] (25540)   Looking in python search path 'c:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0\DLLs'
+[Info  - 07:57:11] (25540)   Attempting to resolve stub package using root path 'c:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0\DLLs'
+[Info  - 07:57:11] (25540)   Attempting to resolve using root path 'c:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0\DLLs'
+[Info  - 07:57:11] (25540)   Looking in python search path 'c:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0\Lib'
+[Info  - 07:57:11] (25540)   Attempting to resolve stub package using root path 'c:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0\Lib'
+[Info  - 07:57:11] (25540)   Attempting to resolve using root path 'c:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0\Lib'
+[Info  - 07:57:11] (25540)   Looking in python search path 'c:\Users\josverl\AppData\Local\Microsoft\WindowsApps\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0'
+[Info  - 07:57:11] (25540)   Attempting to resolve stub package using root path 'c:\Users\josverl\AppData\Local\Microsoft\WindowsApps\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0'
+[Info  - 07:57:11] (25540)   Attempting to resolve using root path 'c:\Users\josverl\AppData\Local\Microsoft\WindowsApps\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0'
+[Info  - 07:57:11] (25540)   Looking in python search path 'c:\Users\josverl\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0\LocalCache\local-packages\Python39\site-packages'
+[Info  - 07:57:11] (25540)   Attempting to resolve stub package using root path 'c:\Users\josverl\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0\LocalCache\local-packages\Python39\site-packages'
+[Info  - 07:57:11] (25540)   Attempting to resolve using root path 'c:\Users\josverl\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0\LocalCache\local-packages\Python39\site-packages'
+[Info  - 07:57:11] (25540)   Looking in python search path 'c:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0'
+[Info  - 07:57:11] (25540)   Attempting to resolve stub package using root path 'c:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0'
+[Info  - 07:57:11] (25540)   Attempting to resolve using root path 'c:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0'
+[Info  - 07:57:11] (25540)   Looking in python search path 'c:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0\Lib\site-packages'
+[Info  - 07:57:11] (25540)   Attempting to resolve stub package using root path 'c:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0\Lib\site-packages'
+[Info  - 07:57:11] (25540)   Attempting to resolve using root path 'c:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0\Lib\site-packages'
+[Info  - 07:57:11] (25540)   Looking in bundled stubs path 'c:\Users\josverl\.vscode\extensions\ms-python.vscode-pylance-2022.6.30\dist\bundled\stubs'
+[Info  - 07:57:11] (25540)   Attempting to resolve stub package using root path 'c:\Users\josverl\.vscode\extensions\ms-python.vscode-pylance-2022.6.30\dist\bundled\stubs'
+[Info  - 07:57:11] (25540)   Attempting to resolve using root path 'c:\Users\josverl\.vscode\extensions\ms-python.vscode-pylance-2022.6.30\dist\bundled\stubs'
+[Info  - 07:57:11] (25540)   Looking for typeshed stdlib path
+[Info  - 07:57:11] (25540)   Looking for typeshed stdlib path
+[Info  - 07:57:11] (25540)   Attempting to resolve using root path 'c:\Users\josverl\.vscode\extensions\ms-python.vscode-pylance-2022.6.30\dist\typeshed-fallback\stdlib'
+[Info  - 07:57:11] (25540)   Typeshed path not found
+[Info  - 07:57:11] (25540)   Looking for typeshed third-party path
+[Info  - 07:57:11] (25540)   Looking for typeshed stubs path
+[Info  - 07:57:11] (25540)   Typeshed path not found
+[Info  - 07:57:11] (25540) Could not import 'micropython' in file 'c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266\validate_micropython.py'
+[Info  - 07:57:11] (25540)   Looking in stubPath 'c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266\typings'
+[Info  - 07:57:11] (25540)   Attempting to resolve stub package using root path 'c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266\typings'
+[Info  - 07:57:11] (25540)   Attempting to resolve using root path 'c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266\typings'
+[Info  - 07:57:11] (25540)   Looking in root directory of execution environment 'c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266'
+[Info  - 07:57:11] (25540)   Attempting to resolve stub package using root path 'c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266'
+[Info  - 07:57:11] (25540)   Attempting to resolve using root path 'c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266'
+[Info  - 07:57:11] (25540)   Looking in python search path 'c:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0\DLLs'
+[Info  - 07:57:11] (25540)   Attempting to resolve stub package using root path 'c:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0\DLLs'
+[Info  - 07:57:11] (25540)   Attempting to resolve using root path 'c:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0\DLLs'
+[Info  - 07:57:11] (25540)   Looking in python search path 'c:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0\Lib'
+[Info  - 07:57:11] (25540)   Attempting to resolve stub package using root path 'c:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0\Lib'
+[Info  - 07:57:11] (25540)   Attempting to resolve using root path 'c:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0\Lib'
+[Info  - 07:57:11] (25540)   Looking in python search path 'c:\Users\josverl\AppData\Local\Microsoft\WindowsApps\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0'
+[Info  - 07:57:11] (25540)   Attempting to resolve stub package using root path 'c:\Users\josverl\AppData\Local\Microsoft\WindowsApps\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0'
+[Info  - 07:57:11] (25540)   Attempting to resolve using root path 'c:\Users\josverl\AppData\Local\Microsoft\WindowsApps\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0'
+[Info  - 07:57:11] (25540)   Looking in python search path 'c:\Users\josverl\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0\LocalCache\local-packages\Python39\site-packages'
+[Info  - 07:57:11] (25540)   Attempting to resolve stub package using root path 'c:\Users\josverl\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0\LocalCache\local-packages\Python39\site-packages'
+[Info  - 07:57:11] (25540)   Attempting to resolve using root path 'c:\Users\josverl\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0\LocalCache\local-packages\Python39\site-packages'
+[Info  - 07:57:11] (25540)   Looking in python search path 'c:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0'
+[Info  - 07:57:11] (25540)   Attempting to resolve stub package using root path 'c:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0'
+[Info  - 07:57:11] (25540)   Attempting to resolve using root path 'c:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0'
+[Info  - 07:57:11] (25540)   Looking in python search path 'c:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0\Lib\site-packages'
+[Info  - 07:57:11] (25540)   Attempting to resolve stub package using root path 'c:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0\Lib\site-packages'
+[Info  - 07:57:11] (25540)   Attempting to resolve using root path 'c:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0\Lib\site-packages'
+[Info  - 07:57:11] (25540)   Looking in bundled stubs path 'c:\Users\josverl\.vscode\extensions\ms-python.vscode-pylance-2022.6.30\dist\bundled\stubs'
+[Info  - 07:57:11] (25540)   Attempting to resolve stub package using root path 'c:\Users\josverl\.vscode\extensions\ms-python.vscode-pylance-2022.6.30\dist\bundled\stubs'
+[Info  - 07:57:11] (25540)   Attempting to resolve using root path 'c:\Users\josverl\.vscode\extensions\ms-python.vscode-pylance-2022.6.30\dist\bundled\stubs'
+[Info  - 07:57:11] (25540)   Looking for typeshed stdlib path
+[Info  - 07:57:11] (25540)   Looking for typeshed stdlib path
+[Info  - 07:57:11] (25540)   Attempting to resolve using root path 'c:\Users\josverl\.vscode\extensions\ms-python.vscode-pylance-2022.6.30\dist\typeshed-fallback\stdlib'
+[Info  - 07:57:11] (25540)   Typeshed path not found
+[Info  - 07:57:11] (25540)   Looking for typeshed third-party path
+[Info  - 07:57:11] (25540)   Looking for typeshed stubs path
+[Info  - 07:57:11] (25540)   Typeshed path not found
+(25540) [BG(2)] binding: c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266\validate_micropython.py (1ms)
+(25540) [BG(2)] indexing: c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266\validate_micropython.py [found 9] (0ms)
+(25540) Indexing Done: c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266\validate_micropython.py
+(25540) [BG(1)] analyzing: c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266\validate_functions.py ...
+(25540) [BG(1)]   parsing: c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266\validate_functions.py [fs read 0ms] (15ms)
+(25540) [BG(2)] parsing: c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266\validate_neopixel.py [fs read 10ms] (10ms)
+[Info  - 07:57:11] (25540) Could not import 'esp' in file 'c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266\validate_neopixel.py'
+[Info  - 07:57:11] (25540)   Looking in stubPath 'c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266\typings'
+[Info  - 07:57:11] (25540)   Attempting to resolve stub package using root path 'c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266\typings'
+[Info  - 07:57:11] (25540)   Attempting to resolve using root path 'c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266\typings'
+[Info  - 07:57:11] (25540)   Looking in root directory of execution environment 'c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266'
+[Info  - 07:57:11] (25540)   Attempting to resolve stub package using root path 'c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266'
+[Info  - 07:57:11] (25540)   Attempting to resolve using root path 'c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266'
+[Info  - 07:57:11] (25540)   Looking in python search path 'c:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0\DLLs'
+[Info  - 07:57:11] (25540)   Attempting to resolve stub package using root path 'c:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0\DLLs'
+[Info  - 07:57:11] (25540)   Attempting to resolve using root path 'c:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0\DLLs'
+[Info  - 07:57:11] (25540)   Looking in python search path 'c:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0\Lib'
+[Info  - 07:57:11] (25540)   Attempting to resolve stub package using root path 'c:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0\Lib'
+[Info  - 07:57:11] (25540)   Attempting to resolve using root path 'c:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0\Lib'
+[Info  - 07:57:11] (25540)   Looking in python search path 'c:\Users\josverl\AppData\Local\Microsoft\WindowsApps\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0'
+[Info  - 07:57:11] (25540)   Attempting to resolve stub package using root path 'c:\Users\josverl\AppData\Local\Microsoft\WindowsApps\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0'
+[Info  - 07:57:11] (25540)   Attempting to resolve using root path 'c:\Users\josverl\AppData\Local\Microsoft\WindowsApps\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0'
+[Info  - 07:57:11] (25540)   Looking in python search path 'c:\Users\josverl\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0\LocalCache\local-packages\Python39\site-packages'
+[Info  - 07:57:11] (25540)   Attempting to resolve stub package using root path 'c:\Users\josverl\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0\LocalCache\local-packages\Python39\site-packages'
+[Info  - 07:57:11] (25540)   Attempting to resolve using root path 'c:\Users\josverl\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0\LocalCache\local-packages\Python39\site-packages'
+[Info  - 07:57:11] (25540)   Looking in python search path 'c:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0'
+[Info  - 07:57:11] (25540)   Attempting to resolve stub package using root path 'c:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0'
+[Info  - 07:57:11] (25540)   Attempting to resolve using root path 'c:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0'
+[Info  - 07:57:11] (25540)   Looking in python search path 'c:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0\Lib\site-packages'
+[Info  - 07:57:11] (25540)   Attempting to resolve stub package using root path 'c:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0\Lib\site-packages'
+[Info  - 07:57:11] (25540)   Attempting to resolve using root path 'c:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0\Lib\site-packages'
+[Info  - 07:57:11] (25540)   Looking in bundled stubs path 'c:\Users\josverl\.vscode\extensions\ms-python.vscode-pylance-2022.6.30\dist\bundled\stubs'
+[Info  - 07:57:11] (25540)   Attempting to resolve stub package using root path 'c:\Users\josverl\.vscode\extensions\ms-python.vscode-pylance-2022.6.30\dist\bundled\stubs'
+[Info  - 07:57:11] (25540)   Attempting to resolve using root path 'c:\Users\josverl\.vscode\extensions\ms-python.vscode-pylance-2022.6.30\dist\bundled\stubs'
+[Info  - 07:57:11] (25540)   Looking for typeshed stdlib path
+[Info  - 07:57:11] (25540)   Looking for typeshed stdlib path
+[Info  - 07:57:11] (25540)   Attempting to resolve using root path 'c:\Users\josverl\.vscode\extensions\ms-python.vscode-pylance-2022.6.30\dist\typeshed-fallback\stdlib'
+[Info  - 07:57:11] (25540)   Typeshed path not found
+[Info  - 07:57:11] (25540)   Looking for typeshed third-party path
+[Info  - 07:57:11] (25540)   Looking for typeshed stubs path
+[Info  - 07:57:11] (25540)   Typeshed path not found
+[Info  - 07:57:11] (25540) Could not import 'machine' in file 'c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266\validate_neopixel.py'
+[Info  - 07:57:11] (25540)   Looking in stubPath 'c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266\typings'
+[Info  - 07:57:11] (25540)   Attempting to resolve stub package using root path 'c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266\typings'
+[Info  - 07:57:11] (25540)   Attempting to resolve using root path 'c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266\typings'
+[Info  - 07:57:11] (25540)   Looking in root directory of execution environment 'c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266'
+[Info  - 07:57:11] (25540)   Attempting to resolve stub package using root path 'c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266'
+[Info  - 07:57:11] (25540)   Attempting to resolve using root path 'c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266'
+[Info  - 07:57:11] (25540)   Looking in python search path 'c:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0\DLLs'
+[Info  - 07:57:11] (25540)   Attempting to resolve stub package using root path 'c:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0\DLLs'
+[Info  - 07:57:11] (25540)   Attempting to resolve using root path 'c:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0\DLLs'
+[Info  - 07:57:11] (25540)   Looking in python search path 'c:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0\Lib'
+[Info  - 07:57:11] (25540)   Attempting to resolve stub package using root path 'c:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0\Lib'
+[Info  - 07:57:11] (25540)   Attempting to resolve using root path 'c:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0\Lib'
+[Info  - 07:57:11] (25540)   Looking in python search path 'c:\Users\josverl\AppData\Local\Microsoft\WindowsApps\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0'
+[Info  - 07:57:11] (25540)   Attempting to resolve stub package using root path 'c:\Users\josverl\AppData\Local\Microsoft\WindowsApps\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0'
+[Info  - 07:57:11] (25540)   Attempting to resolve using root path 'c:\Users\josverl\AppData\Local\Microsoft\WindowsApps\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0'
+[Info  - 07:57:11] (25540)   Looking in python search path 'c:\Users\josverl\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0\LocalCache\local-packages\Python39\site-packages'
+[Info  - 07:57:11] (25540)   Attempting to resolve stub package using root path 'c:\Users\josverl\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0\LocalCache\local-packages\Python39\site-packages'
+[Info  - 07:57:11] (25540)   Attempting to resolve using root path 'c:\Users\josverl\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0\LocalCache\local-packages\Python39\site-packages'
+[Info  - 07:57:11] (25540)   Looking in python search path 'c:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0'
+[Info  - 07:57:11] (25540)   Attempting to resolve stub package using root path 'c:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0'
+[Info  - 07:57:11] (25540)   Attempting to resolve using root path 'c:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0'
+[Info  - 07:57:11] (25540)   Looking in python search path 'c:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0\Lib\site-packages'
+[Info  - 07:57:11] (25540)   Attempting to resolve stub package using root path 'c:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0\Lib\site-packages'
+[Info  - 07:57:11] (25540)   Attempting to resolve using root path 'c:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0\Lib\site-packages'
+[Info  - 07:57:11] (25540)   Looking in bundled stubs path 'c:\Users\josverl\.vscode\extensions\ms-python.vscode-pylance-2022.6.30\dist\bundled\stubs'
+[Info  - 07:57:11] (25540)   Attempting to resolve stub package using root path 'c:\Users\josverl\.vscode\extensions\ms-python.vscode-pylance-2022.6.30\dist\bundled\stubs'
+[Info  - 07:57:11] (25540)   Attempting to resolve using root path 'c:\Users\josverl\.vscode\extensions\ms-python.vscode-pylance-2022.6.30\dist\bundled\stubs'
+[Info  - 07:57:11] (25540)   Looking for typeshed stdlib path
+[Info  - 07:57:11] (25540)   Looking for typeshed stdlib path
+[Info  - 07:57:11] (25540)   Attempting to resolve using root path 'c:\Users\josverl\.vscode\extensions\ms-python.vscode-pylance-2022.6.30\dist\typeshed-fallback\stdlib'
+[Info  - 07:57:11] (25540)   Typeshed path not found
+[Info  - 07:57:11] (25540)   Looking for typeshed third-party path
+[Info  - 07:57:11] (25540)   Looking for typeshed stubs path
+[Info  - 07:57:11] (25540)   Typeshed path not found
+(25540) [BG(2)] binding: c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266\validate_neopixel.py (1ms)
+(25540) [BG(2)] indexing: c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266\validate_neopixel.py [found 3] (0ms)
+(25540) Indexing Done: c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266\validate_neopixel.py
+(25540) [BG(2)] parsing: c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266\validate_network.py [fs read 12ms] (18ms)
+[Info  - 07:57:11] (25540) Could not import 'network' in file 'c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266\validate_network.py'
+[Info  - 07:57:11] (25540)   Looking in stubPath 'c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266\typings'
+[Info  - 07:57:11] (25540)   Attempting to resolve stub package using root path 'c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266\typings'
+[Info  - 07:57:11] (25540)   Attempting to resolve using root path 'c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266\typings'
+[Info  - 07:57:11] (25540)   Looking in root directory of execution environment 'c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266'
+[Info  - 07:57:11] (25540)   Attempting to resolve stub package using root path 'c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266'
+[Info  - 07:57:11] (25540)   Attempting to resolve using root path 'c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266'
+[Info  - 07:57:11] (25540)   Looking in python search path 'c:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0\DLLs'
+[Info  - 07:57:11] (25540)   Attempting to resolve stub package using root path 'c:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0\DLLs'
+[Info  - 07:57:11] (25540)   Attempting to resolve using root path 'c:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0\DLLs'
+[Info  - 07:57:11] (25540)   Looking in python search path 'c:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0\Lib'
+[Info  - 07:57:11] (25540)   Attempting to resolve stub package using root path 'c:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0\Lib'
+[Info  - 07:57:11] (25540)   Attempting to resolve using root path 'c:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0\Lib'
+[Info  - 07:57:11] (25540)   Looking in python search path 'c:\Users\josverl\AppData\Local\Microsoft\WindowsApps\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0'
+[Info  - 07:57:11] (25540)   Attempting to resolve stub package using root path 'c:\Users\josverl\AppData\Local\Microsoft\WindowsApps\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0'
+[Info  - 07:57:11] (25540)   Attempting to resolve using root path 'c:\Users\josverl\AppData\Local\Microsoft\WindowsApps\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0'
+[Info  - 07:57:11] (25540)   Looking in python search path 'c:\Users\josverl\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0\LocalCache\local-packages\Python39\site-packages'
+[Info  - 07:57:11] (25540)   Attempting to resolve stub package using root path 'c:\Users\josverl\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0\LocalCache\local-packages\Python39\site-packages'
+[Info  - 07:57:11] (25540)   Attempting to resolve using root path 'c:\Users\josverl\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0\LocalCache\local-packages\Python39\site-packages'
+[Info  - 07:57:11] (25540)   Looking in python search path 'c:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0'
+[Info  - 07:57:11] (25540)   Attempting to resolve stub package using root path 'c:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0'
+[Info  - 07:57:11] (25540)   Attempting to resolve using root path 'c:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0'
+[Info  - 07:57:11] (25540)   Looking in python search path 'c:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0\Lib\site-packages'
+[Info  - 07:57:11] (25540)   Attempting to resolve stub package using root path 'c:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0\Lib\site-packages'
+[Info  - 07:57:11] (25540)   Attempting to resolve using root path 'c:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0\Lib\site-packages'
+[Info  - 07:57:11] (25540)   Looking in bundled stubs path 'c:\Users\josverl\.vscode\extensions\ms-python.vscode-pylance-2022.6.30\dist\bundled\stubs'
+[Info  - 07:57:11] (25540)   Attempting to resolve stub package using root path 'c:\Users\josverl\.vscode\extensions\ms-python.vscode-pylance-2022.6.30\dist\bundled\stubs'
+[Info  - 07:57:11] (25540)   Attempting to resolve using root path 'c:\Users\josverl\.vscode\extensions\ms-python.vscode-pylance-2022.6.30\dist\bundled\stubs'
+[Info  - 07:57:11] (25540)   Looking for typeshed stdlib path
+[Info  - 07:57:11] (25540)   Looking for typeshed stdlib path
+[Info  - 07:57:11] (25540)   Attempting to resolve using root path 'c:\Users\josverl\.vscode\extensions\ms-python.vscode-pylance-2022.6.30\dist\typeshed-fallback\stdlib'
+[Info  - 07:57:11] (25540)   Typeshed path not found
+[Info  - 07:57:11] (25540)   Looking for typeshed third-party path
+[Info  - 07:57:11] (25540)   Looking for typeshed stubs path
+[Info  - 07:57:11] (25540)   Typeshed path not found
+[Info  - 07:57:11] (25540) Could not import 'network' in file 'c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266\validate_network.py'
+[Info  - 07:57:11] (25540)   Looking in stubPath 'c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266\typings'
+[Info  - 07:57:11] (25540)   Attempting to resolve stub package using root path 'c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266\typings'
+[Info  - 07:57:11] (25540)   Attempting to resolve using root path 'c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266\typings'
+[Info  - 07:57:11] (25540)   Looking in root directory of execution environment 'c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266'
+[Info  - 07:57:11] (25540)   Attempting to resolve stub package using root path 'c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266'
+[Info  - 07:57:11] (25540)   Attempting to resolve using root path 'c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266'
+[Info  - 07:57:11] (25540)   Looking in python search path 'c:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0\DLLs'
+[Info  - 07:57:11] (25540)   Attempting to resolve stub package using root path 'c:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0\DLLs'
+[Info  - 07:57:11] (25540)   Attempting to resolve using root path 'c:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0\DLLs'
+[Info  - 07:57:11] (25540)   Looking in python search path 'c:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0\Lib'
+[Info  - 07:57:11] (25540)   Attempting to resolve stub package using root path 'c:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0\Lib'
+[Info  - 07:57:11] (25540)   Attempting to resolve using root path 'c:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0\Lib'
+[Info  - 07:57:11] (25540)   Looking in python search path 'c:\Users\josverl\AppData\Local\Microsoft\WindowsApps\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0'
+[Info  - 07:57:11] (25540)   Attempting to resolve stub package using root path 'c:\Users\josverl\AppData\Local\Microsoft\WindowsApps\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0'
+[Info  - 07:57:11] (25540)   Attempting to resolve using root path 'c:\Users\josverl\AppData\Local\Microsoft\WindowsApps\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0'
+[Info  - 07:57:11] (25540)   Looking in python search path 'c:\Users\josverl\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0\LocalCache\local-packages\Python39\site-packages'
+[Info  - 07:57:11] (25540)   Attempting to resolve stub package using root path 'c:\Users\josverl\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0\LocalCache\local-packages\Python39\site-packages'
+[Info  - 07:57:11] (25540)   Attempting to resolve using root path 'c:\Users\josverl\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0\LocalCache\local-packages\Python39\site-packages'
+[Info  - 07:57:11] (25540)   Looking in python search path 'c:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0'
+[Info  - 07:57:11] (25540)   Attempting to resolve stub package using root path 'c:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0'
+[Info  - 07:57:11] (25540)   Attempting to resolve using root path 'c:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0'
+[Info  - 07:57:11] (25540)   Looking in python search path 'c:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0\Lib\site-packages'
+[Info  - 07:57:11] (25540)   Attempting to resolve stub package using root path 'c:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0\Lib\site-packages'
+[Info  - 07:57:11] (25540)   Attempting to resolve using root path 'c:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0\Lib\site-packages'
+[Info  - 07:57:11] (25540)   Looking in bundled stubs path 'c:\Users\josverl\.vscode\extensions\ms-python.vscode-pylance-2022.6.30\dist\bundled\stubs'
+[Info  - 07:57:11] (25540)   Attempting to resolve stub package using root path 'c:\Users\josverl\.vscode\extensions\ms-python.vscode-pylance-2022.6.30\dist\bundled\stubs'
+[Info  - 07:57:11] (25540)   Attempting to resolve using root path 'c:\Users\josverl\.vscode\extensions\ms-python.vscode-pylance-2022.6.30\dist\bundled\stubs'
+[Info  - 07:57:11] (25540)   Looking for typeshed stdlib path
+[Info  - 07:57:11] (25540)   Looking for typeshed stdlib path
+[Info  - 07:57:11] (25540)   Attempting to resolve using root path 'c:\Users\josverl\.vscode\extensions\ms-python.vscode-pylance-2022.6.30\dist\typeshed-fallback\stdlib'
+[Info  - 07:57:11] (25540)   Typeshed path not found
+[Info  - 07:57:11] (25540)   Looking for typeshed third-party path
+[Info  - 07:57:11] (25540)   Looking for typeshed stubs path
+[Info  - 07:57:11] (25540)   Typeshed path not found
+(25540) [BG(2)] binding: c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266\validate_network.py (1ms)
+(25540) [BG(2)] indexing: c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266\validate_network.py [found 3] (1ms)
+(25540) Indexing Done: c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266\validate_network.py
+(25540) [BG(1)]   binding: c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266\validate_functions.py ...
+(25540) [BG(1)]     parsing: c:\Users\josverl\.vscode\extensions\ms-python.vscode-pylance-2022.6.30\dist\typeshed-fallback\stdlib\socket.pyi [fs read 0ms] (29ms)
+(25540) [BG(1)]     binding: c:\Users\josverl\.vscode\extensions\ms-python.vscode-pylance-2022.6.30\dist\typeshed-fallback\stdlib\socket.pyi (3ms)
+(25540) [BG(1)]   binding: c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266\validate_functions.py (34ms)
+(25540) [BG(2)] parsing: c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266\validate_os.py [fs read 8ms] (15ms)
+(25540) [BG(2)] binding: c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266\validate_os.py (1ms)
+(25540) [BG(2)] indexing: c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266\validate_os.py [found 1] (0ms)
+(25540) Indexing Done: c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266\validate_os.py
+(25540) [BG(1)]   checking: c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266\validate_functions.py ...
+(25540) [BG(1)]     parsing: c:\Users\josverl\.vscode\extensions\ms-python.vscode-pylance-2022.6.30\dist\typeshed-fallback\stdlib\_socket.pyi [fs read 8ms] (19ms)
+(25540) [BG(1)]     binding: c:\Users\josverl\.vscode\extensions\ms-python.vscode-pylance-2022.6.30\dist\typeshed-fallback\stdlib\_socket.pyi (5ms)
+(25540) [BG(2)] parsing: c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266\validate_re.py [fs read 10ms] (22ms)
+(25540) [BG(2)] binding: c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266\validate_re.py (0ms)
+(25540) [BG(2)] indexing: c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266\validate_re.py [found 5] (0ms)
+(25540) Indexing Done: c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266\validate_re.py
+(25540) [BG(1)]     parsing: c:\Users\josverl\.vscode\extensions\ms-python.vscode-pylance-2022.6.30\dist\typeshed-fallback\stdlib\enum.pyi [fs read 0ms] (5ms)
+(25540) [BG(1)]     binding: c:\Users\josverl\.vscode\extensions\ms-python.vscode-pylance-2022.6.30\dist\typeshed-fallback\stdlib\enum.pyi (2ms)
+(25540) [BG(2)] parsing: c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266\validate_sys.py [fs read 11ms] (12ms)
+(25540) [BG(2)] binding: c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266\validate_sys.py (3ms)
+(25540) [BG(2)] indexing: c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266\validate_sys.py [found 4] (0ms)
+(25540) Indexing Done: c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266\validate_sys.py
+(25540) [BG(2)] parsing: c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266\validate_time.py [fs read 9ms] (16ms)
+(25540) [BG(1)]     parsing: c:\Users\josverl\.vscode\extensions\ms-python.vscode-pylance-2022.6.30\dist\typeshed-fallback\stdlib\select.pyi [fs read 13ms] (16ms)
+(25540) [BG(2)] binding: c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266\validate_time.py (0ms)
+(25540) [BG(1)]     binding: c:\Users\josverl\.vscode\extensions\ms-python.vscode-pylance-2022.6.30\dist\typeshed-fallback\stdlib\select.pyi (1ms)
+(25540) [BG(2)] indexing: c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266\validate_time.py [found 2] (1ms)
+(25540) Indexing Done: c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266\validate_time.py
+(25540) [BG(1)]   checking: c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266\validate_functions.py (69ms)
+(25540) [BG(1)] analyzing: c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266\validate_functions.py (118ms)
+(25540) [BG(1)] analyzing: c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266\validate_gc.py ...
+(25540) [BG(1)]   parsing: c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266\validate_gc.py [fs read 0ms] (11ms)
+(25540) [BG(1)]   binding: c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266\validate_gc.py (0ms)
+(25540) [BG(1)]   checking: c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266\validate_gc.py ...
+(25540) [BG(1)]     parsing: c:\Users\josverl\.vscode\extensions\ms-python.vscode-pylance-2022.6.30\dist\typeshed-fallback\stdlib\gc.pyi [fs read 7ms] (8ms)
+(25540) [BG(1)]     binding: c:\Users\josverl\.vscode\extensions\ms-python.vscode-pylance-2022.6.30\dist\typeshed-fallback\stdlib\gc.pyi (1ms)
+(25540) [BG(1)]   checking: c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266\validate_gc.py (14ms)
+(25540) [BG(1)] analyzing: c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266\validate_gc.py (25ms)
+(25540) [BG(1)] analyzing: c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266\validate_io.py ...
+(25540) [BG(1)]   parsing: c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266\validate_io.py [fs read 0ms] (1ms)
+(25540) [BG(1)]   binding: c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266\validate_io.py (0ms)
+(25540) [BG(1)]   checking: c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266\validate_io.py ...
+(25540) [BG(1)]     parsing: c:\Users\josverl\.vscode\extensions\ms-python.vscode-pylance-2022.6.30\dist\typeshed-fallback\stdlib\io.pyi [fs read 7ms] (22ms)
+(25540) [BG(1)]     binding: c:\Users\josverl\.vscode\extensions\ms-python.vscode-pylance-2022.6.30\dist\typeshed-fallback\stdlib\io.pyi (4ms)
+(25540) [BG(1)]   checking: c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266\validate_io.py (34ms)
+(25540) [BG(1)] analyzing: c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266\validate_io.py (35ms)
+(25540) [BG(1)] analyzing: c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266\validate_machine.py ...
+(25540) [BG(1)]   parsing: c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266\validate_machine.py [fs read 1ms] (1ms)
+(25540) [BG(1)]   binding: c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266\validate_machine.py (0ms)
+(25540) [BG(1)]   checking: c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266\validate_machine.py (1ms)
+(25540) [BG(1)] analyzing: c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266\validate_machine.py (2ms)
+(25540) [BG(1)] analyzing: c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266\validate_micropython.py ...
+(25540) [BG(1)]   parsing: c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266\validate_micropython.py [fs read 1ms] (3ms)
+(25540) [BG(1)]   binding: c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266\validate_micropython.py (1ms)
+(25540) [BG(1)]   checking: c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266\validate_micropython.py (7ms)
+(25540) [BG(1)] analyzing: c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266\validate_micropython.py (12ms)
+(25540) [BG(1)] analyzing: c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266\validate_neopixel.py ...
+(25540) [BG(1)]   parsing: c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266\validate_neopixel.py [fs read 0ms] (0ms)
+(25540) [BG(1)]   binding: c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266\validate_neopixel.py (1ms)
+(25540) [BG(1)]   checking: c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266\validate_neopixel.py (1ms)
+(25540) [BG(1)] analyzing: c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266\validate_neopixel.py (2ms)
+(25540) [BG(1)] analyzing: c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266\validate_network.py ...
+(25540) [BG(1)]   parsing: c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266\validate_network.py [fs read 1ms] (6ms)
+(25540) [BG(1)]   binding: c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266\validate_network.py (1ms)
+(25540) [BG(1)]   checking: c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266\validate_network.py ...
+(25540) [BG(1)]     parsing: c:\develop\MyPython\Scratch\stubs-esp8266-test\.venv\Lib\site-packages\network.pyi [fs read 6ms] (7ms)
+(25540) [BG(1)]     binding: c:\develop\MyPython\Scratch\stubs-esp8266-test\.venv\Lib\site-packages\network.pyi (0ms)
+(25540) [BG(1)]   checking: c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266\validate_network.py (13ms)
+(25540) [BG(1)] analyzing: c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266\validate_network.py (20ms)
+(25540) Background analysis message: resumeAnalysis
+(25540) [BG(1)] analyzing: c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266\validate_os.py ...
+(25540) [BG(1)]   parsing: c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266\validate_os.py [fs read 0ms] (1ms)
+(25540) [BG(1)]   binding: c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266\validate_os.py (1ms)
+(25540) [BG(1)]   checking: c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266\validate_os.py ...
+(25540) [BG(1)]     parsing: c:\Users\josverl\.vscode\extensions\ms-python.vscode-pylance-2022.6.30\dist\typeshed-fallback\stdlib\os\__init__.pyi [fs read 13ms] (49ms)
+(25540) [BG(1)]     binding: c:\Users\josverl\.vscode\extensions\ms-python.vscode-pylance-2022.6.30\dist\typeshed-fallback\stdlib\os\__init__.pyi (5ms)
+(25540) [BG(1)]   checking: c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266\validate_os.py (58ms)
+(25540) [BG(1)] analyzing: c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266\validate_os.py (60ms)
+(25540) [BG(1)] analyzing: c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266\validate_re.py ...
+(25540) [BG(1)]   parsing: c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266\validate_re.py [fs read 1ms] (6ms)
+(25540) [BG(1)]   binding: c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266\validate_re.py (0ms)
+(25540) [BG(1)]   checking: c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266\validate_re.py ...
+(25540) [BG(1)]     parsing: c:\Users\josverl\.vscode\extensions\ms-python.vscode-pylance-2022.6.30\dist\typeshed-fallback\stdlib\re.pyi [fs read 10ms] (24ms)
+(25540) [BG(1)]     binding: c:\Users\josverl\.vscode\extensions\ms-python.vscode-pylance-2022.6.30\dist\typeshed-fallback\stdlib\re.pyi (1ms)
+(25540) [BG(1)]     parsing: c:\Users\josverl\.vscode\extensions\ms-python.vscode-pylance-2022.6.30\dist\typeshed-fallback\stdlib\array.pyi [fs read 8ms] (11ms)
+(25540) [BG(1)]     binding: c:\Users\josverl\.vscode\extensions\ms-python.vscode-pylance-2022.6.30\dist\typeshed-fallback\stdlib\array.pyi (1ms)
+(25540) [BG(1)]     parsing: c:\Users\josverl\.vscode\extensions\ms-python.vscode-pylance-2022.6.30\dist\typeshed-fallback\stdlib\mmap.pyi [fs read 8ms] (10ms)
+(25540) [BG(1)]     binding: c:\Users\josverl\.vscode\extensions\ms-python.vscode-pylance-2022.6.30\dist\typeshed-fallback\stdlib\mmap.pyi (1ms)
+(25540) [BG(1)]     parsing: c:\Users\josverl\.vscode\extensions\ms-python.vscode-pylance-2022.6.30\dist\typeshed-fallback\stdlib\ctypes\__init__.pyi [fs read 7ms] (14ms)
+(25540) [BG(1)]     binding: c:\Users\josverl\.vscode\extensions\ms-python.vscode-pylance-2022.6.30\dist\typeshed-fallback\stdlib\ctypes\__init__.pyi (2ms)
+(25540) [BG(1)]     parsing: c:\Users\josverl\.vscode\extensions\ms-python.vscode-pylance-2022.6.30\dist\typeshed-fallback\stdlib\pickle.pyi [fs read 8ms] (14ms)
+(25540) [BG(1)]     binding: c:\Users\josverl\.vscode\extensions\ms-python.vscode-pylance-2022.6.30\dist\typeshed-fallback\stdlib\pickle.pyi (1ms)
+(25540) [BG(1)]   checking: c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266\validate_re.py (103ms)
+(25540) [BG(1)] analyzing: c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266\validate_re.py (109ms)
+(25540) [BG(1)] analyzing: c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266\validate_sys.py ...
+(25540) [BG(1)]   parsing: c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266\validate_sys.py [fs read 0ms] (1ms)
+(25540) [BG(1)]   binding: c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266\validate_sys.py (1ms)
+(25540) [BG(1)]   checking: c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266\validate_sys.py ...
+(25540) [BG(1)]     parsing: c:\Users\josverl\.vscode\extensions\ms-python.vscode-pylance-2022.6.30\dist\typeshed-fallback\stdlib\sys.pyi [fs read 8ms] (21ms)
+(25540) [BG(1)]     binding: c:\Users\josverl\.vscode\extensions\ms-python.vscode-pylance-2022.6.30\dist\typeshed-fallback\stdlib\sys.pyi (2ms)
+(25540) [BG(1)]   checking: c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266\validate_sys.py (36ms)
+(25540) [BG(1)] analyzing: c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266\validate_sys.py (38ms)
+(25540) Background analysis message: resumeAnalysis
+(25540) [BG(1)] analyzing: c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266\validate_time.py ...
+(25540) [BG(1)]   parsing: c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266\validate_time.py [fs read 1ms] (5ms)
+(25540) [BG(1)]   binding: c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266\validate_time.py (0ms)
+(25540) [BG(1)]   checking: c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266\validate_time.py ...
+(25540) [BG(1)]     parsing: c:\Users\josverl\.vscode\extensions\ms-python.vscode-pylance-2022.6.30\dist\typeshed-fallback\stdlib\time.pyi [fs read 8ms] (10ms)
+(25540) [BG(1)]     binding: c:\Users\josverl\.vscode\extensions\ms-python.vscode-pylance-2022.6.30\dist\typeshed-fallback\stdlib\time.pyi (1ms)
+(25540) [BG(1)]   checking: c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266\validate_time.py (12ms)
+(25540) [BG(1)] analyzing: c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266\validate_time.py (17ms)
+(25540) [BG(1)] indexing: c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266\boot.py [found 0] (0ms)
+(25540) Indexing Done: c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266\boot.py
+(25540) [BG(1)] indexing: c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266\main.py [found 0] (0ms)
+(25540) Indexing Done: c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266\main.py
+(25540) [BG(1)] indexing: c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266\validate_bare_const.py [found 1] (1ms)
+(25540) Indexing Done: c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266\validate_bare_const.py
+(25540) [BG(1)] indexing: c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266\validate_collections.py [found 6] (0ms)
+(25540) Indexing Done: c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266\validate_collections.py
+(25540) [BG(1)] indexing: c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266\validate_esp.py [found 3] (0ms)
+(25540) Indexing Done: c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266\validate_esp.py
+(25540) [BG(1)] indexing: c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266\validate_functions.py [found 1] (0ms)
+(25540) Indexing Done: c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266\validate_functions.py
+(25540) [BG(1)] indexing: c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266\validate_gc.py [found 2] (1ms)
+(25540) Indexing Done: c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266\validate_gc.py
+(25540) [BG(1)] indexing: c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266\validate_io.py [found 2] (0ms)
+(25540) Indexing Done: c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266\validate_io.py
+(25540) [BG(1)] indexing: c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266\validate_machine.py [found 1] (0ms)
+(25540) Indexing Done: c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266\validate_machine.py
+(25540) [BG(1)] indexing: c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266\validate_micropython.py [found 9] (1ms)
+(25540) Indexing Done: c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266\validate_micropython.py
+(25540) [BG(1)] indexing: c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266\validate_neopixel.py [found 3] (0ms)
+(25540) Indexing Done: c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266\validate_neopixel.py
+(25540) [BG(1)] indexing: c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266\validate_network.py [found 3] (0ms)
+(25540) Indexing Done: c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266\validate_network.py
+(25540) [BG(1)] indexing: c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266\validate_os.py [found 1] (0ms)
+(25540) Indexing Done: c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266\validate_os.py
+(25540) [BG(1)] indexing: c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266\validate_re.py [found 5] (0ms)
+(25540) Indexing Done: c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266\validate_re.py
+(25540) [BG(1)] indexing: c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266\validate_sys.py [found 4] (0ms)
+(25540) Indexing Done: c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266\validate_sys.py
+(25540) [BG(1)] indexing: c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266\validate_time.py [found 2] (0ms)
+(25540) Indexing Done: c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266\validate_time.py
+[Info  - 08:08:44] (25540) SourceFile: Received fs event 'change' for path 'c:\develop\MyPython\Scratch\stubs-esp8266-test\.git\FETCH_HEAD'
+[Info  - 08:08:45] (25540) SourceFile: Received fs event 'change' for path 'c:\develop\MyPython\Scratch\stubs-esp8266-test\.git\objects'
