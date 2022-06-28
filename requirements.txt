@@ -1,4 +1,4 @@
 
 # Dev requirements
-micropython-esp8266-stubs
+micropython-esp8266-stubs==1.18.*
 pyright

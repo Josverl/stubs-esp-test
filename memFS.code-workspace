@@ -8,9 +8,8 @@
 			"path": "project_esp8266"
 		},
 		{
-			"path": ".",
-			"name": "root folder",
-		},
+			"path": "."
+		}
 	],
 	"settings": {
 		"python.analysis.logLevel": "Trace",
