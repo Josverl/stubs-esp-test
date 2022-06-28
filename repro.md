@@ -57,6 +57,8 @@ To *get started* you need this:
 
 NOTE: that as soon as a virtual filesystem is part of the workspace, Pylance will attempt to scan the **local** rootdrive (`C:\` or '/' ) where the path is relative to the rootpath of the virtual filesystem.
 
+After that essentially PyLance stops functiong for either the local  or the virtual filesystem.
+
 this is shown in the Pylance logs by looking for the tag : `Search paths for \`
 ``` log 
 [Info  - 12:39:18] (26416) Pylance language server 2022.6.30 (pyright 212d1465) starting
@@ -105,6 +107,16 @@ To reduce this time, open a workspace directory with fewer files or add a pyrigh
 * select 'F1 > [MemFs] Create Files' and notice how the explorer is now populated
 * ... try things out, e.g. IntelliSense in memfs-files, create new files, save them, etc
 * select 'F1 > [MemFs] Delete Files' or reload to restart
+
+
+## repro with Pymaker2
+
+This requires Pymaker2 and at least one  microcontrollers running MicroPython.
+
+- install the pymakr v2.x extension
+- connect to a microcontroller
+- mount the microcontroller's filesystem in VSCVode explorer
+- Notice PyLance stop functioning.
 
 
 
