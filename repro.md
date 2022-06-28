@@ -121,4 +121,4 @@ This requires Pymaker2 and at least one  microcontrollers running MicroPython.
 
 ## recording 
 
-![](https://github.com/Josverl/stubs-esp-test/blob/main/docs/img/pylance-good-bad-ugly.gif?raw=true)
+![](https://github.com/Josverl/stubs-esp-test/blob/main/pylance-good-bad-ugly.gif?raw=true)
