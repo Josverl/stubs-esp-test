@@ -1,400 +1,400 @@
-[Info  - 07:54:54] (35208) Pylance language server 2022.6.30 (pyright 212d1465) starting
-[Info  - 07:54:54] (35208) Server root directory: c:\Users\josverl\.vscode\extensions\ms-python.vscode-pylance-2022.6.30\dist
+[Info  - 00:00:00](000000)Pylance language server 2022.6.30 (pyright 212d1465) starting
+[Info  - 00:00:00](000000)Server root directory: c:\Users\josverl\.vscode\extensions\ms-python.vscode-pylance-2022.6.30\dist
 Notebook support: Legacy
-[Info  - 07:54:54] (35208) No configuration file found.
-[Info  - 07:54:54] (35208) No pyproject.toml file found.
-[Info  - 07:54:54] (35208) Setting pythonPath for service "root level": "c:\develop\MyPython\Scratch\stubs-esp8266-test\.venv\Scripts\python.exe"
-[Warn  - 07:54:54] (35208) stubPath c:\develop\MyPython\Scratch\stubs-esp8266-test\typings is not a valid directory.
-[Info  - 07:54:56] (35208) Assuming Python version 3.9
-[Info  - 07:54:56] (35208) Assuming Python platform Windows
-[Info  - 07:54:56] (35208) Search paths for c:\develop\MyPython\Scratch\stubs-esp8266-test
-[Info  - 07:54:56] (35208)   c:\Users\josverl\.vscode\extensions\ms-python.vscode-pylance-2022.6.30\dist\typeshed-fallback\stdlib
-[Info  - 07:54:56] (35208)   c:\develop\MyPython\Scratch\stubs-esp8266-test
-[Info  - 07:54:56] (35208)   c:\develop\MyPython\Scratch\stubs-esp8266-test\typings
-[Info  - 07:54:56] (35208)   c:\Users\josverl\.vscode\extensions\ms-python.vscode-pylance-2022.6.30\dist\typeshed-fallback\stubs\...
-[Info  - 07:54:56] (35208)   c:\Users\josverl\.vscode\extensions\ms-python.vscode-pylance-2022.6.30\dist\bundled\stubs
-[Info  - 07:54:56] (35208)   c:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0\DLLs
-[Info  - 07:54:56] (35208)   c:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0\Lib
-[Info  - 07:54:56] (35208)   c:\Users\josverl\AppData\Local\Microsoft\WindowsApps\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0
-[Info  - 07:54:56] (35208)   c:\develop\MyPython\Scratch\stubs-esp8266-test\.venv
-[Info  - 07:54:56] (35208)   c:\develop\MyPython\Scratch\stubs-esp8266-test\.venv\Lib\site-packages
-[Info  - 07:54:57] (35208) Adding fs watcher for library directories:
+[Info  - 00:00:00](000000)No configuration file found.
+[Info  - 00:00:00](000000)No pyproject.toml file found.
+[Info  - 00:00:00](000000)Setting pythonPath for service "root level": "c:\develop\MyPython\Scratch\stubs-esp8266-test\.venv\Scripts\python.exe"
+[Warn  - 00:00:00](000000)stubPath c:\develop\MyPython\Scratch\stubs-esp8266-test\typings is not a valid directory.
+[Info  - 00:00:00](000000)Assuming Python version 3.9
+[Info  - 00:00:00](000000)Assuming Python platform Windows
+[Info  - 00:00:00](000000)Search paths for c:\develop\MyPython\Scratch\stubs-esp8266-test
+[Info  - 00:00:00](000000)  c:\Users\josverl\.vscode\extensions\ms-python.vscode-pylance-2022.6.30\dist\typeshed-fallback\stdlib
+[Info  - 00:00:00](000000)  c:\develop\MyPython\Scratch\stubs-esp8266-test
+[Info  - 00:00:00](000000)  c:\develop\MyPython\Scratch\stubs-esp8266-test\typings
+[Info  - 00:00:00](000000)  c:\Users\josverl\.vscode\extensions\ms-python.vscode-pylance-2022.6.30\dist\typeshed-fallback\stubs\...
+[Info  - 00:00:00](000000)  c:\Users\josverl\.vscode\extensions\ms-python.vscode-pylance-2022.6.30\dist\bundled\stubs
+[Info  - 00:00:00](000000)  c:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0\DLLs
+[Info  - 00:00:00](000000)  c:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0\Lib
+[Info  - 00:00:00](000000)  c:\Users\josverl\AppData\Local\Microsoft\WindowsApps\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0
+[Info  - 00:00:00](000000)  c:\develop\MyPython\Scratch\stubs-esp8266-test\.venv
+[Info  - 00:00:00](000000)  c:\develop\MyPython\Scratch\stubs-esp8266-test\.venv\Lib\site-packages
+[Info  - 00:00:00](000000)Adding fs watcher for library directories:
  C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0\DLLs
 C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0\lib
 C:\Users\josverl\AppData\Local\Microsoft\WindowsApps\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0
 c:\develop\MyPython\Scratch\stubs-esp8266-test\.venv
 c:\develop\MyPython\Scratch\stubs-esp8266-test\.venv\lib\site-packages
-[Info  - 07:54:57] (35208) Adding fs watcher for directories:
+[Info  - 00:00:00](000000)Adding fs watcher for directories:
  c:\develop\MyPython\Scratch\stubs-esp8266-test
-[Info  - 07:54:57] (35208) Searching for source files
-[Info  - 07:54:57] (35208) Found 16 source files
-[Info  - 07:54:57] (35208) No configuration file found.
-[Info  - 07:54:57] (35208) No pyproject.toml file found.
-[Info  - 07:54:57] (35208) Setting pythonPath for service "esp8266": "C:\Users\josverl\AppData\Local\Microsoft\WindowsApps\python3.9.exe"
-[Warn  - 07:54:57] (35208) stubPath c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266\typings is not a valid directory.
-[Info  - 07:54:57] (35208) Assuming Python version 3.9
-[Info  - 07:54:57] (35208) Assuming Python platform Windows
-[Info  - 07:54:58] (35208) Search paths for c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266
-[Info  - 07:54:58] (35208)   c:\Users\josverl\.vscode\extensions\ms-python.vscode-pylance-2022.6.30\dist\typeshed-fallback\stdlib
-[Info  - 07:54:58] (35208)   c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266
-[Info  - 07:54:58] (35208)   c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266\typings
-[Info  - 07:54:58] (35208)   c:\Users\josverl\.vscode\extensions\ms-python.vscode-pylance-2022.6.30\dist\typeshed-fallback\stubs\...
-[Info  - 07:54:58] (35208)   c:\Users\josverl\.vscode\extensions\ms-python.vscode-pylance-2022.6.30\dist\bundled\stubs
-[Info  - 07:54:58] (35208)   c:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0\DLLs
-[Info  - 07:54:58] (35208)   c:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0\Lib
-[Info  - 07:54:58] (35208)   c:\Users\josverl\AppData\Local\Microsoft\WindowsApps\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0
-[Info  - 07:54:58] (35208)   c:\Users\josverl\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0\LocalCache\local-packages\Python39\site-packages
-[Info  - 07:54:58] (35208)   c:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0
-[Info  - 07:54:58] (35208)   c:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0\Lib\site-packages
-[Info  - 07:54:58] (35208) Adding fs watcher for library directories:
+[Info  - 00:00:00](000000)Searching for source files
+[Info  - 00:00:00](000000)Found 16 source files
+[Info  - 00:00:00](000000)No configuration file found.
+[Info  - 00:00:00](000000)No pyproject.toml file found.
+[Info  - 00:00:00](000000)Setting pythonPath for service "esp8266": "C:\Users\josverl\AppData\Local\Microsoft\WindowsApps\python3.9.exe"
+[Warn  - 00:00:00](000000)stubPath c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266\typings is not a valid directory.
+[Info  - 00:00:00](000000)Assuming Python version 3.9
+[Info  - 00:00:00](000000)Assuming Python platform Windows
+[Info  - 00:00:00](000000)Search paths for c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266
+[Info  - 00:00:00](000000)  c:\Users\josverl\.vscode\extensions\ms-python.vscode-pylance-2022.6.30\dist\typeshed-fallback\stdlib
+[Info  - 00:00:00](000000)  c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266
+[Info  - 00:00:00](000000)  c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266\typings
+[Info  - 00:00:00](000000)  c:\Users\josverl\.vscode\extensions\ms-python.vscode-pylance-2022.6.30\dist\typeshed-fallback\stubs\...
+[Info  - 00:00:00](000000)  c:\Users\josverl\.vscode\extensions\ms-python.vscode-pylance-2022.6.30\dist\bundled\stubs
+[Info  - 00:00:00](000000)  c:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0\DLLs
+[Info  - 00:00:00](000000)  c:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0\Lib
+[Info  - 00:00:00](000000)  c:\Users\josverl\AppData\Local\Microsoft\WindowsApps\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0
+[Info  - 00:00:00](000000)  c:\Users\josverl\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0\LocalCache\local-packages\Python39\site-packages
+[Info  - 00:00:00](000000)  c:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0
+[Info  - 00:00:00](000000)  c:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0\Lib\site-packages
+[Info  - 00:00:00](000000)Adding fs watcher for library directories:
  C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0\DLLs
 C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0\lib
 C:\Users\josverl\AppData\Local\Microsoft\WindowsApps\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0
 C:\Users\josverl\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0\LocalCache\local-packages\Python39\site-packages
 C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0
 C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0\lib\site-packages
-[Info  - 07:54:58] (35208) Adding fs watcher for directories:
+[Info  - 00:00:00](000000)Adding fs watcher for directories:
  c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266
-[Info  - 07:54:58] (35208) Searching for source files
-[Info  - 07:54:58] (35208) Found 16 source files
-(35208) [FG] parsing: c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266\validate_bare_const.py (32ms)
-[Info  - 07:54:58] (35208) Could not import 'micropython' in file 'c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266\validate_bare_const.py'
-[Info  - 07:54:58] (35208)   Looking in stubPath 'c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266\typings'
-[Info  - 07:54:58] (35208)   Attempting to resolve stub package using root path 'c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266\typings'
-[Info  - 07:54:58] (35208)   Attempting to resolve using root path 'c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266\typings'
-[Info  - 07:54:58] (35208)   Looking in root directory of execution environment 'c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266'
-[Info  - 07:54:58] (35208)   Attempting to resolve stub package using root path 'c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266'
-[Info  - 07:54:58] (35208)   Attempting to resolve using root path 'c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266'
-[Info  - 07:54:58] (35208)   Looking in python search path 'c:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0\DLLs'
-[Info  - 07:54:58] (35208)   Attempting to resolve stub package using root path 'c:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0\DLLs'
-[Info  - 07:54:58] (35208)   Attempting to resolve using root path 'c:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0\DLLs'
-[Info  - 07:54:58] (35208)   Looking in python search path 'c:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0\Lib'
-[Info  - 07:54:58] (35208)   Attempting to resolve stub package using root path 'c:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0\Lib'
-[Info  - 07:54:58] (35208)   Attempting to resolve using root path 'c:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0\Lib'
-[Info  - 07:54:58] (35208)   Looking in python search path 'c:\Users\josverl\AppData\Local\Microsoft\WindowsApps\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0'
-[Info  - 07:54:58] (35208)   Attempting to resolve stub package using root path 'c:\Users\josverl\AppData\Local\Microsoft\WindowsApps\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0'
-[Info  - 07:54:58] (35208)   Attempting to resolve using root path 'c:\Users\josverl\AppData\Local\Microsoft\WindowsApps\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0'
-[Info  - 07:54:58] (35208)   Looking in python search path 'c:\Users\josverl\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0\LocalCache\local-packages\Python39\site-packages'
-[Info  - 07:54:58] (35208)   Attempting to resolve stub package using root path 'c:\Users\josverl\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0\LocalCache\local-packages\Python39\site-packages'
-[Info  - 07:54:58] (35208)   Attempting to resolve using root path 'c:\Users\josverl\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0\LocalCache\local-packages\Python39\site-packages'
-[Info  - 07:54:58] (35208)   Looking in python search path 'c:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0'
-[Info  - 07:54:58] (35208)   Attempting to resolve stub package using root path 'c:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0'
-[Info  - 07:54:58] (35208)   Attempting to resolve using root path 'c:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0'
-[Info  - 07:54:58] (35208)   Looking in python search path 'c:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0\Lib\site-packages'
-[Info  - 07:54:58] (35208)   Attempting to resolve stub package using root path 'c:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0\Lib\site-packages'
-[Info  - 07:54:58] (35208)   Attempting to resolve using root path 'c:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0\Lib\site-packages'
-[Info  - 07:54:58] (35208)   Looking in bundled stubs path 'c:\Users\josverl\.vscode\extensions\ms-python.vscode-pylance-2022.6.30\dist\bundled\stubs'
-[Info  - 07:54:58] (35208)   Attempting to resolve stub package using root path 'c:\Users\josverl\.vscode\extensions\ms-python.vscode-pylance-2022.6.30\dist\bundled\stubs'
-[Info  - 07:54:58] (35208)   Attempting to resolve using root path 'c:\Users\josverl\.vscode\extensions\ms-python.vscode-pylance-2022.6.30\dist\bundled\stubs'
-[Info  - 07:54:58] (35208)   Looking for typeshed stdlib path
-[Info  - 07:54:58] (35208)   Looking for typeshed stdlib path
-[Info  - 07:54:58] (35208)   Attempting to resolve using root path 'c:\Users\josverl\.vscode\extensions\ms-python.vscode-pylance-2022.6.30\dist\typeshed-fallback\stdlib'
-[Info  - 07:54:58] (35208)   Typeshed path not found
-[Info  - 07:54:58] (35208)   Looking for typeshed third-party path
-[Info  - 07:54:58] (35208)   Looking for typeshed stubs path
-[Info  - 07:54:58] (35208)   Typeshed path not found
-(35208) [FG] parsing: c:\Users\josverl\.vscode\extensions\ms-python.vscode-pylance-2022.6.30\dist\typeshed-fallback\stdlib\builtins.pyi [fs read 15ms] (162ms)
-(35208) [FG] binding: c:\Users\josverl\.vscode\extensions\ms-python.vscode-pylance-2022.6.30\dist\typeshed-fallback\stdlib\builtins.pyi (35ms)
-(35208) [FG] binding: c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266\validate_bare_const.py (2ms)
-[Info  - 07:54:58] (35208) Background analysis(1) root directory: c:\Users\josverl\.vscode\extensions\ms-python.vscode-pylance-2022.6.30\dist
-[Info  - 07:54:58] (35208) Background analysis(1) started
-(35208) Background analysis message: setConfigOptions
-(35208) Background analysis message: setImportResolver
-(35208) Background analysis message: ensurePartialStubPackages
-(35208) Background analysis message: setTrackedFiles
-(35208) Background analysis message: markAllFilesDirty
-(35208) Background analysis message: analyze
-[Info  - 07:54:58] (35208) Background analysis(4) root directory: c:\Users\josverl\.vscode\extensions\ms-python.vscode-pylance-2022.6.30\dist
-[Info  - 07:54:58] (35208) Background analysis(4) started
-[Info  - 07:54:58] (35208) Background analysis(3) root directory: c:\Users\josverl\.vscode\extensions\ms-python.vscode-pylance-2022.6.30\dist
-[Info  - 07:54:58] (35208) Background analysis(3) started
-[Info  - 07:54:58] (35208) Background analysis(2) root directory: c:\Users\josverl\.vscode\extensions\ms-python.vscode-pylance-2022.6.30\dist
-[Info  - 07:54:58] (35208) Background analysis(2) started
-(35208) Background analysis message: setConfigOptions
-(35208) Background analysis message: setImportResolver
-(35208) Background analysis message: ensurePartialStubPackages
-(35208) Background analysis message: setTrackedFiles
-(35208) Background analysis message: markAllFilesDirty
-(35208) Background analysis message: setFileOpened
-(35208) Background analysis message: getSemanticTokens full
-[Info  - 07:54:58] (35208) No configuration file found.
-[Info  - 07:54:58] (35208) No pyproject.toml file found.
-[Info  - 07:54:58] (35208) Setting pythonPath for service "esp32": "C:\Users\josverl\AppData\Local\Microsoft\WindowsApps\python3.9.exe"
-[Warn  - 07:54:58] (35208) stubPath c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp32\typings is not a valid directory.
-[Info  - 07:54:59] (35208) Assuming Python version 3.9
-[Info  - 07:54:59] (35208) Assuming Python platform Windows
-[Info  - 07:54:59] (35208) Search paths for c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp32
-[Info  - 07:54:59] (35208)   c:\Users\josverl\.vscode\extensions\ms-python.vscode-pylance-2022.6.30\dist\typeshed-fallback\stdlib
-[Info  - 07:54:59] (35208)   c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp32
-[Info  - 07:54:59] (35208)   c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp32\typings
-[Info  - 07:54:59] (35208)   c:\Users\josverl\.vscode\extensions\ms-python.vscode-pylance-2022.6.30\dist\typeshed-fallback\stubs\...
-[Info  - 07:54:59] (35208)   c:\Users\josverl\.vscode\extensions\ms-python.vscode-pylance-2022.6.30\dist\bundled\stubs
-[Info  - 07:54:59] (35208)   c:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0\DLLs
-[Info  - 07:54:59] (35208)   c:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0\Lib
-[Info  - 07:54:59] (35208)   c:\Users\josverl\AppData\Local\Microsoft\WindowsApps\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0
-[Info  - 07:54:59] (35208)   c:\Users\josverl\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0\LocalCache\local-packages\Python39\site-packages
-[Info  - 07:54:59] (35208)   c:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0
-[Info  - 07:54:59] (35208)   c:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0\Lib\site-packages
-[Info  - 07:55:00] (35208) Adding fs watcher for library directories:
+[Info  - 00:00:00](000000)Searching for source files
+[Info  - 00:00:00](000000)Found 16 source files
+(000000)[FG] parsing: c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266\validate_bare_const.py (32ms)
+[Info  - 00:00:00](000000)Could not import 'micropython' in file 'c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266\validate_bare_const.py'
+[Info  - 00:00:00](000000)  Looking in stubPath 'c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266\typings'
+[Info  - 00:00:00](000000)  Attempting to resolve stub package using root path 'c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266\typings'
+[Info  - 00:00:00](000000)  Attempting to resolve using root path 'c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266\typings'
+[Info  - 00:00:00](000000)  Looking in root directory of execution environment 'c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266'
+[Info  - 00:00:00](000000)  Attempting to resolve stub package using root path 'c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266'
+[Info  - 00:00:00](000000)  Attempting to resolve using root path 'c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266'
+[Info  - 00:00:00](000000)  Looking in python search path 'c:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0\DLLs'
+[Info  - 00:00:00](000000)  Attempting to resolve stub package using root path 'c:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0\DLLs'
+[Info  - 00:00:00](000000)  Attempting to resolve using root path 'c:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0\DLLs'
+[Info  - 00:00:00](000000)  Looking in python search path 'c:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0\Lib'
+[Info  - 00:00:00](000000)  Attempting to resolve stub package using root path 'c:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0\Lib'
+[Info  - 00:00:00](000000)  Attempting to resolve using root path 'c:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0\Lib'
+[Info  - 00:00:00](000000)  Looking in python search path 'c:\Users\josverl\AppData\Local\Microsoft\WindowsApps\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0'
+[Info  - 00:00:00](000000)  Attempting to resolve stub package using root path 'c:\Users\josverl\AppData\Local\Microsoft\WindowsApps\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0'
+[Info  - 00:00:00](000000)  Attempting to resolve using root path 'c:\Users\josverl\AppData\Local\Microsoft\WindowsApps\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0'
+[Info  - 00:00:00](000000)  Looking in python search path 'c:\Users\josverl\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0\LocalCache\local-packages\Python39\site-packages'
+[Info  - 00:00:00](000000)  Attempting to resolve stub package using root path 'c:\Users\josverl\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0\LocalCache\local-packages\Python39\site-packages'
+[Info  - 00:00:00](000000)  Attempting to resolve using root path 'c:\Users\josverl\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0\LocalCache\local-packages\Python39\site-packages'
+[Info  - 00:00:00](000000)  Looking in python search path 'c:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0'
+[Info  - 00:00:00](000000)  Attempting to resolve stub package using root path 'c:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0'
+[Info  - 00:00:00](000000)  Attempting to resolve using root path 'c:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0'
+[Info  - 00:00:00](000000)  Looking in python search path 'c:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0\Lib\site-packages'
+[Info  - 00:00:00](000000)  Attempting to resolve stub package using root path 'c:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0\Lib\site-packages'
+[Info  - 00:00:00](000000)  Attempting to resolve using root path 'c:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0\Lib\site-packages'
+[Info  - 00:00:00](000000)  Looking in bundled stubs path 'c:\Users\josverl\.vscode\extensions\ms-python.vscode-pylance-2022.6.30\dist\bundled\stubs'
+[Info  - 00:00:00](000000)  Attempting to resolve stub package using root path 'c:\Users\josverl\.vscode\extensions\ms-python.vscode-pylance-2022.6.30\dist\bundled\stubs'
+[Info  - 00:00:00](000000)  Attempting to resolve using root path 'c:\Users\josverl\.vscode\extensions\ms-python.vscode-pylance-2022.6.30\dist\bundled\stubs'
+[Info  - 00:00:00](000000)  Looking for typeshed stdlib path
+[Info  - 00:00:00](000000)  Looking for typeshed stdlib path
+[Info  - 00:00:00](000000)  Attempting to resolve using root path 'c:\Users\josverl\.vscode\extensions\ms-python.vscode-pylance-2022.6.30\dist\typeshed-fallback\stdlib'
+[Info  - 00:00:00](000000)  Typeshed path not found
+[Info  - 00:00:00](000000)  Looking for typeshed third-party path
+[Info  - 00:00:00](000000)  Looking for typeshed stubs path
+[Info  - 00:00:00](000000)  Typeshed path not found
+(000000)[FG] parsing: c:\Users\josverl\.vscode\extensions\ms-python.vscode-pylance-2022.6.30\dist\typeshed-fallback\stdlib\builtins.pyi [fs read 15ms] (162ms)
+(000000)[FG] binding: c:\Users\josverl\.vscode\extensions\ms-python.vscode-pylance-2022.6.30\dist\typeshed-fallback\stdlib\builtins.pyi (35ms)
+(000000)[FG] binding: c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp8266\validate_bare_const.py (2ms)
+[Info  - 00:00:00](000000)Background analysis(1) root directory: c:\Users\josverl\.vscode\extensions\ms-python.vscode-pylance-2022.6.30\dist
+[Info  - 00:00:00](000000)Background analysis(1) started
+(000000)Background analysis message: setConfigOptions
+(000000)Background analysis message: setImportResolver
+(000000)Background analysis message: ensurePartialStubPackages
+(000000)Background analysis message: setTrackedFiles
+(000000)Background analysis message: markAllFilesDirty
+(000000)Background analysis message: analyze
+[Info  - 00:00:00](000000)Background analysis(4) root directory: c:\Users\josverl\.vscode\extensions\ms-python.vscode-pylance-2022.6.30\dist
+[Info  - 00:00:00](000000)Background analysis(4) started
+[Info  - 00:00:00](000000)Background analysis(3) root directory: c:\Users\josverl\.vscode\extensions\ms-python.vscode-pylance-2022.6.30\dist
+[Info  - 00:00:00](000000)Background analysis(3) started
+[Info  - 00:00:00](000000)Background analysis(2) root directory: c:\Users\josverl\.vscode\extensions\ms-python.vscode-pylance-2022.6.30\dist
+[Info  - 00:00:00](000000)Background analysis(2) started
+(000000)Background analysis message: setConfigOptions
+(000000)Background analysis message: setImportResolver
+(000000)Background analysis message: ensurePartialStubPackages
+(000000)Background analysis message: setTrackedFiles
+(000000)Background analysis message: markAllFilesDirty
+(000000)Background analysis message: setFileOpened
+(000000)Background analysis message: getSemanticTokens full
+[Info  - 00:00:00](000000)No configuration file found.
+[Info  - 00:00:00](000000)No pyproject.toml file found.
+[Info  - 00:00:00](000000)Setting pythonPath for service "esp32": "C:\Users\josverl\AppData\Local\Microsoft\WindowsApps\python3.9.exe"
+[Warn  - 00:00:00](000000)stubPath c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp32\typings is not a valid directory.
+[Info  - 00:00:00](000000)Assuming Python version 3.9
+[Info  - 00:00:00](000000)Assuming Python platform Windows
+[Info  - 00:00:00](000000)Search paths for c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp32
+[Info  - 00:00:00](000000)  c:\Users\josverl\.vscode\extensions\ms-python.vscode-pylance-2022.6.30\dist\typeshed-fallback\stdlib
+[Info  - 00:00:00](000000)  c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp32
+[Info  - 00:00:00](000000)  c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp32\typings
+[Info  - 00:00:00](000000)  c:\Users\josverl\.vscode\extensions\ms-python.vscode-pylance-2022.6.30\dist\typeshed-fallback\stubs\...
+[Info  - 00:00:00](000000)  c:\Users\josverl\.vscode\extensions\ms-python.vscode-pylance-2022.6.30\dist\bundled\stubs
+[Info  - 00:00:00](000000)  c:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0\DLLs
+[Info  - 00:00:00](000000)  c:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0\Lib
+[Info  - 00:00:00](000000)  c:\Users\josverl\AppData\Local\Microsoft\WindowsApps\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0
+[Info  - 00:00:00](000000)  c:\Users\josverl\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0\LocalCache\local-packages\Python39\site-packages
+[Info  - 00:00:00](000000)  c:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0
+[Info  - 00:00:00](000000)  c:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0\Lib\site-packages
+[Info  - 00:00:00](000000)Adding fs watcher for library directories:
  C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0\DLLs
 C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0\lib
 C:\Users\josverl\AppData\Local\Microsoft\WindowsApps\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0
 C:\Users\josverl\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0\LocalCache\local-packages\Python39\site-packages
 C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0
 C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0\lib\site-packages
-[Info  - 07:55:00] (35208) Adding fs watcher for directories:
+[Info  - 00:00:00](000000)Adding fs watcher for directories:
  c:\develop\MyPython\Scratch\stubs-esp8266-test\project_esp32
-[Info  - 07:55:00] (35208) Searching for source files
-[Info  - 07:55:00] (35208) No source files found.
-[Info  - 07:55:00] (35208) No configuration file found.
-[Info  - 07:55:00] (35208) No pyproject.toml file found.
-[Info  - 07:55:00] (35208) Setting pythonPath for service "MCU": "C:\Users\josverl\AppData\Local\Microsoft\WindowsApps\python3.9.exe"
-[Warn  - 07:55:00] (35208) stubPath \typings is not a valid directory.
-[Info  - 07:55:00] (35208) Assuming Python version 3.9
-[Info  - 07:55:00] (35208) Assuming Python platform Windows
-[Info  - 07:55:01] (35208) Search paths for \
-[Info  - 07:55:01] (35208)   c:\Users\josverl\.vscode\extensions\ms-python.vscode-pylance-2022.6.30\dist\typeshed-fallback\stdlib
-[Info  - 07:55:01] (35208)   \
-[Info  - 07:55:01] (35208)   \typings
-[Info  - 07:55:01] (35208)   c:\Users\josverl\.vscode\extensions\ms-python.vscode-pylance-2022.6.30\dist\typeshed-fallback\stubs\...
-[Info  - 07:55:01] (35208)   c:\Users\josverl\.vscode\extensions\ms-python.vscode-pylance-2022.6.30\dist\bundled\stubs
-[Info  - 07:55:01] (35208)   c:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0\DLLs
-[Info  - 07:55:01] (35208)   c:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0\Lib
-[Info  - 07:55:01] (35208)   c:\Users\josverl\AppData\Local\Microsoft\WindowsApps\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0
-[Info  - 07:55:01] (35208)   c:\Users\josverl\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0\LocalCache\local-packages\Python39\site-packages
-[Info  - 07:55:01] (35208)   c:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0
-[Info  - 07:55:01] (35208)   c:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0\Lib\site-packages
-[Info  - 07:55:01] (35208) Adding fs watcher for library directories:
+[Info  - 00:00:00](000000)Searching for source files
+[Info  - 00:00:00](000000)No source files found.
+[Info  - 00:00:00](000000)No configuration file found.
+[Info  - 00:00:00](000000)No pyproject.toml file found.
+[Info  - 00:00:00](000000)Setting pythonPath for service "MCU": "C:\Users\josverl\AppData\Local\Microsoft\WindowsApps\python3.9.exe"
+[Warn  - 00:00:00](000000)stubPath \typings is not a valid directory.
+[Info  - 00:00:00](000000)Assuming Python version 3.9
+[Info  - 00:00:00](000000)Assuming Python platform Windows
+[Info  - 00:00:00](000000)Search paths for \
+[Info  - 00:00:00](000000)  c:\Users\josverl\.vscode\extensions\ms-python.vscode-pylance-2022.6.30\dist\typeshed-fallback\stdlib
+[Info  - 00:00:00](000000)  \
+[Info  - 00:00:00](000000)  \typings
+[Info  - 00:00:00](000000)  c:\Users\josverl\.vscode\extensions\ms-python.vscode-pylance-2022.6.30\dist\typeshed-fallback\stubs\...
+[Info  - 00:00:00](000000)  c:\Users\josverl\.vscode\extensions\ms-python.vscode-pylance-2022.6.30\dist\bundled\stubs
+[Info  - 00:00:00](000000)  c:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0\DLLs
+[Info  - 00:00:00](000000)  c:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0\Lib
+[Info  - 00:00:00](000000)  c:\Users\josverl\AppData\Local\Microsoft\WindowsApps\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0
+[Info  - 00:00:00](000000)  c:\Users\josverl\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0\LocalCache\local-packages\Python39\site-packages
+[Info  - 00:00:00](000000)  c:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0
+[Info  - 00:00:00](000000)  c:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0\Lib\site-packages
+[Info  - 00:00:00](000000)Adding fs watcher for library directories:
  C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0\DLLs
 C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0\lib
 C:\Users\josverl\AppData\Local\Microsoft\WindowsApps\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0
 C:\Users\josverl\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0\LocalCache\local-packages\Python39\site-packages
 C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0
 C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0\lib\site-packages
-[Info  - 07:55:01] (35208) Adding fs watcher for directories:
+[Info  - 00:00:00](000000)Adding fs watcher for directories:
  \
-[Info  - 07:55:01] (35208) Searching for source files
-[Info  - 07:55:01] (35208) Auto-excluding \$Recycle.Bin\S-1-12-1-3020494159-1235939459-3438115750-967420959\$REJ16W7.venv
-[Info  - 07:55:01] (35208) Auto-excluding \$Recycle.Bin\S-1-12-1-3020494159-1235939459-3438115750-967420959\$RGXEZSB.venv
-[Warn  - 07:55:01] (35208) Skipping broken link "\$Recycle.Bin\S-1-5-18"
-[Warn  - 07:55:01] (35208) Skipping broken link "\PerfLogs"
-[Warn  - 07:55:03] (35208) Skipping broken link "\Program Files\Microsoft Policy Platform\authorityDb"
-[Warn  - 07:55:03] (35208) Skipping broken link "\Program Files\Windows Defender Advanced Threat Protection\Classification\Configuration"
-[Warn  - 07:55:03] (35208) Skipping broken link "\Program Files\WindowsApps"
-[Warn  - 07:55:03] (35208) Skipping broken link "\ProgramData\Microsoft\Crypto\DSS\S-1-5-18"
-[Warn  - 07:55:03] (35208) Skipping broken link "\ProgramData\Microsoft\Crypto\PCPKSP\WindowsAIK"
-[Warn  - 07:55:03] (35208) Skipping broken link "\ProgramData\Microsoft\Crypto\RSA\S-1-5-18"
-[Warn  - 07:55:03] (35208) Skipping broken link "\ProgramData\Microsoft\Crypto\SystemKeys"
-[Warn  - 07:55:03] (35208) Skipping broken link "\ProgramData\Microsoft\Diagnosis"
-[Warn  - 07:55:03] (35208) Skipping broken link "\ProgramData\Microsoft\Network\Downloader"
-[Warn  - 07:55:03] (35208) Skipping broken link "\ProgramData\Microsoft\Provisioning\AssetCache"
-[Warn  - 07:55:03] (35208) Skipping broken link "\ProgramData\Microsoft\Search\Data"
-[Warn  - 07:55:03] (35208) Skipping broken link "\ProgramData\Microsoft\SmsRouter"
-[Warn  - 07:55:03] (35208) Skipping broken link "\ProgramData\Microsoft\Spectrum"
-[Warn  - 07:55:03] (35208) Skipping broken link "\ProgramData\Microsoft\Windows\AppRepository"
-[Warn  - 07:55:03] (35208) Skipping broken link "\ProgramData\Microsoft\Windows\CapabilityAccessManager"
-[Warn  - 07:55:03] (35208) Skipping broken link "\ProgramData\Microsoft\Windows\Hyper-V"
-[Warn  - 07:55:03] (35208) Skipping broken link "\ProgramData\Microsoft\Windows\LfSvc"
-[Warn  - 07:55:03] (35208) Skipping broken link "\ProgramData\Microsoft\Windows\Models"
-[Warn  - 07:55:03] (35208) Skipping broken link "\ProgramData\Microsoft\Windows\PackagedEventProviders"
-[Warn  - 07:55:03] (35208) Skipping broken link "\ProgramData\Microsoft\Windows\Power Efficiency Diagnostics"
-[Warn  - 07:55:03] (35208) Skipping broken link "\ProgramData\Microsoft\Windows\SystemData"
-[Warn  - 07:55:03] (35208) Skipping broken link "\ProgramData\Microsoft\Windows\WER\ReportArchive\AppCrash_CcmExec.exe_f856f0fa684358a631787917ee53aae58169c4d5_82977961_057fc307-2a00-493d-a120-f5a1b2d60ebe"
-[Warn  - 07:55:03] (35208) Skipping broken link "\ProgramData\Microsoft\Windows\WER\ReportArchive\AppCrash_MsSense.exe_b72b5a87879f9521bef7b5a1412f28822ad7d9b_644625e7_05968270-3d03-450b-8d48-e8378bbf997e"
-[Warn  - 07:55:03] (35208) Skipping broken link "\ProgramData\Microsoft\Windows\WER\ReportArchive\AppCrash_OpenHandleCollec_60db93f5e42b5f804a3b1622b3a6f7c4d69ee4_4395d36e_369e7443-c7f1-429a-977b-3d2353f07f41"
-[Warn  - 07:55:03] (35208) Skipping broken link "\ProgramData\Microsoft\Windows\WER\ReportArchive\AppCrash_OpenHandleCollec_60db93f5e42b5f804a3b1622b3a6f7c4d69ee4_4395d36e_39776ec0-99a7-46f1-bbfd-0db339b14ba7"
-[Warn  - 07:55:03] (35208) Skipping broken link "\ProgramData\Microsoft\Windows\WER\ReportArchive\AppCrash_OpenHandleCollec_60db93f5e42b5f804a3b1622b3a6f7c4d69ee4_4395d36e_4cb09df3-8e8b-49ca-a091-7fe4d15fa5be"
-[Warn  - 07:55:03] (35208) Skipping broken link "\ProgramData\Microsoft\Windows\WER\ReportArchive\AppCrash_OpenHandleCollec_60db93f5e42b5f804a3b1622b3a6f7c4d69ee4_4395d36e_a48ad671-79de-4657-9824-e345ddf6bc7e"
-[Warn  - 07:55:03] (35208) Skipping broken link "\ProgramData\Microsoft\Windows\WER\ReportArchive\AppCrash_OpenHandleCollec_60db93f5e42b5f804a3b1622b3a6f7c4d69ee4_4395d36e_e52fdb6a-1f23-4372-855c-3bd3daaf3cae"
-[Warn  - 07:55:03] (35208) Skipping broken link "\ProgramData\Microsoft\Windows\WER\ReportArchive\AppCrash_OpenHandleCollec_60db93f5e42b5f804a3b1622b3a6f7c4d69ee4_4395d36e_fc8dd23b-1745-4bb7-bbcf-22b1f3ef0ce7"
-[Warn  - 07:55:03] (35208) Skipping broken link "\ProgramData\Microsoft\Windows\WER\ReportArchive\AppCrash_OpenHandleCollec_9b9258a2dcc010944625b5d46576d329e6f8787_bc45ba1c_09669c3f-003b-49f5-a627-9ee75df914d4"
-[Warn  - 07:55:03] (35208) Skipping broken link "\ProgramData\Microsoft\Windows\WER\ReportArchive\AppCrash_OpenHandleCollec_9b9258a2dcc010944625b5d46576d329e6f8787_bc45ba1c_09836a69-eaec-4f2b-a529-34d26ff1c90f"
-[Warn  - 07:55:03] (35208) Skipping broken link "\ProgramData\Microsoft\Windows\WER\ReportArchive\AppCrash_OpenHandleCollec_9b9258a2dcc010944625b5d46576d329e6f8787_bc45ba1c_4b775f02-77c4-4965-86f6-d21cd6bba80f"
-[Warn  - 07:55:03] (35208) Skipping broken link "\ProgramData\Microsoft\Windows\WER\ReportArchive\AppCrash_OpenHandleCollec_9b9258a2dcc010944625b5d46576d329e6f8787_bc45ba1c_65553db4-5573-44a5-99a3-99ffc2870019"
-[Warn  - 07:55:03] (35208) Skipping broken link "\ProgramData\Microsoft\Windows\WER\ReportArchive\AppCrash_OpenHandleCollec_9b9258a2dcc010944625b5d46576d329e6f8787_bc45ba1c_6701e5d6-186b-4bae-bf96-3004093b9918"
-[Warn  - 07:55:03] (35208) Skipping broken link "\ProgramData\Microsoft\Windows\WER\ReportArchive\AppCrash_OpenHandleCollec_9b9258a2dcc010944625b5d46576d329e6f8787_bc45ba1c_6bd456e7-a9f4-4f7a-8180-bde1cf76fc54"
-[Warn  - 07:55:03] (35208) Skipping broken link "\ProgramData\Microsoft\Windows\WER\ReportArchive\AppCrash_OpenHandleCollec_9b9258a2dcc010944625b5d46576d329e6f8787_bc45ba1c_8ef2c3a8-117c-4b61-ba9d-1cafbf84d94e"
-[Warn  - 07:55:03] (35208) Skipping broken link "\ProgramData\Microsoft\Windows\WER\ReportArchive\AppCrash_OpenHandleCollec_9b9258a2dcc010944625b5d46576d329e6f8787_bc45ba1c_9a5d7f04-e85f-47a0-821d-0e952b6c101e"
-[Warn  - 07:55:03] (35208) Skipping broken link "\ProgramData\Microsoft\Windows\WER\ReportArchive\AppCrash_OpenHandleCollec_9b9258a2dcc010944625b5d46576d329e6f8787_bc45ba1c_a068e332-7f26-4f4c-86cf-3804ee1003a4"
-[Warn  - 07:55:03] (35208) Skipping broken link "\ProgramData\Microsoft\Windows\WER\ReportArchive\AppCrash_OpenHandleCollec_9b9258a2dcc010944625b5d46576d329e6f8787_bc45ba1c_a0d657aa-3b8a-41ab-a970-cc14d93a68fd"
-[Warn  - 07:55:03] (35208) Skipping broken link "\ProgramData\Microsoft\Windows\WER\ReportArchive\AppCrash_OpenHandleCollec_9b9258a2dcc010944625b5d46576d329e6f8787_bc45ba1c_aa48ca6e-0733-4b54-b0b1-374a9ab1624d"
-[Warn  - 07:55:03] (35208) Skipping broken link "\ProgramData\Microsoft\Windows\WER\ReportArchive\AppCrash_OpenHandleCollec_9b9258a2dcc010944625b5d46576d329e6f8787_bc45ba1c_ddd75345-c1c7-40e1-840b-786ccd5eb861"
-[Warn  - 07:55:03] (35208) Skipping broken link "\ProgramData\Microsoft\Windows\WER\ReportArchive\AppCrash_OpenHandleCollec_9b9258a2dcc010944625b5d46576d329e6f8787_bc45ba1c_e2ef7e80-937f-48ee-a4f0-41e9e96a29ae"
-[Warn  - 07:55:03] (35208) Skipping broken link "\ProgramData\Microsoft\Windows\WER\ReportArchive\AppCrash_OpenHandleCollec_9b9258a2dcc010944625b5d46576d329e6f8787_bc45ba1c_fb371778-85cb-4878-abbe-0f6fc4d06676"
-[Warn  - 07:55:03] (35208) Skipping broken link "\ProgramData\Microsoft\Windows\WER\ReportArchive\AppCrash_OpenHandleCollec_9b9258a2dcc010944625b5d46576d329e6f8787_bc45ba1c_fe12dfba-185c-4428-b9bd-7f2ccdeeb560"
-[Warn  - 07:55:03] (35208) Skipping broken link "\ProgramData\Microsoft\Windows\WER\ReportArchive\AppCrash_Setup_x64.exe_4a1e181f2ae418113d29fa135207ef230c54c98_0d823658_30260329-7a65-4039-9dfe-d1b38d7b1dfe"
-[Warn  - 07:55:03] (35208) Skipping broken link "\ProgramData\Microsoft\Windows\WER\ReportArchive\AppCrash_SurfaceService.e_4b8bfd7ebcda6ec43aa40c27ff4bad6b6722320_98100406_1db1751e-828d-4e72-96a4-ada047edb075"
-[Warn  - 07:55:03] (35208) Skipping broken link "\ProgramData\Microsoft\Windows\WER\ReportArchive\AppCrash_SurfaceService.e_6d277ca929b753fd984f4a5f15f87a9872f73f_1af56f2b_8cfad57b-b5b8-4c13-bebc-3483be0b0b87"
-[Warn  - 07:55:03] (35208) Skipping broken link "\ProgramData\Microsoft\Windows\WER\ReportArchive\AppCrash_svchost.exe_Fram_20fba0b238465fc78be8bf4d2ae9c9313cd2d3b9_60470071_e53a7954-4c89-4085-97da-6362d36bec31"
-[Warn  - 07:55:03] (35208) Skipping broken link "\ProgramData\Microsoft\Windows\WER\ReportArchive\AppCrash_svchost.exe_Fram_30f076f937b5bf48d5395719c659509bcc93454a_60470071_fafb6b3e-e0c5-4dcb-98d0-6142b6a64a64"
-[Warn  - 07:55:03] (35208) Skipping broken link "\ProgramData\Microsoft\Windows\WER\ReportArchive\AppCrash_svchost.exe_WMan_05139493d2cd9e18da2f318c03b583c2d2da9_5d37cfda_23de59ba-065a-4a2f-9983-0e3f4e725fd2"
-[Warn  - 07:55:03] (35208) Skipping broken link "\ProgramData\Microsoft\Windows\WER\ReportArchive\AppCrash_svchost.exe_Wbio_1ca850c35d122563fe4119cc46d29627df5572f3_edda7130_f68b8b5a-ed49-4f36-acd9-c6d221eba41f"
-[Warn  - 07:55:03] (35208) Skipping broken link "\ProgramData\Microsoft\Windows\WER\ReportArchive\AppCrash_svchost.exe_Wbio_601a17673a9050aa4869e0116699f1cbf942f74_edda7130_72bf6f42-4b2f-457e-b3ce-53f463c4c7f7"
-[Warn  - 07:55:03] (35208) Skipping broken link "\ProgramData\Microsoft\Windows\WER\ReportArchive\AppCrash_svchost.exe_Wbio_601a17673a9050aa4869e0116699f1cbf942f74_edda7130_837ef9fb-921d-4a88-b1e7-8d4f6b69d6a2"
-[Warn  - 07:55:03] (35208) Skipping broken link "\ProgramData\Microsoft\Windows\WER\ReportArchive\AppCrash_svchost.exe_Wbio_e023cd8171a3e7014c4edf3293573ed0314777_edda7130_d6f934cd-8f78-4304-886f-137c8bde0d63"
-[Warn  - 07:55:03] (35208) Skipping broken link "\ProgramData\Microsoft\Windows\WER\ReportArchive\AppHang_MicrosoftWindows_ef9bd656e6709ad83e9ee62dbc65e368d5875f_500125bb_1aeab62f-cefe-4cfd-aced-8b3097bee8ae"
-[Warn  - 07:55:03] (35208) Skipping broken link "\ProgramData\Microsoft\Windows\WER\ReportArchive\AppHang_NcbService_6265e7554bf7722b57876afedd4b21d9f87a39f_00000000_23c6030e-aefa-41cb-84b2-11e3fb91a483"
-[Warn  - 07:55:03] (35208) Skipping broken link "\ProgramData\Microsoft\Windows\WER\ReportArchive\Critical_ONENOTE.EXE_94467f1d1b687e26e0bf94ed1b40da33feae7b80_61c4eb98_7ce15099-f4b4-4513-aba5-f82126ab5abf"
-[Warn  - 07:55:03] (35208) Skipping broken link "\ProgramData\Microsoft\Windows\WER\ReportArchive\Critical_PhantomZerOS.exe_3fad0f4738ff384516b42fff7faca639bca0_8b7887b2_811dab45-0066-4df7-8cef-91712037b76b"
-[Warn  - 07:55:03] (35208) Skipping broken link "\ProgramData\Microsoft\Windows\WER\ReportArchive\Critical_PhantomZerOS.exe_3fad0f4738ff384516b42fff7faca639bca0_8b7887b2_b756998a-cc61-4fa5-8797-4caa0a679121"
-[Warn  - 07:55:03] (35208) Skipping broken link "\ProgramData\Microsoft\Windows\WER\ReportArchive\Kernel_117_12ff4e438de726464b4fecd603bb30184e4394_00000000_cab_4121552f-0538-462d-960e-ad6af38ad0a5"
-[Warn  - 07:55:03] (35208) Skipping broken link "\ProgramData\Microsoft\Windows\WER\ReportArchive\Kernel_117_38bb33b40cccafadeabde03d715d974223655e_00000000_cab_436e5744-f187-4f88-97f8-0d0c8f1c27e5"
-[Warn  - 07:55:03] (35208) Skipping broken link "\ProgramData\Microsoft\Windows\WER\ReportArchive\Kernel_141_4f5a37ff39395980785e399572f8b1ce8abc656f_00000000_cab_db2878ac-ebb5-4fd2-a439-905cd755668e"
-[Warn  - 07:55:03] (35208) Skipping broken link "\ProgramData\Microsoft\Windows\WER\ReportArchive\Kernel_141_c8f3119ca134cd4d8fbc6dea8ddfee808a3646f_00000000_cab_ca57b0b4-9385-4f17-a72d-9fa1b7d46c45"
-[Warn  - 07:55:03] (35208) Skipping broken link "\ProgramData\Microsoft\Windows\WER\ReportArchive\Kernel_144_104e2bb655e1db47e88c4b87b77a4edbc5dad5_00000000_cab_e4d6deae-e00d-4479-a36a-85b7c571473e"
-[Warn  - 07:55:03] (35208) Skipping broken link "\ProgramData\Microsoft\Windows\WER\ReportArchive\Kernel_144_a549875654b0347013b665b29b45549e467dce87_00000000_cab_008a5422-69ae-495e-a009-a9e2dbb2e4e8"
-[Warn  - 07:55:03] (35208) Skipping broken link "\ProgramData\Microsoft\Windows\WER\ReportArchive\Kernel_144_ac2660a636c221725edc28727bca16f1c13bd144_00000000_cab_63a3c267-cf81-4796-a21e-bd684e0f1a39"
-[Warn  - 07:55:03] (35208) Skipping broken link "\ProgramData\Microsoft\Windows\WER\ReportArchive\Kernel_144_f0c1ed8c991a1b18d1ef91e95397b7af1c163eb8_00000000_cab_daebcd58-0c7e-4a97-a397-a0fd8e197012"
-[Warn  - 07:55:03] (35208) Skipping broken link "\ProgramData\Microsoft\Windows\WER\ReportArchive\NonCritical_1.0.85.0_b73889a8f1f52a448c8640fb2437c78a8de057ee_00000000_0a078d51-e31c-4a89-ba63-f42c4306f294"
-[Warn  - 07:55:03] (35208) Skipping broken link "\ProgramData\Microsoft\Windows\WER\ReportArchive\NonCritical_1.0.85.0_b73889a8f1f52a448c8640fb2437c78a8de057ee_00000000_4cfce989-1552-46f5-9c23-b86dd6f9710f"
-[Warn  - 07:55:03] (35208) Skipping broken link "\ProgramData\Microsoft\Windows\WER\ReportArchive\NonCritical_1.0.85.0_b73889a8f1f52a448c8640fb2437c78a8de057ee_00000000_5c69273d-63e8-4208-80a2-f470eab2a679"
-[Warn  - 07:55:03] (35208) Skipping broken link "\ProgramData\Microsoft\Windows\WER\ReportArchive\NonCritical_3_fc853d7f92732955598999d7e3dfff794444da9e_00000000_4f703be5-9094-4840-9156-dd5d30672b57"
-[Warn  - 07:55:03] (35208) Skipping broken link "\ProgramData\Microsoft\Windows\WER\ReportArchive\NonCritical_MicrosoftEdgeUpd_afce25defe1ed9a24c11f435178f2ae0eb5f_00000000_bd3ecb80-81a3-4d32-a337-3182366e5cf1"
-[Warn  - 07:55:03] (35208) Skipping broken link "\ProgramData\Microsoft\Windows\WER\ReportArchive\NonCritical_Update;ScanForUp_12888cf5585e2448f815e9b7afac680eccf76e2_00000000_2f2bf1ce-a65f-4d37-b15d-06cbba057020"
-[Warn  - 07:55:03] (35208) Skipping broken link "\ProgramData\Microsoft\Windows\WER\ReportArchive\NonCritical_Update;ScanForUp_395edf1936181cc1ae6dfcd44019b0e8079f57c_00000000_63a72db5-add5-484b-91f7-08764eb25f7b"
-[Warn  - 07:55:03] (35208) Skipping broken link "\ProgramData\Microsoft\Windows\WER\ReportArchive\NonCritical_Update;ScanForUp_94ec528086ded02c4214b53c83fa4c3a78537966_00000000_c12b6686-a285-4b2a-a973-2de8c64113b8"
-[Warn  - 07:55:03] (35208) Skipping broken link "\ProgramData\Microsoft\Windows\WER\ReportArchive\NonCritical_Update;ScanForUp_e0717865d0a250199e709217ac94f5c4c475445_00000000_f8d291df-e444-49db-9a67-caff86a526c5"
-[Warn  - 07:55:03] (35208) Skipping broken link "\ProgramData\Microsoft\Windows\WER\ReportArchive\NonCritical_Update;_5b66f8a813a86e527d2ff363d14f7271226b0_00000000_944b0eae-427a-4d8b-a83d-8c287af89f55"
-[Warn  - 07:55:03] (35208) Skipping broken link "\ProgramData\Microsoft\Windows\WER\ReportArchive\NonCritical_Update;_ef220e07b6b7516c8192c55e1faa1213ed16c2_00000000_95c2f3b4-a8af-4900-a029-d1442ca76338"
-[Warn  - 07:55:03] (35208) Skipping broken link "\ProgramData\Microsoft\Windows\WER\ReportArchive\NonCritical_VerifierFailure_889d216c91288a75c586debbe9c269c1617d9f0_00000000_12380066-475b-46b0-9ecf-14bd1c4f8958"
-[Warn  - 07:55:03] (35208) Skipping broken link "\ProgramData\Microsoft\Windows\WER\ReportArchive\NonCritical_VerifierFailure_889d216c91288a75c586debbe9c269c1617d9f0_00000000_2e840cd1-cc8e-4c0e-99f0-e94153625f44"
-[Warn  - 07:55:03] (35208) Skipping broken link "\ProgramData\Microsoft\Windows\WER\ReportArchive\NonCritical_VerifierFailure_889d216c91288a75c586debbe9c269c1617d9f0_00000000_b362d4f8-6ce1-4750-8f69-2d52ede266b1"
-[Warn  - 07:55:03] (35208) Skipping broken link "\ProgramData\Microsoft\Windows\WER\ReportArchive\NonCritical_VerifierFailure_889d216c91288a75c586debbe9c269c1617d9f0_00000000_b5afd4e2-68a7-4ad9-9382-54bafcb1d751"
-[Warn  - 07:55:03] (35208) Skipping broken link "\ProgramData\Microsoft\Windows\WER\ReportArchive\NonCritical_VerifierFailure_889d216c91288a75c586debbe9c269c1617d9f0_00000000_c4ca7168-26bf-4269-9d01-e57a0cee1ba7"
-[Warn  - 07:55:03] (35208) Skipping broken link "\ProgramData\Microsoft\Windows\WER\ReportArchive\NonCritical_VerifierFailure_889d216c91288a75c586debbe9c269c1617d9f0_00000000_f1b922d8-27e4-453d-85ea-43e8088bf7b9"
-[Warn  - 07:55:03] (35208) Skipping broken link "\ProgramData\Microsoft\Windows\WER\ReportArchive\NonCritical_unknown_d741f3791432bf44d1f8f38df7fadd96e2442dd_00000000_25355297-868e-4e55-8f8e-dd738e3d9d25"
-[Warn  - 07:55:03] (35208) Skipping broken link "\ProgramData\Microsoft\Windows\WER\ReportArchive\NonCritical_unknown_d741f3791432bf44d1f8f38df7fadd96e2442dd_00000000_dafe445d-8e59-4d50-b3d2-72afec6d9482"
-[Warn  - 07:55:03] (35208) Skipping broken link "\ProgramData\Microsoft\Windows\WindowsApps"
-[Warn  - 07:55:03] (35208) Skipping broken link "\ProgramData\Microsoft\Windows\wfp"
-[Warn  - 07:55:03] (35208) Skipping broken link "\ProgramData\Microsoft\Windows Defender\Clean Store"
-[Warn  - 07:55:03] (35208) Skipping broken link "\ProgramData\Microsoft\Windows Defender\Features"
-[Warn  - 07:55:03] (35208) Skipping broken link "\ProgramData\Microsoft\Windows Defender\LocalCopy"
-[Warn  - 07:55:03] (35208) Skipping broken link "\ProgramData\Microsoft\Windows Defender\Network Inspection System"
-[Warn  - 07:55:04] (35208) Skipping broken link "\ProgramData\Microsoft\Windows Defender\Platform\4.18.2205.7-0"
-[Warn  - 07:55:04] (35208) Skipping broken link "\ProgramData\Microsoft\Windows Defender\Quarantine"
-[Warn  - 07:55:04] (35208) Skipping broken link "\ProgramData\Microsoft\Windows Defender\Scans"
-[Warn  - 07:55:04] (35208) Skipping broken link "\ProgramData\Microsoft\Windows Defender\Support"
-[Warn  - 07:55:04] (35208) Skipping broken link "\ProgramData\Microsoft\Windows Defender Advanced Threat Protection\Cache"
-[Warn  - 07:55:04] (35208) Skipping broken link "\ProgramData\Microsoft\Windows Defender Advanced Threat Protection\Cyber"
-[Warn  - 07:55:04] (35208) Skipping broken link "\ProgramData\Microsoft\Windows Defender Advanced Threat Protection\DLP"
-[Warn  - 07:55:04] (35208) Skipping broken link "\ProgramData\Microsoft\Windows Defender Advanced Threat Protection\DataCollection"
-[Warn  - 07:55:04] (35208) Skipping broken link "\ProgramData\Microsoft\Windows Defender Advanced Threat Protection\Downloads"
-[Warn  - 07:55:04] (35208) Skipping broken link "\ProgramData\Microsoft\Windows Defender Advanced Threat Protection\SenseCM"
-[Warn  - 07:55:04] (35208) Skipping broken link "\ProgramData\Microsoft\Windows Defender Advanced Threat Protection\Temp\PSScriptOutputs"
-[Warn  - 07:55:04] (35208) Skipping broken link "\ProgramData\Microsoft\Windows Defender Advanced Threat Protection\Trace"
-[Warn  - 07:55:04] (35208) Skipping broken link "\ProgramData\Microsoft\Windows NT\MSFax"
-[Warn  - 07:55:04] (35208) Skipping broken link "\ProgramData\Packages"
-[Warn  - 07:55:04] (35208) Skipping broken link "\ProgramData\WindowsHolographicDevices"
-[Warn  - 07:55:04] (35208) Skipping broken link "\Recovery"
-[Warn  - 07:55:04] (35208) Skipping broken link "\System Volume Information"
-[Warn  - 07:55:04] (35208) Skipping recursive symlink "\Users\All Users\Application Data" -> "C:\ProgramData"
-[Warn  - 07:55:04] (35208) Skipping broken link "\Users\All Users\Microsoft\Crypto\DSS\S-1-5-18"
-[Warn  - 07:55:04] (35208) Skipping broken link "\Users\All Users\Microsoft\Crypto\PCPKSP\WindowsAIK"
-[Warn  - 07:55:04] (35208) Skipping broken link "\Users\All Users\Microsoft\Crypto\RSA\S-1-5-18"
-[Warn  - 07:55:04] (35208) Skipping broken link "\Users\All Users\Microsoft\Crypto\SystemKeys"
-[Warn  - 07:55:04] (35208) Skipping broken link "\Users\All Users\Microsoft\Diagnosis"
-[Warn  - 07:55:04] (35208) Skipping broken link "\Users\All Users\Microsoft\Network\Downloader"
-[Warn  - 07:55:04] (35208) Skipping broken link "\Users\All Users\Microsoft\Provisioning\AssetCache"
-[Warn  - 07:55:04] (35208) Skipping broken link "\Users\All Users\Microsoft\Search\Data"
-[Warn  - 07:55:04] (35208) Skipping broken link "\Users\All Users\Microsoft\SmsRouter"
-[Warn  - 07:55:04] (35208) Skipping broken link "\Users\All Users\Microsoft\Spectrum"
-[Warn  - 07:55:04] (35208) Skipping broken link "\Users\All Users\Microsoft\Windows\AppRepository"
-[Warn  - 07:55:04] (35208) Skipping broken link "\Users\All Users\Microsoft\Windows\CapabilityAccessManager"
-[Warn  - 07:55:04] (35208) Skipping broken link "\Users\All Users\Microsoft\Windows\Hyper-V"
-[Warn  - 07:55:04] (35208) Skipping broken link "\Users\All Users\Microsoft\Windows\LfSvc"
-[Warn  - 07:55:04] (35208) Skipping broken link "\Users\All Users\Microsoft\Windows\Models"
-[Warn  - 07:55:04] (35208) Skipping broken link "\Users\All Users\Microsoft\Windows\PackagedEventProviders"
-[Warn  - 07:55:04] (35208) Skipping broken link "\Users\All Users\Microsoft\Windows\Power Efficiency Diagnostics"
-[Warn  - 07:55:04] (35208) Skipping broken link "\Users\All Users\Microsoft\Windows\SystemData"
-[Warn  - 07:55:04] (35208) Skipping broken link "\Users\All Users\Microsoft\Windows\WER\ReportArchive\AppCrash_CcmExec.exe_f856f0fa684358a631787917ee53aae58169c4d5_82977961_057fc307-2a00-493d-a120-f5a1b2d60ebe"
-[Warn  - 07:55:04] (35208) Skipping broken link "\Users\All Users\Microsoft\Windows\WER\ReportArchive\AppCrash_MsSense.exe_b72b5a87879f9521bef7b5a1412f28822ad7d9b_644625e7_05968270-3d03-450b-8d48-e8378bbf997e"
-[Warn  - 07:55:04] (35208) Skipping broken link "\Users\All Users\Microsoft\Windows\WER\ReportArchive\AppCrash_OpenHandleCollec_60db93f5e42b5f804a3b1622b3a6f7c4d69ee4_4395d36e_369e7443-c7f1-429a-977b-3d2353f07f41"
-[Warn  - 07:55:04] (35208) Skipping broken link "\Users\All Users\Microsoft\Windows\WER\ReportArchive\AppCrash_OpenHandleCollec_60db93f5e42b5f804a3b1622b3a6f7c4d69ee4_4395d36e_39776ec0-99a7-46f1-bbfd-0db339b14ba7"
-[Warn  - 07:55:04] (35208) Skipping broken link "\Users\All Users\Microsoft\Windows\WER\ReportArchive\AppCrash_OpenHandleCollec_60db93f5e42b5f804a3b1622b3a6f7c4d69ee4_4395d36e_4cb09df3-8e8b-49ca-a091-7fe4d15fa5be"
-[Warn  - 07:55:04] (35208) Skipping broken link "\Users\All Users\Microsoft\Windows\WER\ReportArchive\AppCrash_OpenHandleCollec_60db93f5e42b5f804a3b1622b3a6f7c4d69ee4_4395d36e_a48ad671-79de-4657-9824-e345ddf6bc7e"
-[Warn  - 07:55:04] (35208) Skipping broken link "\Users\All Users\Microsoft\Windows\WER\ReportArchive\AppCrash_OpenHandleCollec_60db93f5e42b5f804a3b1622b3a6f7c4d69ee4_4395d36e_e52fdb6a-1f23-4372-855c-3bd3daaf3cae"
-[Warn  - 07:55:04] (35208) Skipping broken link "\Users\All Users\Microsoft\Windows\WER\ReportArchive\AppCrash_OpenHandleCollec_60db93f5e42b5f804a3b1622b3a6f7c4d69ee4_4395d36e_fc8dd23b-1745-4bb7-bbcf-22b1f3ef0ce7"
-[Warn  - 07:55:04] (35208) Skipping broken link "\Users\All Users\Microsoft\Windows\WER\ReportArchive\AppCrash_OpenHandleCollec_9b9258a2dcc010944625b5d46576d329e6f8787_bc45ba1c_09669c3f-003b-49f5-a627-9ee75df914d4"
-[Warn  - 07:55:04] (35208) Skipping broken link "\Users\All Users\Microsoft\Windows\WER\ReportArchive\AppCrash_OpenHandleCollec_9b9258a2dcc010944625b5d46576d329e6f8787_bc45ba1c_09836a69-eaec-4f2b-a529-34d26ff1c90f"
-[Warn  - 07:55:04] (35208) Skipping broken link "\Users\All Users\Microsoft\Windows\WER\ReportArchive\AppCrash_OpenHandleCollec_9b9258a2dcc010944625b5d46576d329e6f8787_bc45ba1c_4b775f02-77c4-4965-86f6-d21cd6bba80f"
-[Warn  - 07:55:04] (35208) Skipping broken link "\Users\All Users\Microsoft\Windows\WER\ReportArchive\AppCrash_OpenHandleCollec_9b9258a2dcc010944625b5d46576d329e6f8787_bc45ba1c_65553db4-5573-44a5-99a3-99ffc2870019"
-[Warn  - 07:55:04] (35208) Skipping broken link "\Users\All Users\Microsoft\Windows\WER\ReportArchive\AppCrash_OpenHandleCollec_9b9258a2dcc010944625b5d46576d329e6f8787_bc45ba1c_6701e5d6-186b-4bae-bf96-3004093b9918"
-[Warn  - 07:55:04] (35208) Skipping broken link "\Users\All Users\Microsoft\Windows\WER\ReportArchive\AppCrash_OpenHandleCollec_9b9258a2dcc010944625b5d46576d329e6f8787_bc45ba1c_6bd456e7-a9f4-4f7a-8180-bde1cf76fc54"
-[Warn  - 07:55:04] (35208) Skipping broken link "\Users\All Users\Microsoft\Windows\WER\ReportArchive\AppCrash_OpenHandleCollec_9b9258a2dcc010944625b5d46576d329e6f8787_bc45ba1c_8ef2c3a8-117c-4b61-ba9d-1cafbf84d94e"
-[Warn  - 07:55:04] (35208) Skipping broken link "\Users\All Users\Microsoft\Windows\WER\ReportArchive\AppCrash_OpenHandleCollec_9b9258a2dcc010944625b5d46576d329e6f8787_bc45ba1c_9a5d7f04-e85f-47a0-821d-0e952b6c101e"
-[Warn  - 07:55:04] (35208) Skipping broken link "\Users\All Users\Microsoft\Windows\WER\ReportArchive\AppCrash_OpenHandleCollec_9b9258a2dcc010944625b5d46576d329e6f8787_bc45ba1c_a068e332-7f26-4f4c-86cf-3804ee1003a4"
-[Warn  - 07:55:04] (35208) Skipping broken link "\Users\All Users\Microsoft\Windows\WER\ReportArchive\AppCrash_OpenHandleCollec_9b9258a2dcc010944625b5d46576d329e6f8787_bc45ba1c_a0d657aa-3b8a-41ab-a970-cc14d93a68fd"
-[Warn  - 07:55:04] (35208) Skipping broken link "\Users\All Users\Microsoft\Windows\WER\ReportArchive\AppCrash_OpenHandleCollec_9b9258a2dcc010944625b5d46576d329e6f8787_bc45ba1c_aa48ca6e-0733-4b54-b0b1-374a9ab1624d"
-[Warn  - 07:55:04] (35208) Skipping broken link "\Users\All Users\Microsoft\Windows\WER\ReportArchive\AppCrash_OpenHandleCollec_9b9258a2dcc010944625b5d46576d329e6f8787_bc45ba1c_ddd75345-c1c7-40e1-840b-786ccd5eb861"
-[Warn  - 07:55:04] (35208) Skipping broken link "\Users\All Users\Microsoft\Windows\WER\ReportArchive\AppCrash_OpenHandleCollec_9b9258a2dcc010944625b5d46576d329e6f8787_bc45ba1c_e2ef7e80-937f-48ee-a4f0-41e9e96a29ae"
-[Warn  - 07:55:04] (35208) Skipping broken link "\Users\All Users\Microsoft\Windows\WER\ReportArchive\AppCrash_OpenHandleCollec_9b9258a2dcc010944625b5d46576d329e6f8787_bc45ba1c_fb371778-85cb-4878-abbe-0f6fc4d06676"
-[Warn  - 07:55:04] (35208) Skipping broken link "\Users\All Users\Microsoft\Windows\WER\ReportArchive\AppCrash_OpenHandleCollec_9b9258a2dcc010944625b5d46576d329e6f8787_bc45ba1c_fe12dfba-185c-4428-b9bd-7f2ccdeeb560"
-[Warn  - 07:55:04] (35208) Skipping broken link "\Users\All Users\Microsoft\Windows\WER\ReportArchive\AppCrash_Setup_x64.exe_4a1e181f2ae418113d29fa135207ef230c54c98_0d823658_30260329-7a65-4039-9dfe-d1b38d7b1dfe"
-[Warn  - 07:55:04] (35208) Skipping broken link "\Users\All Users\Microsoft\Windows\WER\ReportArchive\AppCrash_SurfaceService.e_4b8bfd7ebcda6ec43aa40c27ff4bad6b6722320_98100406_1db1751e-828d-4e72-96a4-ada047edb075"
-[Warn  - 07:55:04] (35208) Skipping broken link "\Users\All Users\Microsoft\Windows\WER\ReportArchive\AppCrash_SurfaceService.e_6d277ca929b753fd984f4a5f15f87a9872f73f_1af56f2b_8cfad57b-b5b8-4c13-bebc-3483be0b0b87"
-[Warn  - 07:55:04] (35208) Skipping broken link "\Users\All Users\Microsoft\Windows\WER\ReportArchive\AppCrash_svchost.exe_Fram_20fba0b238465fc78be8bf4d2ae9c9313cd2d3b9_60470071_e53a7954-4c89-4085-97da-6362d36bec31"
-[Warn  - 07:55:04] (35208) Skipping broken link "\Users\All Users\Microsoft\Windows\WER\ReportArchive\AppCrash_svchost.exe_Fram_30f076f937b5bf48d5395719c659509bcc93454a_60470071_fafb6b3e-e0c5-4dcb-98d0-6142b6a64a64"
-[Warn  - 07:55:04] (35208) Skipping broken link "\Users\All Users\Microsoft\Windows\WER\ReportArchive\AppCrash_svchost.exe_WMan_05139493d2cd9e18da2f318c03b583c2d2da9_5d37cfda_23de59ba-065a-4a2f-9983-0e3f4e725fd2"
-[Warn  - 07:55:04] (35208) Skipping broken link "\Users\All Users\Microsoft\Windows\WER\ReportArchive\AppCrash_svchost.exe_Wbio_1ca850c35d122563fe4119cc46d29627df5572f3_edda7130_f68b8b5a-ed49-4f36-acd9-c6d221eba41f"
-[Warn  - 07:55:04] (35208) Skipping broken link "\Users\All Users\Microsoft\Windows\WER\ReportArchive\AppCrash_svchost.exe_Wbio_601a17673a9050aa4869e0116699f1cbf942f74_edda7130_72bf6f42-4b2f-457e-b3ce-53f463c4c7f7"
-[Warn  - 07:55:04] (35208) Skipping broken link "\Users\All Users\Microsoft\Windows\WER\ReportArchive\AppCrash_svchost.exe_Wbio_601a17673a9050aa4869e0116699f1cbf942f74_edda7130_837ef9fb-921d-4a88-b1e7-8d4f6b69d6a2"
-[Warn  - 07:55:04] (35208) Skipping broken link "\Users\All Users\Microsoft\Windows\WER\ReportArchive\AppCrash_svchost.exe_Wbio_e023cd8171a3e7014c4edf3293573ed0314777_edda7130_d6f934cd-8f78-4304-886f-137c8bde0d63"
-[Warn  - 07:55:04] (35208) Skipping broken link "\Users\All Users\Microsoft\Windows\WER\ReportArchive\AppHang_MicrosoftWindows_ef9bd656e6709ad83e9ee62dbc65e368d5875f_500125bb_1aeab62f-cefe-4cfd-aced-8b3097bee8ae"
-[Warn  - 07:55:04] (35208) Skipping broken link "\Users\All Users\Microsoft\Windows\WER\ReportArchive\AppHang_NcbService_6265e7554bf7722b57876afedd4b21d9f87a39f_00000000_23c6030e-aefa-41cb-84b2-11e3fb91a483"
-[Warn  - 07:55:04] (35208) Skipping broken link "\Users\All Users\Microsoft\Windows\WER\ReportArchive\Critical_ONENOTE.EXE_94467f1d1b687e26e0bf94ed1b40da33feae7b80_61c4eb98_7ce15099-f4b4-4513-aba5-f82126ab5abf"
-[Warn  - 07:55:04] (35208) Skipping broken link "\Users\All Users\Microsoft\Windows\WER\ReportArchive\Critical_PhantomZerOS.exe_3fad0f4738ff384516b42fff7faca639bca0_8b7887b2_811dab45-0066-4df7-8cef-91712037b76b"
-[Warn  - 07:55:04] (35208) Skipping broken link "\Users\All Users\Microsoft\Windows\WER\ReportArchive\Critical_PhantomZerOS.exe_3fad0f4738ff384516b42fff7faca639bca0_8b7887b2_b756998a-cc61-4fa5-8797-4caa0a679121"
-[Warn  - 07:55:04] (35208) Skipping broken link "\Users\All Users\Microsoft\Windows\WER\ReportArchive\Kernel_117_12ff4e438de726464b4fecd603bb30184e4394_00000000_cab_4121552f-0538-462d-960e-ad6af38ad0a5"
-[Warn  - 07:55:04] (35208) Skipping broken link "\Users\All Users\Microsoft\Windows\WER\ReportArchive\Kernel_117_38bb33b40cccafadeabde03d715d974223655e_00000000_cab_436e5744-f187-4f88-97f8-0d0c8f1c27e5"
-[Warn  - 07:55:04] (35208) Skipping broken link "\Users\All Users\Microsoft\Windows\WER\ReportArchive\Kernel_141_4f5a37ff39395980785e399572f8b1ce8abc656f_00000000_cab_db2878ac-ebb5-4fd2-a439-905cd755668e"
-[Warn  - 07:55:04] (35208) Skipping broken link "\Users\All Users\Microsoft\Windows\WER\ReportArchive\Kernel_141_c8f3119ca134cd4d8fbc6dea8ddfee808a3646f_00000000_cab_ca57b0b4-9385-4f17-a72d-9fa1b7d46c45"
-[Warn  - 07:55:04] (35208) Skipping broken link "\Users\All Users\Microsoft\Windows\WER\ReportArchive\Kernel_144_104e2bb655e1db47e88c4b87b77a4edbc5dad5_00000000_cab_e4d6deae-e00d-4479-a36a-85b7c571473e"
-[Warn  - 07:55:04] (35208) Skipping broken link "\Users\All Users\Microsoft\Windows\WER\ReportArchive\Kernel_144_a549875654b0347013b665b29b45549e467dce87_00000000_cab_008a5422-69ae-495e-a009-a9e2dbb2e4e8"
-[Warn  - 07:55:04] (35208) Skipping broken link "\Users\All Users\Microsoft\Windows\WER\ReportArchive\Kernel_144_ac2660a636c221725edc28727bca16f1c13bd144_00000000_cab_63a3c267-cf81-4796-a21e-bd684e0f1a39"
-[Warn  - 07:55:04] (35208) Skipping broken link "\Users\All Users\Microsoft\Windows\WER\ReportArchive\Kernel_144_f0c1ed8c991a1b18d1ef91e95397b7af1c163eb8_00000000_cab_daebcd58-0c7e-4a97-a397-a0fd8e197012"
-[Warn  - 07:55:04] (35208) Skipping broken link "\Users\All Users\Microsoft\Windows\WER\ReportArchive\NonCritical_1.0.85.0_b73889a8f1f52a448c8640fb2437c78a8de057ee_00000000_0a078d51-e31c-4a89-ba63-f42c4306f294"
-[Warn  - 07:55:04] (35208) Skipping broken link "\Users\All Users\Microsoft\Windows\WER\ReportArchive\NonCritical_1.0.85.0_b73889a8f1f52a448c8640fb2437c78a8de057ee_00000000_4cfce989-1552-46f5-9c23-b86dd6f9710f"
-[Warn  - 07:55:04] (35208) Skipping broken link "\Users\All Users\Microsoft\Windows\WER\ReportArchive\NonCritical_1.0.85.0_b73889a8f1f52a448c8640fb2437c78a8de057ee_00000000_5c69273d-63e8-4208-80a2-f470eab2a679"
-[Warn  - 07:55:04] (35208) Skipping broken link "\Users\All Users\Microsoft\Windows\WER\ReportArchive\NonCritical_3_fc853d7f92732955598999d7e3dfff794444da9e_00000000_4f703be5-9094-4840-9156-dd5d30672b57"
-[Warn  - 07:55:04] (35208) Skipping broken link "\Users\All Users\Microsoft\Windows\WER\ReportArchive\NonCritical_MicrosoftEdgeUpd_afce25defe1ed9a24c11f435178f2ae0eb5f_00000000_bd3ecb80-81a3-4d32-a337-3182366e5cf1"
-[Warn  - 07:55:04] (35208) Skipping broken link "\Users\All Users\Microsoft\Windows\WER\ReportArchive\NonCritical_Update;ScanForUp_12888cf5585e2448f815e9b7afac680eccf76e2_00000000_2f2bf1ce-a65f-4d37-b15d-06cbba057020"
-[Warn  - 07:55:04] (35208) Skipping broken link "\Users\All Users\Microsoft\Windows\WER\ReportArchive\NonCritical_Update;ScanForUp_395edf1936181cc1ae6dfcd44019b0e8079f57c_00000000_63a72db5-add5-484b-91f7-08764eb25f7b"
-[Warn  - 07:55:04] (35208) Skipping broken link "\Users\All Users\Microsoft\Windows\WER\ReportArchive\NonCritical_Update;ScanForUp_94ec528086ded02c4214b53c83fa4c3a78537966_00000000_c12b6686-a285-4b2a-a973-2de8c64113b8"
-[Warn  - 07:55:04] (35208) Skipping broken link "\Users\All Users\Microsoft\Windows\WER\ReportArchive\NonCritical_Update;ScanForUp_e0717865d0a250199e709217ac94f5c4c475445_00000000_f8d291df-e444-49db-9a67-caff86a526c5"
-[Warn  - 07:55:04] (35208) Skipping broken link "\Users\All Users\Microsoft\Windows\WER\ReportArchive\NonCritical_Update;_5b66f8a813a86e527d2ff363d14f7271226b0_00000000_944b0eae-427a-4d8b-a83d-8c287af89f55"
-[Warn  - 07:55:04] (35208) Skipping broken link "\Users\All Users\Microsoft\Windows\WER\ReportArchive\NonCritical_Update;_ef220e07b6b7516c8192c55e1faa1213ed16c2_00000000_95c2f3b4-a8af-4900-a029-d1442ca76338"
-[Warn  - 07:55:04] (35208) Skipping broken link "\Users\All Users\Microsoft\Windows\WER\ReportArchive\NonCritical_VerifierFailure_889d216c91288a75c586debbe9c269c1617d9f0_00000000_12380066-475b-46b0-9ecf-14bd1c4f8958"
-[Warn  - 07:55:04] (35208) Skipping broken link "\Users\All Users\Microsoft\Windows\WER\ReportArchive\NonCritical_VerifierFailure_889d216c91288a75c586debbe9c269c1617d9f0_00000000_2e840cd1-cc8e-4c0e-99f0-e94153625f44"
-[Warn  - 07:55:04] (35208) Skipping broken link "\Users\All Users\Microsoft\Windows\WER\ReportArchive\NonCritical_VerifierFailure_889d216c91288a75c586debbe9c269c1617d9f0_00000000_b362d4f8-6ce1-4750-8f69-2d52ede266b1"
-[Warn  - 07:55:04] (35208) Skipping broken link "\Users\All Users\Microsoft\Windows\WER\ReportArchive\NonCritical_VerifierFailure_889d216c91288a75c586debbe9c269c1617d9f0_00000000_b5afd4e2-68a7-4ad9-9382-54bafcb1d751"
-[Warn  - 07:55:04] (35208) Skipping broken link "\Users\All Users\Microsoft\Windows\WER\ReportArchive\NonCritical_VerifierFailure_889d216c91288a75c586debbe9c269c1617d9f0_00000000_c4ca7168-26bf-4269-9d01-e57a0cee1ba7"
-[Warn  - 07:55:04] (35208) Skipping broken link "\Users\All Users\Microsoft\Windows\WER\ReportArchive\NonCritical_VerifierFailure_889d216c91288a75c586debbe9c269c1617d9f0_00000000_f1b922d8-27e4-453d-85ea-43e8088bf7b9"
-[Warn  - 07:55:04] (35208) Skipping broken link "\Users\All Users\Microsoft\Windows\WER\ReportArchive\NonCritical_unknown_d741f3791432bf44d1f8f38df7fadd96e2442dd_00000000_25355297-868e-4e55-8f8e-dd738e3d9d25"
-[Warn  - 07:55:04] (35208) Skipping broken link "\Users\All Users\Microsoft\Windows\WER\ReportArchive\NonCritical_unknown_d741f3791432bf44d1f8f38df7fadd96e2442dd_00000000_dafe445d-8e59-4d50-b3d2-72afec6d9482"
-[Warn  - 07:55:04] (35208) Skipping broken link "\Users\All Users\Microsoft\Windows\WindowsApps"
-[Warn  - 07:55:04] (35208) Skipping broken link "\Users\All Users\Microsoft\Windows\wfp"
-[Warn  - 07:55:04] (35208) Skipping broken link "\Users\All Users\Microsoft\Windows Defender\Clean Store"
-[Warn  - 07:55:04] (35208) Skipping broken link "\Users\All Users\Microsoft\Windows Defender\Features"
-[Warn  - 07:55:04] (35208) Skipping broken link "\Users\All Users\Microsoft\Windows Defender\LocalCopy"
-[Warn  - 07:55:04] (35208) Skipping broken link "\Users\All Users\Microsoft\Windows Defender\Network Inspection System"
-[Warn  - 07:55:04] (35208) Skipping broken link "\Users\All Users\Microsoft\Windows Defender\Platform\4.18.2205.7-0"
-[Warn  - 07:55:04] (35208) Skipping broken link "\Users\All Users\Microsoft\Windows Defender\Quarantine"
-[Warn  - 07:55:04] (35208) Skipping broken link "\Users\All Users\Microsoft\Windows Defender\Scans"
-[Warn  - 07:55:04] (35208) Skipping broken link "\Users\All Users\Microsoft\Windows Defender\Support"
-[Warn  - 07:55:04] (35208) Skipping broken link "\Users\All Users\Microsoft\Windows Defender Advanced Threat Protection\Cache"
-[Warn  - 07:55:04] (35208) Skipping broken link "\Users\All Users\Microsoft\Windows Defender Advanced Threat Protection\Cyber"
-[Warn  - 07:55:04] (35208) Skipping broken link "\Users\All Users\Microsoft\Windows Defender Advanced Threat Protection\DLP"
-[Warn  - 07:55:04] (35208) Skipping broken link "\Users\All Users\Microsoft\Windows Defender Advanced Threat Protection\DataCollection"
-[Warn  - 07:55:04] (35208) Skipping broken link "\Users\All Users\Microsoft\Windows Defender Advanced Threat Protection\Downloads"
-[Warn  - 07:55:04] (35208) Skipping broken link "\Users\All Users\Microsoft\Windows Defender Advanced Threat Protection\SenseCM"
-[Warn  - 07:55:04] (35208) Skipping broken link "\Users\All Users\Microsoft\Windows Defender Advanced Threat Protection\Temp\PSScriptOutputs"
-[Warn  - 07:55:04] (35208) Skipping broken link "\Users\All Users\Microsoft\Windows Defender Advanced Threat Protection\Trace"
-[Warn  - 07:55:04] (35208) Skipping broken link "\Users\All Users\Microsoft\Windows NT\MSFax"
-[Warn  - 07:55:04] (35208) Skipping broken link "\Users\All Users\Packages"
-[Warn  - 07:55:04] (35208) Skipping broken link "\Users\All Users\WindowsHolographicDevices"
-[Info  - 07:55:10] (35208) Auto-excluding \Users\josverl\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0\LocalCache\Local\pypoetry\Cache\virtualenvs\pep-561-stubs-zCNYpJoi-py3.9
-[Warn  - 07:55:11] (35208) Skipping broken link "\Users\josverl\AppData\Local\Temp\WinSAT"
-[Error - 07:55:11] (35208) Enumeration of workspace source files is taking longer than 10 seconds.
+[Info  - 00:00:00](000000)Searching for source files
+[Info  - 00:00:00](000000)Auto-excluding \$Recycle.Bin\S-1-12-1-3020494159-1235939459-3438115750-967420959\$REJ16W7.venv
+[Info  - 00:00:00](000000)Auto-excluding \$Recycle.Bin\S-1-12-1-3020494159-1235939459-3438115750-967420959\$RGXEZSB.venv
+[Warn  - 00:00:00](000000)Skipping broken link "\$Recycle.Bin\S-1-5-18"
+[Warn  - 00:00:00](000000)Skipping broken link "\PerfLogs"
+[Warn  - 00:00:00](000000)Skipping broken link "\Program Files\Microsoft Policy Platform\authorityDb"
+[Warn  - 00:00:00](000000)Skipping broken link "\Program Files\Windows Defender Advanced Threat Protection\Classification\Configuration"
+[Warn  - 00:00:00](000000)Skipping broken link "\Program Files\WindowsApps"
+[Warn  - 00:00:00](000000)Skipping broken link "\ProgramData\Microsoft\Crypto\DSS\S-1-5-18"
+[Warn  - 00:00:00](000000)Skipping broken link "\ProgramData\Microsoft\Crypto\PCPKSP\WindowsAIK"
+[Warn  - 00:00:00](000000)Skipping broken link "\ProgramData\Microsoft\Crypto\RSA\S-1-5-18"
+[Warn  - 00:00:00](000000)Skipping broken link "\ProgramData\Microsoft\Crypto\SystemKeys"
+[Warn  - 00:00:00](000000)Skipping broken link "\ProgramData\Microsoft\Diagnosis"
+[Warn  - 00:00:00](000000)Skipping broken link "\ProgramData\Microsoft\Network\Downloader"
+[Warn  - 00:00:00](000000)Skipping broken link "\ProgramData\Microsoft\Provisioning\AssetCache"
+[Warn  - 00:00:00](000000)Skipping broken link "\ProgramData\Microsoft\Search\Data"
+[Warn  - 00:00:00](000000)Skipping broken link "\ProgramData\Microsoft\SmsRouter"
+[Warn  - 00:00:00](000000)Skipping broken link "\ProgramData\Microsoft\Spectrum"
+[Warn  - 00:00:00](000000)Skipping broken link "\ProgramData\Microsoft\Windows\AppRepository"
+[Warn  - 00:00:00](000000)Skipping broken link "\ProgramData\Microsoft\Windows\CapabilityAccessManager"
+[Warn  - 00:00:00](000000)Skipping broken link "\ProgramData\Microsoft\Windows\Hyper-V"
+[Warn  - 00:00:00](000000)Skipping broken link "\ProgramData\Microsoft\Windows\LfSvc"
+[Warn  - 00:00:00](000000)Skipping broken link "\ProgramData\Microsoft\Windows\Models"
+[Warn  - 00:00:00](000000)Skipping broken link "\ProgramData\Microsoft\Windows\PackagedEventProviders"
+[Warn  - 00:00:00](000000)Skipping broken link "\ProgramData\Microsoft\Windows\Power Efficiency Diagnostics"
+[Warn  - 00:00:00](000000)Skipping broken link "\ProgramData\Microsoft\Windows\SystemData"
+[Warn  - 00:00:00](000000)Skipping broken link "\ProgramData\Microsoft\Windows\WER\ReportArchive\AppCrash_CcmExec.exe_f856f0fa684358a631787917ee53aae58169c4d5_82977961_057fc307-2a00-493d-a120-f5a1b2d60ebe"
+[Warn  - 00:00:00](000000)Skipping broken link "\ProgramData\Microsoft\Windows\WER\ReportArchive\AppCrash_MsSense.exe_b72b5a87879f9521bef7b5a1412f28822ad7d9b_644625e7_05968270-3d03-450b-8d48-e8378bbf997e"
+[Warn  - 00:00:00](000000)Skipping broken link "\ProgramData\Microsoft\Windows\WER\ReportArchive\AppCrash_OpenHandleCollec_60db93f5e42b5f804a3b1622b3a6f7c4d69ee4_4395d36e_369e7443-c7f1-429a-977b-3d2353f07f41"
+[Warn  - 00:00:00](000000)Skipping broken link "\ProgramData\Microsoft\Windows\WER\ReportArchive\AppCrash_OpenHandleCollec_60db93f5e42b5f804a3b1622b3a6f7c4d69ee4_4395d36e_39776ec0-99a7-46f1-bbfd-0db339b14ba7"
+[Warn  - 00:00:00](000000)Skipping broken link "\ProgramData\Microsoft\Windows\WER\ReportArchive\AppCrash_OpenHandleCollec_60db93f5e42b5f804a3b1622b3a6f7c4d69ee4_4395d36e_4cb09df3-8e8b-49ca-a091-7fe4d15fa5be"
+[Warn  - 00:00:00](000000)Skipping broken link "\ProgramData\Microsoft\Windows\WER\ReportArchive\AppCrash_OpenHandleCollec_60db93f5e42b5f804a3b1622b3a6f7c4d69ee4_4395d36e_a48ad671-79de-4657-9824-e345ddf6bc7e"
+[Warn  - 00:00:00](000000)Skipping broken link "\ProgramData\Microsoft\Windows\WER\ReportArchive\AppCrash_OpenHandleCollec_60db93f5e42b5f804a3b1622b3a6f7c4d69ee4_4395d36e_e52fdb6a-1f23-4372-855c-3bd3daaf3cae"
+[Warn  - 00:00:00](000000)Skipping broken link "\ProgramData\Microsoft\Windows\WER\ReportArchive\AppCrash_OpenHandleCollec_60db93f5e42b5f804a3b1622b3a6f7c4d69ee4_4395d36e_fc8dd23b-1745-4bb7-bbcf-22b1f3ef0ce7"
+[Warn  - 00:00:00](000000)Skipping broken link "\ProgramData\Microsoft\Windows\WER\ReportArchive\AppCrash_OpenHandleCollec_9b9258a2dcc010944625b5d46576d329e6f8787_bc45ba1c_09669c3f-003b-49f5-a627-9ee75df914d4"
+[Warn  - 00:00:00](000000)Skipping broken link "\ProgramData\Microsoft\Windows\WER\ReportArchive\AppCrash_OpenHandleCollec_9b9258a2dcc010944625b5d46576d329e6f8787_bc45ba1c_09836a69-eaec-4f2b-a529-34d26ff1c90f"
+[Warn  - 00:00:00](000000)Skipping broken link "\ProgramData\Microsoft\Windows\WER\ReportArchive\AppCrash_OpenHandleCollec_9b9258a2dcc010944625b5d46576d329e6f8787_bc45ba1c_4b775f02-77c4-4965-86f6-d21cd6bba80f"
+[Warn  - 00:00:00](000000)Skipping broken link "\ProgramData\Microsoft\Windows\WER\ReportArchive\AppCrash_OpenHandleCollec_9b9258a2dcc010944625b5d46576d329e6f8787_bc45ba1c_65553db4-5573-44a5-99a3-99ffc2870019"
+[Warn  - 00:00:00](000000)Skipping broken link "\ProgramData\Microsoft\Windows\WER\ReportArchive\AppCrash_OpenHandleCollec_9b9258a2dcc010944625b5d46576d329e6f8787_bc45ba1c_6701e5d6-186b-4bae-bf96-3004093b9918"
+[Warn  - 00:00:00](000000)Skipping broken link "\ProgramData\Microsoft\Windows\WER\ReportArchive\AppCrash_OpenHandleCollec_9b9258a2dcc010944625b5d46576d329e6f8787_bc45ba1c_6bd456e7-a9f4-4f7a-8180-bde1cf76fc54"
+[Warn  - 00:00:00](000000)Skipping broken link "\ProgramData\Microsoft\Windows\WER\ReportArchive\AppCrash_OpenHandleCollec_9b9258a2dcc010944625b5d46576d329e6f8787_bc45ba1c_8ef2c3a8-117c-4b61-ba9d-1cafbf84d94e"
+[Warn  - 00:00:00](000000)Skipping broken link "\ProgramData\Microsoft\Windows\WER\ReportArchive\AppCrash_OpenHandleCollec_9b9258a2dcc010944625b5d46576d329e6f8787_bc45ba1c_9a5d7f04-e85f-47a0-821d-0e952b6c101e"
+[Warn  - 00:00:00](000000)Skipping broken link "\ProgramData\Microsoft\Windows\WER\ReportArchive\AppCrash_OpenHandleCollec_9b9258a2dcc010944625b5d46576d329e6f8787_bc45ba1c_a068e332-7f26-4f4c-86cf-3804ee1003a4"
+[Warn  - 00:00:00](000000)Skipping broken link "\ProgramData\Microsoft\Windows\WER\ReportArchive\AppCrash_OpenHandleCollec_9b9258a2dcc010944625b5d46576d329e6f8787_bc45ba1c_a0d657aa-3b8a-41ab-a970-cc14d93a68fd"
+[Warn  - 00:00:00](000000)Skipping broken link "\ProgramData\Microsoft\Windows\WER\ReportArchive\AppCrash_OpenHandleCollec_9b9258a2dcc010944625b5d46576d329e6f8787_bc45ba1c_aa48ca6e-0733-4b54-b0b1-374a9ab1624d"
+[Warn  - 00:00:00](000000)Skipping broken link "\ProgramData\Microsoft\Windows\WER\ReportArchive\AppCrash_OpenHandleCollec_9b9258a2dcc010944625b5d46576d329e6f8787_bc45ba1c_ddd75345-c1c7-40e1-840b-786ccd5eb861"
+[Warn  - 00:00:00](000000)Skipping broken link "\ProgramData\Microsoft\Windows\WER\ReportArchive\AppCrash_OpenHandleCollec_9b9258a2dcc010944625b5d46576d329e6f8787_bc45ba1c_e2ef7e80-937f-48ee-a4f0-41e9e96a29ae"
+[Warn  - 00:00:00](000000)Skipping broken link "\ProgramData\Microsoft\Windows\WER\ReportArchive\AppCrash_OpenHandleCollec_9b9258a2dcc010944625b5d46576d329e6f8787_bc45ba1c_fb371778-85cb-4878-abbe-0f6fc4d06676"
+[Warn  - 00:00:00](000000)Skipping broken link "\ProgramData\Microsoft\Windows\WER\ReportArchive\AppCrash_OpenHandleCollec_9b9258a2dcc010944625b5d46576d329e6f8787_bc45ba1c_fe12dfba-185c-4428-b9bd-7f2ccdeeb560"
+[Warn  - 00:00:00](000000)Skipping broken link "\ProgramData\Microsoft\Windows\WER\ReportArchive\AppCrash_Setup_x64.exe_4a1e181f2ae418113d29fa135207ef230c54c98_0d823658_30260329-7a65-4039-9dfe-d1b38d7b1dfe"
+[Warn  - 00:00:00](000000)Skipping broken link "\ProgramData\Microsoft\Windows\WER\ReportArchive\AppCrash_SurfaceService.e_4b8bfd7ebcda6ec43aa40c27ff4bad6b6722320_98100406_1db1751e-828d-4e72-96a4-ada047edb075"
+[Warn  - 00:00:00](000000)Skipping broken link "\ProgramData\Microsoft\Windows\WER\ReportArchive\AppCrash_SurfaceService.e_6d277ca929b753fd984f4a5f15f87a9872f73f_1af56f2b_8cfad57b-b5b8-4c13-bebc-3483be0b0b87"
+[Warn  - 00:00:00](000000)Skipping broken link "\ProgramData\Microsoft\Windows\WER\ReportArchive\AppCrash_svchost.exe_Fram_20fba0b238465fc78be8bf4d2ae9c9313cd2d3b9_60470071_e53a7954-4c89-4085-97da-6362d36bec31"
+[Warn  - 00:00:00](000000)Skipping broken link "\ProgramData\Microsoft\Windows\WER\ReportArchive\AppCrash_svchost.exe_Fram_30f076f937b5bf48d5395719c659509bcc93454a_60470071_fafb6b3e-e0c5-4dcb-98d0-6142b6a64a64"
+[Warn  - 00:00:00](000000)Skipping broken link "\ProgramData\Microsoft\Windows\WER\ReportArchive\AppCrash_svchost.exe_WMan_05139493d2cd9e18da2f318c03b583c2d2da9_5d37cfda_23de59ba-065a-4a2f-9983-0e3f4e725fd2"
+[Warn  - 00:00:00](000000)Skipping broken link "\ProgramData\Microsoft\Windows\WER\ReportArchive\AppCrash_svchost.exe_Wbio_1ca850c35d122563fe4119cc46d29627df5572f3_edda7130_f68b8b5a-ed49-4f36-acd9-c6d221eba41f"
+[Warn  - 00:00:00](000000)Skipping broken link "\ProgramData\Microsoft\Windows\WER\ReportArchive\AppCrash_svchost.exe_Wbio_601a17673a9050aa4869e0116699f1cbf942f74_edda7130_72bf6f42-4b2f-457e-b3ce-53f463c4c7f7"
+[Warn  - 00:00:00](000000)Skipping broken link "\ProgramData\Microsoft\Windows\WER\ReportArchive\AppCrash_svchost.exe_Wbio_601a17673a9050aa4869e0116699f1cbf942f74_edda7130_837ef9fb-921d-4a88-b1e7-8d4f6b69d6a2"
+[Warn  - 00:00:00](000000)Skipping broken link "\ProgramData\Microsoft\Windows\WER\ReportArchive\AppCrash_svchost.exe_Wbio_e023cd8171a3e7014c4edf3293573ed0314777_edda7130_d6f934cd-8f78-4304-886f-137c8bde0d63"
+[Warn  - 00:00:00](000000)Skipping broken link "\ProgramData\Microsoft\Windows\WER\ReportArchive\AppHang_MicrosoftWindows_ef9bd656e6709ad83e9ee62dbc65e368d5875f_500125bb_1aeab62f-cefe-4cfd-aced-8b3097bee8ae"
+[Warn  - 00:00:00](000000)Skipping broken link "\ProgramData\Microsoft\Windows\WER\ReportArchive\AppHang_NcbService_6265e7554bf7722b57876afedd4b21d9f87a39f_00000000_23c6030e-aefa-41cb-84b2-11e3fb91a483"
+[Warn  - 00:00:00](000000)Skipping broken link "\ProgramData\Microsoft\Windows\WER\ReportArchive\Critical_ONENOTE.EXE_94467f1d1b687e26e0bf94ed1b40da33feae7b80_61c4eb98_7ce15099-f4b4-4513-aba5-f82126ab5abf"
+[Warn  - 00:00:00](000000)Skipping broken link "\ProgramData\Microsoft\Windows\WER\ReportArchive\Critical_PhantomZerOS.exe_3fad0f4738ff384516b42fff7faca639bca0_8b7887b2_811dab45-0066-4df7-8cef-91712037b76b"
+[Warn  - 00:00:00](000000)Skipping broken link "\ProgramData\Microsoft\Windows\WER\ReportArchive\Critical_PhantomZerOS.exe_3fad0f4738ff384516b42fff7faca639bca0_8b7887b2_b756998a-cc61-4fa5-8797-4caa0a679121"
+[Warn  - 00:00:00](000000)Skipping broken link "\ProgramData\Microsoft\Windows\WER\ReportArchive\Kernel_117_12ff4e438de726464b4fecd603bb30184e4394_00000000_cab_4121552f-0538-462d-960e-ad6af38ad0a5"
+[Warn  - 00:00:00](000000)Skipping broken link "\ProgramData\Microsoft\Windows\WER\ReportArchive\Kernel_117_38bb33b40cccafadeabde03d715d974223655e_00000000_cab_436e5744-f187-4f88-97f8-0d0c8f1c27e5"
+[Warn  - 00:00:00](000000)Skipping broken link "\ProgramData\Microsoft\Windows\WER\ReportArchive\Kernel_141_4f5a37ff39395980785e399572f8b1ce8abc656f_00000000_cab_db2878ac-ebb5-4fd2-a439-905cd755668e"
+[Warn  - 00:00:00](000000)Skipping broken link "\ProgramData\Microsoft\Windows\WER\ReportArchive\Kernel_141_c8f3119ca134cd4d8fbc6dea8ddfee808a3646f_00000000_cab_ca57b0b4-9385-4f17-a72d-9fa1b7d46c45"
+[Warn  - 00:00:00](000000)Skipping broken link "\ProgramData\Microsoft\Windows\WER\ReportArchive\Kernel_144_104e2bb655e1db47e88c4b87b77a4edbc5dad5_00000000_cab_e4d6deae-e00d-4479-a36a-85b7c571473e"
+[Warn  - 00:00:00](000000)Skipping broken link "\ProgramData\Microsoft\Windows\WER\ReportArchive\Kernel_144_a549875654b0347013b665b29b45549e467dce87_00000000_cab_008a5422-69ae-495e-a009-a9e2dbb2e4e8"
+[Warn  - 00:00:00](000000)Skipping broken link "\ProgramData\Microsoft\Windows\WER\ReportArchive\Kernel_144_ac2660a636c221725edc28727bca16f1c13bd144_00000000_cab_63a3c267-cf81-4796-a21e-bd684e0f1a39"
+[Warn  - 00:00:00](000000)Skipping broken link "\ProgramData\Microsoft\Windows\WER\ReportArchive\Kernel_144_f0c1ed8c991a1b18d1ef91e95397b7af1c163eb8_00000000_cab_daebcd58-0c7e-4a97-a397-a0fd8e197012"
+[Warn  - 00:00:00](000000)Skipping broken link "\ProgramData\Microsoft\Windows\WER\ReportArchive\NonCritical_1.0.85.0_b73889a8f1f52a448c8640fb2437c78a8de057ee_00000000_0a078d51-e31c-4a89-ba63-f42c4306f294"
+[Warn  - 00:00:00](000000)Skipping broken link "\ProgramData\Microsoft\Windows\WER\ReportArchive\NonCritical_1.0.85.0_b73889a8f1f52a448c8640fb2437c78a8de057ee_00000000_4cfce989-1552-46f5-9c23-b86dd6f9710f"
+[Warn  - 00:00:00](000000)Skipping broken link "\ProgramData\Microsoft\Windows\WER\ReportArchive\NonCritical_1.0.85.0_b73889a8f1f52a448c8640fb2437c78a8de057ee_00000000_5c69273d-63e8-4208-80a2-f470eab2a679"
+[Warn  - 00:00:00](000000)Skipping broken link "\ProgramData\Microsoft\Windows\WER\ReportArchive\NonCritical_3_fc853d7f92732955598999d7e3dfff794444da9e_00000000_4f703be5-9094-4840-9156-dd5d30672b57"
+[Warn  - 00:00:00](000000)Skipping broken link "\ProgramData\Microsoft\Windows\WER\ReportArchive\NonCritical_MicrosoftEdgeUpd_afce25defe1ed9a24c11f435178f2ae0eb5f_00000000_bd3ecb80-81a3-4d32-a337-3182366e5cf1"
+[Warn  - 00:00:00](000000)Skipping broken link "\ProgramData\Microsoft\Windows\WER\ReportArchive\NonCritical_Update;ScanForUp_12888cf5585e2448f815e9b7afac680eccf76e2_00000000_2f2bf1ce-a65f-4d37-b15d-06cbba057020"
+[Warn  - 00:00:00](000000)Skipping broken link "\ProgramData\Microsoft\Windows\WER\ReportArchive\NonCritical_Update;ScanForUp_395edf1936181cc1ae6dfcd44019b0e8079f57c_00000000_63a72db5-add5-484b-91f7-08764eb25f7b"
+[Warn  - 00:00:00](000000)Skipping broken link "\ProgramData\Microsoft\Windows\WER\ReportArchive\NonCritical_Update;ScanForUp_94ec528086ded02c4214b53c83fa4c3a78537966_00000000_c12b6686-a285-4b2a-a973-2de8c64113b8"
+[Warn  - 00:00:00](000000)Skipping broken link "\ProgramData\Microsoft\Windows\WER\ReportArchive\NonCritical_Update;ScanForUp_e0717865d0a250199e709217ac94f5c4c475445_00000000_f8d291df-e444-49db-9a67-caff86a526c5"
+[Warn  - 00:00:00](000000)Skipping broken link "\ProgramData\Microsoft\Windows\WER\ReportArchive\NonCritical_Update;_5b66f8a813a86e527d2ff363d14f7271226b0_00000000_944b0eae-427a-4d8b-a83d-8c287af89f55"
+[Warn  - 00:00:00](000000)Skipping broken link "\ProgramData\Microsoft\Windows\WER\ReportArchive\NonCritical_Update;_ef220e07b6b7516c8192c55e1faa1213ed16c2_00000000_95c2f3b4-a8af-4900-a029-d1442ca76338"
+[Warn  - 00:00:00](000000)Skipping broken link "\ProgramData\Microsoft\Windows\WER\ReportArchive\NonCritical_VerifierFailure_889d216c91288a75c586debbe9c269c1617d9f0_00000000_12380066-475b-46b0-9ecf-14bd1c4f8958"
+[Warn  - 00:00:00](000000)Skipping broken link "\ProgramData\Microsoft\Windows\WER\ReportArchive\NonCritical_VerifierFailure_889d216c91288a75c586debbe9c269c1617d9f0_00000000_2e840cd1-cc8e-4c0e-99f0-e94153625f44"
+[Warn  - 00:00:00](000000)Skipping broken link "\ProgramData\Microsoft\Windows\WER\ReportArchive\NonCritical_VerifierFailure_889d216c91288a75c586debbe9c269c1617d9f0_00000000_b362d4f8-6ce1-4750-8f69-2d52ede266b1"
+[Warn  - 00:00:00](000000)Skipping broken link "\ProgramData\Microsoft\Windows\WER\ReportArchive\NonCritical_VerifierFailure_889d216c91288a75c586debbe9c269c1617d9f0_00000000_b5afd4e2-68a7-4ad9-9382-54bafcb1d751"
+[Warn  - 00:00:00](000000)Skipping broken link "\ProgramData\Microsoft\Windows\WER\ReportArchive\NonCritical_VerifierFailure_889d216c91288a75c586debbe9c269c1617d9f0_00000000_c4ca7168-26bf-4269-9d01-e57a0cee1ba7"
+[Warn  - 00:00:00](000000)Skipping broken link "\ProgramData\Microsoft\Windows\WER\ReportArchive\NonCritical_VerifierFailure_889d216c91288a75c586debbe9c269c1617d9f0_00000000_f1b922d8-27e4-453d-85ea-43e8088bf7b9"
+[Warn  - 00:00:00](000000)Skipping broken link "\ProgramData\Microsoft\Windows\WER\ReportArchive\NonCritical_unknown_d741f3791432bf44d1f8f38df7fadd96e2442dd_00000000_25355297-868e-4e55-8f8e-dd738e3d9d25"
+[Warn  - 00:00:00](000000)Skipping broken link "\ProgramData\Microsoft\Windows\WER\ReportArchive\NonCritical_unknown_d741f3791432bf44d1f8f38df7fadd96e2442dd_00000000_dafe445d-8e59-4d50-b3d2-72afec6d9482"
+[Warn  - 00:00:00](000000)Skipping broken link "\ProgramData\Microsoft\Windows\WindowsApps"
+[Warn  - 00:00:00](000000)Skipping broken link "\ProgramData\Microsoft\Windows\wfp"
+[Warn  - 00:00:00](000000)Skipping broken link "\ProgramData\Microsoft\Windows Defender\Clean Store"
+[Warn  - 00:00:00](000000)Skipping broken link "\ProgramData\Microsoft\Windows Defender\Features"
+[Warn  - 00:00:00](000000)Skipping broken link "\ProgramData\Microsoft\Windows Defender\LocalCopy"
+[Warn  - 00:00:00](000000)Skipping broken link "\ProgramData\Microsoft\Windows Defender\Network Inspection System"
+[Warn  - 00:00:00](000000)Skipping broken link "\ProgramData\Microsoft\Windows Defender\Platform\4.18.2205.7-0"
+[Warn  - 00:00:00](000000)Skipping broken link "\ProgramData\Microsoft\Windows Defender\Quarantine"
+[Warn  - 00:00:00](000000)Skipping broken link "\ProgramData\Microsoft\Windows Defender\Scans"
+[Warn  - 00:00:00](000000)Skipping broken link "\ProgramData\Microsoft\Windows Defender\Support"
+[Warn  - 00:00:00](000000)Skipping broken link "\ProgramData\Microsoft\Windows Defender Advanced Threat Protection\Cache"
+[Warn  - 00:00:00](000000)Skipping broken link "\ProgramData\Microsoft\Windows Defender Advanced Threat Protection\Cyber"
+[Warn  - 00:00:00](000000)Skipping broken link "\ProgramData\Microsoft\Windows Defender Advanced Threat Protection\DLP"
+[Warn  - 00:00:00](000000)Skipping broken link "\ProgramData\Microsoft\Windows Defender Advanced Threat Protection\DataCollection"
+[Warn  - 00:00:00](000000)Skipping broken link "\ProgramData\Microsoft\Windows Defender Advanced Threat Protection\Downloads"
+[Warn  - 00:00:00](000000)Skipping broken link "\ProgramData\Microsoft\Windows Defender Advanced Threat Protection\SenseCM"
+[Warn  - 00:00:00](000000)Skipping broken link "\ProgramData\Microsoft\Windows Defender Advanced Threat Protection\Temp\PSScriptOutputs"
+[Warn  - 00:00:00](000000)Skipping broken link "\ProgramData\Microsoft\Windows Defender Advanced Threat Protection\Trace"
+[Warn  - 00:00:00](000000)Skipping broken link "\ProgramData\Microsoft\Windows NT\MSFax"
+[Warn  - 00:00:00](000000)Skipping broken link "\ProgramData\Packages"
+[Warn  - 00:00:00](000000)Skipping broken link "\ProgramData\WindowsHolographicDevices"
+[Warn  - 00:00:00](000000)Skipping broken link "\Recovery"
+[Warn  - 00:00:00](000000)Skipping broken link "\System Volume Information"
+[Warn  - 00:00:00](000000)Skipping recursive symlink "\Users\All Users\Application Data" -> "C:\ProgramData"
+[Warn  - 00:00:00](000000)Skipping broken link "\Users\All Users\Microsoft\Crypto\DSS\S-1-5-18"
+[Warn  - 00:00:00](000000)Skipping broken link "\Users\All Users\Microsoft\Crypto\PCPKSP\WindowsAIK"
+[Warn  - 00:00:00](000000)Skipping broken link "\Users\All Users\Microsoft\Crypto\RSA\S-1-5-18"
+[Warn  - 00:00:00](000000)Skipping broken link "\Users\All Users\Microsoft\Crypto\SystemKeys"
+[Warn  - 00:00:00](000000)Skipping broken link "\Users\All Users\Microsoft\Diagnosis"
+[Warn  - 00:00:00](000000)Skipping broken link "\Users\All Users\Microsoft\Network\Downloader"
+[Warn  - 00:00:00](000000)Skipping broken link "\Users\All Users\Microsoft\Provisioning\AssetCache"
+[Warn  - 00:00:00](000000)Skipping broken link "\Users\All Users\Microsoft\Search\Data"
+[Warn  - 00:00:00](000000)Skipping broken link "\Users\All Users\Microsoft\SmsRouter"
+[Warn  - 00:00:00](000000)Skipping broken link "\Users\All Users\Microsoft\Spectrum"
+[Warn  - 00:00:00](000000)Skipping broken link "\Users\All Users\Microsoft\Windows\AppRepository"
+[Warn  - 00:00:00](000000)Skipping broken link "\Users\All Users\Microsoft\Windows\CapabilityAccessManager"
+[Warn  - 00:00:00](000000)Skipping broken link "\Users\All Users\Microsoft\Windows\Hyper-V"
+[Warn  - 00:00:00](000000)Skipping broken link "\Users\All Users\Microsoft\Windows\LfSvc"
+[Warn  - 00:00:00](000000)Skipping broken link "\Users\All Users\Microsoft\Windows\Models"
+[Warn  - 00:00:00](000000)Skipping broken link "\Users\All Users\Microsoft\Windows\PackagedEventProviders"
+[Warn  - 00:00:00](000000)Skipping broken link "\Users\All Users\Microsoft\Windows\Power Efficiency Diagnostics"
+[Warn  - 00:00:00](000000)Skipping broken link "\Users\All Users\Microsoft\Windows\SystemData"
+[Warn  - 00:00:00](000000)Skipping broken link "\Users\All Users\Microsoft\Windows\WER\ReportArchive\AppCrash_CcmExec.exe_f856f0fa684358a631787917ee53aae58169c4d5_82977961_057fc307-2a00-493d-a120-f5a1b2d60ebe"
+[Warn  - 00:00:00](000000)Skipping broken link "\Users\All Users\Microsoft\Windows\WER\ReportArchive\AppCrash_MsSense.exe_b72b5a87879f9521bef7b5a1412f28822ad7d9b_644625e7_05968270-3d03-450b-8d48-e8378bbf997e"
+[Warn  - 00:00:00](000000)Skipping broken link "\Users\All Users\Microsoft\Windows\WER\ReportArchive\AppCrash_OpenHandleCollec_60db93f5e42b5f804a3b1622b3a6f7c4d69ee4_4395d36e_369e7443-c7f1-429a-977b-3d2353f07f41"
+[Warn  - 00:00:00](000000)Skipping broken link "\Users\All Users\Microsoft\Windows\WER\ReportArchive\AppCrash_OpenHandleCollec_60db93f5e42b5f804a3b1622b3a6f7c4d69ee4_4395d36e_39776ec0-99a7-46f1-bbfd-0db339b14ba7"
+[Warn  - 00:00:00](000000)Skipping broken link "\Users\All Users\Microsoft\Windows\WER\ReportArchive\AppCrash_OpenHandleCollec_60db93f5e42b5f804a3b1622b3a6f7c4d69ee4_4395d36e_4cb09df3-8e8b-49ca-a091-7fe4d15fa5be"
+[Warn  - 00:00:00](000000)Skipping broken link "\Users\All Users\Microsoft\Windows\WER\ReportArchive\AppCrash_OpenHandleCollec_60db93f5e42b5f804a3b1622b3a6f7c4d69ee4_4395d36e_a48ad671-79de-4657-9824-e345ddf6bc7e"
+[Warn  - 00:00:00](000000)Skipping broken link "\Users\All Users\Microsoft\Windows\WER\ReportArchive\AppCrash_OpenHandleCollec_60db93f5e42b5f804a3b1622b3a6f7c4d69ee4_4395d36e_e52fdb6a-1f23-4372-855c-3bd3daaf3cae"
+[Warn  - 00:00:00](000000)Skipping broken link "\Users\All Users\Microsoft\Windows\WER\ReportArchive\AppCrash_OpenHandleCollec_60db93f5e42b5f804a3b1622b3a6f7c4d69ee4_4395d36e_fc8dd23b-1745-4bb7-bbcf-22b1f3ef0ce7"
+[Warn  - 00:00:00](000000)Skipping broken link "\Users\All Users\Microsoft\Windows\WER\ReportArchive\AppCrash_OpenHandleCollec_9b9258a2dcc010944625b5d46576d329e6f8787_bc45ba1c_09669c3f-003b-49f5-a627-9ee75df914d4"
+[Warn  - 00:00:00](000000)Skipping broken link "\Users\All Users\Microsoft\Windows\WER\ReportArchive\AppCrash_OpenHandleCollec_9b9258a2dcc010944625b5d46576d329e6f8787_bc45ba1c_09836a69-eaec-4f2b-a529-34d26ff1c90f"
+[Warn  - 00:00:00](000000)Skipping broken link "\Users\All Users\Microsoft\Windows\WER\ReportArchive\AppCrash_OpenHandleCollec_9b9258a2dcc010944625b5d46576d329e6f8787_bc45ba1c_4b775f02-77c4-4965-86f6-d21cd6bba80f"
+[Warn  - 00:00:00](000000)Skipping broken link "\Users\All Users\Microsoft\Windows\WER\ReportArchive\AppCrash_OpenHandleCollec_9b9258a2dcc010944625b5d46576d329e6f8787_bc45ba1c_65553db4-5573-44a5-99a3-99ffc2870019"
+[Warn  - 00:00:00](000000)Skipping broken link "\Users\All Users\Microsoft\Windows\WER\ReportArchive\AppCrash_OpenHandleCollec_9b9258a2dcc010944625b5d46576d329e6f8787_bc45ba1c_6701e5d6-186b-4bae-bf96-3004093b9918"
+[Warn  - 00:00:00](000000)Skipping broken link "\Users\All Users\Microsoft\Windows\WER\ReportArchive\AppCrash_OpenHandleCollec_9b9258a2dcc010944625b5d46576d329e6f8787_bc45ba1c_6bd456e7-a9f4-4f7a-8180-bde1cf76fc54"
+[Warn  - 00:00:00](000000)Skipping broken link "\Users\All Users\Microsoft\Windows\WER\ReportArchive\AppCrash_OpenHandleCollec_9b9258a2dcc010944625b5d46576d329e6f8787_bc45ba1c_8ef2c3a8-117c-4b61-ba9d-1cafbf84d94e"
+[Warn  - 00:00:00](000000)Skipping broken link "\Users\All Users\Microsoft\Windows\WER\ReportArchive\AppCrash_OpenHandleCollec_9b9258a2dcc010944625b5d46576d329e6f8787_bc45ba1c_9a5d7f04-e85f-47a0-821d-0e952b6c101e"
+[Warn  - 00:00:00](000000)Skipping broken link "\Users\All Users\Microsoft\Windows\WER\ReportArchive\AppCrash_OpenHandleCollec_9b9258a2dcc010944625b5d46576d329e6f8787_bc45ba1c_a068e332-7f26-4f4c-86cf-3804ee1003a4"
+[Warn  - 00:00:00](000000)Skipping broken link "\Users\All Users\Microsoft\Windows\WER\ReportArchive\AppCrash_OpenHandleCollec_9b9258a2dcc010944625b5d46576d329e6f8787_bc45ba1c_a0d657aa-3b8a-41ab-a970-cc14d93a68fd"
+[Warn  - 00:00:00](000000)Skipping broken link "\Users\All Users\Microsoft\Windows\WER\ReportArchive\AppCrash_OpenHandleCollec_9b9258a2dcc010944625b5d46576d329e6f8787_bc45ba1c_aa48ca6e-0733-4b54-b0b1-374a9ab1624d"
+[Warn  - 00:00:00](000000)Skipping broken link "\Users\All Users\Microsoft\Windows\WER\ReportArchive\AppCrash_OpenHandleCollec_9b9258a2dcc010944625b5d46576d329e6f8787_bc45ba1c_ddd75345-c1c7-40e1-840b-786ccd5eb861"
+[Warn  - 00:00:00](000000)Skipping broken link "\Users\All Users\Microsoft\Windows\WER\ReportArchive\AppCrash_OpenHandleCollec_9b9258a2dcc010944625b5d46576d329e6f8787_bc45ba1c_e2ef7e80-937f-48ee-a4f0-41e9e96a29ae"
+[Warn  - 00:00:00](000000)Skipping broken link "\Users\All Users\Microsoft\Windows\WER\ReportArchive\AppCrash_OpenHandleCollec_9b9258a2dcc010944625b5d46576d329e6f8787_bc45ba1c_fb371778-85cb-4878-abbe-0f6fc4d06676"
+[Warn  - 00:00:00](000000)Skipping broken link "\Users\All Users\Microsoft\Windows\WER\ReportArchive\AppCrash_OpenHandleCollec_9b9258a2dcc010944625b5d46576d329e6f8787_bc45ba1c_fe12dfba-185c-4428-b9bd-7f2ccdeeb560"
+[Warn  - 00:00:00](000000)Skipping broken link "\Users\All Users\Microsoft\Windows\WER\ReportArchive\AppCrash_Setup_x64.exe_4a1e181f2ae418113d29fa135207ef230c54c98_0d823658_30260329-7a65-4039-9dfe-d1b38d7b1dfe"
+[Warn  - 00:00:00](000000)Skipping broken link "\Users\All Users\Microsoft\Windows\WER\ReportArchive\AppCrash_SurfaceService.e_4b8bfd7ebcda6ec43aa40c27ff4bad6b6722320_98100406_1db1751e-828d-4e72-96a4-ada047edb075"
+[Warn  - 00:00:00](000000)Skipping broken link "\Users\All Users\Microsoft\Windows\WER\ReportArchive\AppCrash_SurfaceService.e_6d277ca929b753fd984f4a5f15f87a9872f73f_1af56f2b_8cfad57b-b5b8-4c13-bebc-3483be0b0b87"
+[Warn  - 00:00:00](000000)Skipping broken link "\Users\All Users\Microsoft\Windows\WER\ReportArchive\AppCrash_svchost.exe_Fram_20fba0b238465fc78be8bf4d2ae9c9313cd2d3b9_60470071_e53a7954-4c89-4085-97da-6362d36bec31"
+[Warn  - 00:00:00](000000)Skipping broken link "\Users\All Users\Microsoft\Windows\WER\ReportArchive\AppCrash_svchost.exe_Fram_30f076f937b5bf48d5395719c659509bcc93454a_60470071_fafb6b3e-e0c5-4dcb-98d0-6142b6a64a64"
+[Warn  - 00:00:00](000000)Skipping broken link "\Users\All Users\Microsoft\Windows\WER\ReportArchive\AppCrash_svchost.exe_WMan_05139493d2cd9e18da2f318c03b583c2d2da9_5d37cfda_23de59ba-065a-4a2f-9983-0e3f4e725fd2"
+[Warn  - 00:00:00](000000)Skipping broken link "\Users\All Users\Microsoft\Windows\WER\ReportArchive\AppCrash_svchost.exe_Wbio_1ca850c35d122563fe4119cc46d29627df5572f3_edda7130_f68b8b5a-ed49-4f36-acd9-c6d221eba41f"
+[Warn  - 00:00:00](000000)Skipping broken link "\Users\All Users\Microsoft\Windows\WER\ReportArchive\AppCrash_svchost.exe_Wbio_601a17673a9050aa4869e0116699f1cbf942f74_edda7130_72bf6f42-4b2f-457e-b3ce-53f463c4c7f7"
+[Warn  - 00:00:00](000000)Skipping broken link "\Users\All Users\Microsoft\Windows\WER\ReportArchive\AppCrash_svchost.exe_Wbio_601a17673a9050aa4869e0116699f1cbf942f74_edda7130_837ef9fb-921d-4a88-b1e7-8d4f6b69d6a2"
+[Warn  - 00:00:00](000000)Skipping broken link "\Users\All Users\Microsoft\Windows\WER\ReportArchive\AppCrash_svchost.exe_Wbio_e023cd8171a3e7014c4edf3293573ed0314777_edda7130_d6f934cd-8f78-4304-886f-137c8bde0d63"
+[Warn  - 00:00:00](000000)Skipping broken link "\Users\All Users\Microsoft\Windows\WER\ReportArchive\AppHang_MicrosoftWindows_ef9bd656e6709ad83e9ee62dbc65e368d5875f_500125bb_1aeab62f-cefe-4cfd-aced-8b3097bee8ae"
+[Warn  - 00:00:00](000000)Skipping broken link "\Users\All Users\Microsoft\Windows\WER\ReportArchive\AppHang_NcbService_6265e7554bf7722b57876afedd4b21d9f87a39f_00000000_23c6030e-aefa-41cb-84b2-11e3fb91a483"
+[Warn  - 00:00:00](000000)Skipping broken link "\Users\All Users\Microsoft\Windows\WER\ReportArchive\Critical_ONENOTE.EXE_94467f1d1b687e26e0bf94ed1b40da33feae7b80_61c4eb98_7ce15099-f4b4-4513-aba5-f82126ab5abf"
+[Warn  - 00:00:00](000000)Skipping broken link "\Users\All Users\Microsoft\Windows\WER\ReportArchive\Critical_PhantomZerOS.exe_3fad0f4738ff384516b42fff7faca639bca0_8b7887b2_811dab45-0066-4df7-8cef-91712037b76b"
+[Warn  - 00:00:00](000000)Skipping broken link "\Users\All Users\Microsoft\Windows\WER\ReportArchive\Critical_PhantomZerOS.exe_3fad0f4738ff384516b42fff7faca639bca0_8b7887b2_b756998a-cc61-4fa5-8797-4caa0a679121"
+[Warn  - 00:00:00](000000)Skipping broken link "\Users\All Users\Microsoft\Windows\WER\ReportArchive\Kernel_117_12ff4e438de726464b4fecd603bb30184e4394_00000000_cab_4121552f-0538-462d-960e-ad6af38ad0a5"
+[Warn  - 00:00:00](000000)Skipping broken link "\Users\All Users\Microsoft\Windows\WER\ReportArchive\Kernel_117_38bb33b40cccafadeabde03d715d974223655e_00000000_cab_436e5744-f187-4f88-97f8-0d0c8f1c27e5"
+[Warn  - 00:00:00](000000)Skipping broken link "\Users\All Users\Microsoft\Windows\WER\ReportArchive\Kernel_141_4f5a37ff39395980785e399572f8b1ce8abc656f_00000000_cab_db2878ac-ebb5-4fd2-a439-905cd755668e"
+[Warn  - 00:00:00](000000)Skipping broken link "\Users\All Users\Microsoft\Windows\WER\ReportArchive\Kernel_141_c8f3119ca134cd4d8fbc6dea8ddfee808a3646f_00000000_cab_ca57b0b4-9385-4f17-a72d-9fa1b7d46c45"
+[Warn  - 00:00:00](000000)Skipping broken link "\Users\All Users\Microsoft\Windows\WER\ReportArchive\Kernel_144_104e2bb655e1db47e88c4b87b77a4edbc5dad5_00000000_cab_e4d6deae-e00d-4479-a36a-85b7c571473e"
+[Warn  - 00:00:00](000000)Skipping broken link "\Users\All Users\Microsoft\Windows\WER\ReportArchive\Kernel_144_a549875654b0347013b665b29b45549e467dce87_00000000_cab_008a5422-69ae-495e-a009-a9e2dbb2e4e8"
+[Warn  - 00:00:00](000000)Skipping broken link "\Users\All Users\Microsoft\Windows\WER\ReportArchive\Kernel_144_ac2660a636c221725edc28727bca16f1c13bd144_00000000_cab_63a3c267-cf81-4796-a21e-bd684e0f1a39"
+[Warn  - 00:00:00](000000)Skipping broken link "\Users\All Users\Microsoft\Windows\WER\ReportArchive\Kernel_144_f0c1ed8c991a1b18d1ef91e95397b7af1c163eb8_00000000_cab_daebcd58-0c7e-4a97-a397-a0fd8e197012"
+[Warn  - 00:00:00](000000)Skipping broken link "\Users\All Users\Microsoft\Windows\WER\ReportArchive\NonCritical_1.0.85.0_b73889a8f1f52a448c8640fb2437c78a8de057ee_00000000_0a078d51-e31c-4a89-ba63-f42c4306f294"
+[Warn  - 00:00:00](000000)Skipping broken link "\Users\All Users\Microsoft\Windows\WER\ReportArchive\NonCritical_1.0.85.0_b73889a8f1f52a448c8640fb2437c78a8de057ee_00000000_4cfce989-1552-46f5-9c23-b86dd6f9710f"
+[Warn  - 00:00:00](000000)Skipping broken link "\Users\All Users\Microsoft\Windows\WER\ReportArchive\NonCritical_1.0.85.0_b73889a8f1f52a448c8640fb2437c78a8de057ee_00000000_5c69273d-63e8-4208-80a2-f470eab2a679"
+[Warn  - 00:00:00](000000)Skipping broken link "\Users\All Users\Microsoft\Windows\WER\ReportArchive\NonCritical_3_fc853d7f92732955598999d7e3dfff794444da9e_00000000_4f703be5-9094-4840-9156-dd5d30672b57"
+[Warn  - 00:00:00](000000)Skipping broken link "\Users\All Users\Microsoft\Windows\WER\ReportArchive\NonCritical_MicrosoftEdgeUpd_afce25defe1ed9a24c11f435178f2ae0eb5f_00000000_bd3ecb80-81a3-4d32-a337-3182366e5cf1"
+[Warn  - 00:00:00](000000)Skipping broken link "\Users\All Users\Microsoft\Windows\WER\ReportArchive\NonCritical_Update;ScanForUp_12888cf5585e2448f815e9b7afac680eccf76e2_00000000_2f2bf1ce-a65f-4d37-b15d-06cbba057020"
+[Warn  - 00:00:00](000000)Skipping broken link "\Users\All Users\Microsoft\Windows\WER\ReportArchive\NonCritical_Update;ScanForUp_395edf1936181cc1ae6dfcd44019b0e8079f57c_00000000_63a72db5-add5-484b-91f7-08764eb25f7b"
+[Warn  - 00:00:00](000000)Skipping broken link "\Users\All Users\Microsoft\Windows\WER\ReportArchive\NonCritical_Update;ScanForUp_94ec528086ded02c4214b53c83fa4c3a78537966_00000000_c12b6686-a285-4b2a-a973-2de8c64113b8"
+[Warn  - 00:00:00](000000)Skipping broken link "\Users\All Users\Microsoft\Windows\WER\ReportArchive\NonCritical_Update;ScanForUp_e0717865d0a250199e709217ac94f5c4c475445_00000000_f8d291df-e444-49db-9a67-caff86a526c5"
+[Warn  - 00:00:00](000000)Skipping broken link "\Users\All Users\Microsoft\Windows\WER\ReportArchive\NonCritical_Update;_5b66f8a813a86e527d2ff363d14f7271226b0_00000000_944b0eae-427a-4d8b-a83d-8c287af89f55"
+[Warn  - 00:00:00](000000)Skipping broken link "\Users\All Users\Microsoft\Windows\WER\ReportArchive\NonCritical_Update;_ef220e07b6b7516c8192c55e1faa1213ed16c2_00000000_95c2f3b4-a8af-4900-a029-d1442ca76338"
+[Warn  - 00:00:00](000000)Skipping broken link "\Users\All Users\Microsoft\Windows\WER\ReportArchive\NonCritical_VerifierFailure_889d216c91288a75c586debbe9c269c1617d9f0_00000000_12380066-475b-46b0-9ecf-14bd1c4f8958"
+[Warn  - 00:00:00](000000)Skipping broken link "\Users\All Users\Microsoft\Windows\WER\ReportArchive\NonCritical_VerifierFailure_889d216c91288a75c586debbe9c269c1617d9f0_00000000_2e840cd1-cc8e-4c0e-99f0-e94153625f44"
+[Warn  - 00:00:00](000000)Skipping broken link "\Users\All Users\Microsoft\Windows\WER\ReportArchive\NonCritical_VerifierFailure_889d216c91288a75c586debbe9c269c1617d9f0_00000000_b362d4f8-6ce1-4750-8f69-2d52ede266b1"
+[Warn  - 00:00:00](000000)Skipping broken link "\Users\All Users\Microsoft\Windows\WER\ReportArchive\NonCritical_VerifierFailure_889d216c91288a75c586debbe9c269c1617d9f0_00000000_b5afd4e2-68a7-4ad9-9382-54bafcb1d751"
+[Warn  - 00:00:00](000000)Skipping broken link "\Users\All Users\Microsoft\Windows\WER\ReportArchive\NonCritical_VerifierFailure_889d216c91288a75c586debbe9c269c1617d9f0_00000000_c4ca7168-26bf-4269-9d01-e57a0cee1ba7"
+[Warn  - 00:00:00](000000)Skipping broken link "\Users\All Users\Microsoft\Windows\WER\ReportArchive\NonCritical_VerifierFailure_889d216c91288a75c586debbe9c269c1617d9f0_00000000_f1b922d8-27e4-453d-85ea-43e8088bf7b9"
+[Warn  - 00:00:00](000000)Skipping broken link "\Users\All Users\Microsoft\Windows\WER\ReportArchive\NonCritical_unknown_d741f3791432bf44d1f8f38df7fadd96e2442dd_00000000_25355297-868e-4e55-8f8e-dd738e3d9d25"
+[Warn  - 00:00:00](000000)Skipping broken link "\Users\All Users\Microsoft\Windows\WER\ReportArchive\NonCritical_unknown_d741f3791432bf44d1f8f38df7fadd96e2442dd_00000000_dafe445d-8e59-4d50-b3d2-72afec6d9482"
+[Warn  - 00:00:00](000000)Skipping broken link "\Users\All Users\Microsoft\Windows\WindowsApps"
+[Warn  - 00:00:00](000000)Skipping broken link "\Users\All Users\Microsoft\Windows\wfp"
+[Warn  - 00:00:00](000000)Skipping broken link "\Users\All Users\Microsoft\Windows Defender\Clean Store"
+[Warn  - 00:00:00](000000)Skipping broken link "\Users\All Users\Microsoft\Windows Defender\Features"
+[Warn  - 00:00:00](000000)Skipping broken link "\Users\All Users\Microsoft\Windows Defender\LocalCopy"
+[Warn  - 00:00:00](000000)Skipping broken link "\Users\All Users\Microsoft\Windows Defender\Network Inspection System"
+[Warn  - 00:00:00](000000)Skipping broken link "\Users\All Users\Microsoft\Windows Defender\Platform\4.18.2205.7-0"
+[Warn  - 00:00:00](000000)Skipping broken link "\Users\All Users\Microsoft\Windows Defender\Quarantine"
+[Warn  - 00:00:00](000000)Skipping broken link "\Users\All Users\Microsoft\Windows Defender\Scans"
+[Warn  - 00:00:00](000000)Skipping broken link "\Users\All Users\Microsoft\Windows Defender\Support"
+[Warn  - 00:00:00](000000)Skipping broken link "\Users\All Users\Microsoft\Windows Defender Advanced Threat Protection\Cache"
+[Warn  - 00:00:00](000000)Skipping broken link "\Users\All Users\Microsoft\Windows Defender Advanced Threat Protection\Cyber"
+[Warn  - 00:00:00](000000)Skipping broken link "\Users\All Users\Microsoft\Windows Defender Advanced Threat Protection\DLP"
+[Warn  - 00:00:00](000000)Skipping broken link "\Users\All Users\Microsoft\Windows Defender Advanced Threat Protection\DataCollection"
+[Warn  - 00:00:00](000000)Skipping broken link "\Users\All Users\Microsoft\Windows Defender Advanced Threat Protection\Downloads"
+[Warn  - 00:00:00](000000)Skipping broken link "\Users\All Users\Microsoft\Windows Defender Advanced Threat Protection\SenseCM"
+[Warn  - 00:00:00](000000)Skipping broken link "\Users\All Users\Microsoft\Windows Defender Advanced Threat Protection\Temp\PSScriptOutputs"
+[Warn  - 00:00:00](000000)Skipping broken link "\Users\All Users\Microsoft\Windows Defender Advanced Threat Protection\Trace"
+[Warn  - 00:00:00](000000)Skipping broken link "\Users\All Users\Microsoft\Windows NT\MSFax"
+[Warn  - 00:00:00](000000)Skipping broken link "\Users\All Users\Packages"
+[Warn  - 00:00:00](000000)Skipping broken link "\Users\All Users\WindowsHolographicDevices"
+[Info  - 00:00:00](000000)Auto-excluding \Users\josverl\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0\LocalCache\Local\pypoetry\Cache\virtualenvs\pep-561-stubs-zCNYpJoi-py3.9
+[Warn  - 00:00:00](000000)Skipping broken link "\Users\josverl\AppData\Local\Temp\WinSAT"
+[Error - 00:00:00](000000)Enumeration of workspace source files is taking longer than 10 seconds.
 This may be because:
 * You have opened your home directory or entire hard drive as a workspace
 * Your workspace contains a very large number of directories and files
