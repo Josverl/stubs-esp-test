@@ -11,13 +11,10 @@
 		{
 			"name": "esp32",
 			"path": "./project_esp32"
-		},
-		// {
-		// 	"name": "MCU",
-		// 	"uri": "serial://com10/"
-		// }
+		}
 	],
 	"settings": {
-		"python.analysis.logLevel": "Trace"
+		"python.analysis.logLevel": "Trace",
+		"pymakr.devices.configs": []
 	}
 }

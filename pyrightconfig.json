@@ -1,0 +1,11 @@
+{
+    "exclude": [
+        "\\users\\**",
+        "\\ProgramData\\**",
+    ],
+    "ignore": [],
+    "include": [
+        "project_*",
+    ],
+    "verboseOutput": true,
+}
