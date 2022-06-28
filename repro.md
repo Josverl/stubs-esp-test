@@ -92,6 +92,14 @@ Notebook support: Legacy
 [Warn  - 12:39:24] (26416) Skipping broken link "\Program Files\WindowsApps"
 [Warn  - 12:39:25] (26416) Skipping broken link "\ProgramData\Microsoft\Crypto\PCPKSP\WindowsAIK"
 ....
+
+[Error - 12:47:03] (29996) Enumeration of workspace source files is taking longer than 10 seconds.
+This may be because:
+* You have opened your home directory or entire hard drive as a workspace
+* Your workspace contains a very large number of directories and files
+* Your workspace contains a symlink to a directory with many files
+* Your workspace is remote, and file enumeration is slow
+To reduce this time, open a workspace directory with fewer files or add a pyrightconfig.json configuration file with an "exclude" section to exclude subdirectories from your workspace. For more details, refer to https://github.com/microsoft/pyright/blob/
 ```
 
 * select 'F1 > [MemFs] Create Files' and notice how the explorer is now populated
